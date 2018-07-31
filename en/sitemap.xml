@@ -571,26 +571,6 @@
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/00/</loc>
-    <lastmod>2018-01-15T18:28:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/00/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/00/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/00/"
-                />
-  </url>
-  
-  <url>
     <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-12-30/</loc>
     <lastmod>2017-12-30T18:28:35+01:00</lastmod>
     <xhtml:link

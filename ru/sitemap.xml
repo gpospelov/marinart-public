@@ -3027,25 +3027,6 @@
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/ru/journal/00/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/00/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/00/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/00/"
-                />
-  </url>
-  
-  <url>
     <loc>https://gpospelov.github.io/marinart-public/ru/years/2011/</loc>
     <lastmod>2011-12-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
