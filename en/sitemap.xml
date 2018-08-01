@@ -3,3530 +3,3530 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/collection/</loc>
+    <loc>https://www.marinart.de/collection/</loc>
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/</loc>
+    <loc>https://www.marinart.de/albums/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/"
+                href="https://www.marinart.de/de/albums/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/"
+                href="https://www.marinart.de/ru/albums/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/"
+                href="https://www.marinart.de/albums/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/</loc>
+    <loc>https://www.marinart.de/journal/</loc>
     <lastmod>2018-06-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/"
+                href="https://www.marinart.de/de/journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/"
+                href="https://www.marinart.de/ru/journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/"
+                href="https://www.marinart.de/journal/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/munich/</loc>
+    <loc>https://www.marinart.de/albums/munich/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/munich/"
+                href="https://www.marinart.de/de/albums/munich/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/munich/"
+                href="https://www.marinart.de/ru/albums/munich/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/munich/"
+                href="https://www.marinart.de/albums/munich/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/acryl-ink/</loc>
+    <loc>https://www.marinart.de/albums/acryl-ink/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/acryl-ink/"
+                href="https://www.marinart.de/de/albums/acryl-ink/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/acryl-ink/"
+                href="https://www.marinart.de/ru/albums/acryl-ink/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/acryl-ink/"
+                href="https://www.marinart.de/albums/acryl-ink/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/automn-serie/</loc>
+    <loc>https://www.marinart.de/albums/automn-serie/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/automn-serie/"
+                href="https://www.marinart.de/de/albums/automn-serie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/automn-serie/"
+                href="https://www.marinart.de/ru/albums/automn-serie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/automn-serie/"
+                href="https://www.marinart.de/albums/automn-serie/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/composition/</loc>
+    <loc>https://www.marinart.de/albums/composition/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/composition/"
+                href="https://www.marinart.de/de/albums/composition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/composition/"
+                href="https://www.marinart.de/ru/albums/composition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/composition/"
+                href="https://www.marinart.de/albums/composition/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/still-life/</loc>
+    <loc>https://www.marinart.de/albums/still-life/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/still-life/"
+                href="https://www.marinart.de/de/albums/still-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/still-life/"
+                href="https://www.marinart.de/ru/albums/still-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/still-life/"
+                href="https://www.marinart.de/albums/still-life/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/otranto/</loc>
+    <loc>https://www.marinart.de/albums/otranto/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/otranto/"
+                href="https://www.marinart.de/de/albums/otranto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/otranto/"
+                href="https://www.marinart.de/ru/albums/otranto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/otranto/"
+                href="https://www.marinart.de/albums/otranto/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/portrait/</loc>
+    <loc>https://www.marinart.de/albums/portrait/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/portrait/"
+                href="https://www.marinart.de/de/albums/portrait/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/portrait/"
+                href="https://www.marinart.de/ru/albums/portrait/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/portrait/"
+                href="https://www.marinart.de/albums/portrait/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/landscape/</loc>
+    <loc>https://www.marinart.de/albums/landscape/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/landscape/"
+                href="https://www.marinart.de/de/albums/landscape/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/landscape/"
+                href="https://www.marinart.de/ru/albums/landscape/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/landscape/"
+                href="https://www.marinart.de/albums/landscape/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/mediterranean/</loc>
+    <loc>https://www.marinart.de/albums/mediterranean/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/mediterranean/"
+                href="https://www.marinart.de/de/albums/mediterranean/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/mediterranean/"
+                href="https://www.marinart.de/ru/albums/mediterranean/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/mediterranean/"
+                href="https://www.marinart.de/albums/mediterranean/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/water-color-nature/</loc>
+    <loc>https://www.marinart.de/albums/water-color-nature/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/water-color-nature/"
+                href="https://www.marinart.de/de/albums/water-color-nature/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/water-color-nature/"
+                href="https://www.marinart.de/ru/albums/water-color-nature/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/water-color-nature/"
+                href="https://www.marinart.de/albums/water-color-nature/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/acryl-flowers/</loc>
+    <loc>https://www.marinart.de/albums/acryl-flowers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/acryl-flowers/"
+                href="https://www.marinart.de/de/albums/acryl-flowers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/acryl-flowers/"
+                href="https://www.marinart.de/ru/albums/acryl-flowers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/acryl-flowers/"
+                href="https://www.marinart.de/albums/acryl-flowers/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/model/</loc>
+    <loc>https://www.marinart.de/albums/model/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/model/"
+                href="https://www.marinart.de/de/albums/model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/model/"
+                href="https://www.marinart.de/ru/albums/model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/model/"
+                href="https://www.marinart.de/albums/model/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/normandie/</loc>
+    <loc>https://www.marinart.de/albums/normandie/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/normandie/"
+                href="https://www.marinart.de/de/albums/normandie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/normandie/"
+                href="https://www.marinart.de/ru/albums/normandie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/normandie/"
+                href="https://www.marinart.de/albums/normandie/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/april-animals/</loc>
+    <loc>https://www.marinart.de/albums/april-animals/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/april-animals/"
+                href="https://www.marinart.de/de/albums/april-animals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/april-animals/"
+                href="https://www.marinart.de/ru/albums/april-animals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/april-animals/"
+                href="https://www.marinart.de/albums/april-animals/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/albums/illustration/</loc>
+    <loc>https://www.marinart.de/albums/illustration/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/albums/illustration/"
+                href="https://www.marinart.de/de/albums/illustration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/albums/illustration/"
+                href="https://www.marinart.de/ru/albums/illustration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/albums/illustration/"
+                href="https://www.marinart.de/albums/illustration/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-06-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-06-20/</loc>
     <lastmod>2018-06-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-06-20/"
+                href="https://www.marinart.de/de/journal/post-2018-06-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-06-20/"
+                href="https://www.marinart.de/ru/journal/post-2018-06-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-06-20/"
+                href="https://www.marinart.de/journal/post-2018-06-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-06-15/</loc>
     <lastmod>2018-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-06-15/"
+                href="https://www.marinart.de/de/journal/post-2018-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2018-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-06-15/"
+                href="https://www.marinart.de/journal/post-2018-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-06-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-06-10/</loc>
     <lastmod>2018-06-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-06-10/"
+                href="https://www.marinart.de/de/journal/post-2018-06-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-06-10/"
+                href="https://www.marinart.de/ru/journal/post-2018-06-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-06-10/"
+                href="https://www.marinart.de/journal/post-2018-06-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-05-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-05-25/</loc>
     <lastmod>2018-05-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-05-25/"
+                href="https://www.marinart.de/de/journal/post-2018-05-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-05-25/"
+                href="https://www.marinart.de/ru/journal/post-2018-05-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-05-25/"
+                href="https://www.marinart.de/journal/post-2018-05-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-05-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-05-20/</loc>
     <lastmod>2018-05-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-05-20/"
+                href="https://www.marinart.de/de/journal/post-2018-05-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-05-20/"
+                href="https://www.marinart.de/ru/journal/post-2018-05-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-05-20/"
+                href="https://www.marinart.de/journal/post-2018-05-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-05-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-05-15/</loc>
     <lastmod>2018-05-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-05-15/"
+                href="https://www.marinart.de/de/journal/post-2018-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-05-15/"
+                href="https://www.marinart.de/ru/journal/post-2018-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-05-15/"
+                href="https://www.marinart.de/journal/post-2018-05-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-04-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-04-20/</loc>
     <lastmod>2018-04-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-04-20/"
+                href="https://www.marinart.de/de/journal/post-2018-04-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-04-20/"
+                href="https://www.marinart.de/ru/journal/post-2018-04-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-04-20/"
+                href="https://www.marinart.de/journal/post-2018-04-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-04-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-04-15/</loc>
     <lastmod>2018-04-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-04-15/"
+                href="https://www.marinart.de/de/journal/post-2018-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-04-15/"
+                href="https://www.marinart.de/ru/journal/post-2018-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-04-15/"
+                href="https://www.marinart.de/journal/post-2018-04-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-04-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-04-10/</loc>
     <lastmod>2018-04-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-04-10/"
+                href="https://www.marinart.de/de/journal/post-2018-04-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-04-10/"
+                href="https://www.marinart.de/ru/journal/post-2018-04-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-04-10/"
+                href="https://www.marinart.de/journal/post-2018-04-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-04-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-04-05/</loc>
     <lastmod>2018-04-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-04-05/"
+                href="https://www.marinart.de/de/journal/post-2018-04-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-04-05/"
+                href="https://www.marinart.de/ru/journal/post-2018-04-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-04-05/"
+                href="https://www.marinart.de/journal/post-2018-04-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-03-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-03-15/</loc>
     <lastmod>2018-03-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-03-15/"
+                href="https://www.marinart.de/de/journal/post-2018-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-03-15/"
+                href="https://www.marinart.de/ru/journal/post-2018-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-03-15/"
+                href="https://www.marinart.de/journal/post-2018-03-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2018-03-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2018-03-05/</loc>
     <lastmod>2018-03-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2018-03-05/"
+                href="https://www.marinart.de/de/journal/post-2018-03-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2018-03-05/"
+                href="https://www.marinart.de/ru/journal/post-2018-03-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2018-03-05/"
+                href="https://www.marinart.de/journal/post-2018-03-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-12-30/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-12-30/</loc>
     <lastmod>2017-12-30T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-12-30/"
+                href="https://www.marinart.de/de/journal/post-2017-12-30/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-12-30/"
+                href="https://www.marinart.de/ru/journal/post-2017-12-30/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-12-30/"
+                href="https://www.marinart.de/journal/post-2017-12-30/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-12-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-12-15/</loc>
     <lastmod>2017-12-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-12-15/"
+                href="https://www.marinart.de/de/journal/post-2017-12-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-12-15/"
+                href="https://www.marinart.de/ru/journal/post-2017-12-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-12-15/"
+                href="https://www.marinart.de/journal/post-2017-12-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-09-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-09-15/</loc>
     <lastmod>2017-09-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-09-15/"
+                href="https://www.marinart.de/de/journal/post-2017-09-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-09-15/"
+                href="https://www.marinart.de/ru/journal/post-2017-09-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-09-15/"
+                href="https://www.marinart.de/journal/post-2017-09-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-08-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-08-20/</loc>
     <lastmod>2017-08-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-08-20/"
+                href="https://www.marinart.de/de/journal/post-2017-08-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-08-20/"
+                href="https://www.marinart.de/ru/journal/post-2017-08-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-08-20/"
+                href="https://www.marinart.de/journal/post-2017-08-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-08-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-08-05/</loc>
     <lastmod>2017-08-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-08-05/"
+                href="https://www.marinart.de/de/journal/post-2017-08-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-08-05/"
+                href="https://www.marinart.de/ru/journal/post-2017-08-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-08-05/"
+                href="https://www.marinart.de/journal/post-2017-08-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-07-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-07-15/</loc>
     <lastmod>2017-07-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-07-15/"
+                href="https://www.marinart.de/de/journal/post-2017-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-07-15/"
+                href="https://www.marinart.de/ru/journal/post-2017-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-07-15/"
+                href="https://www.marinart.de/journal/post-2017-07-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-06-15/</loc>
     <lastmod>2017-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-06-15/"
+                href="https://www.marinart.de/de/journal/post-2017-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2017-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-06-15/"
+                href="https://www.marinart.de/journal/post-2017-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-05-01/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-05-01/</loc>
     <lastmod>2017-05-01T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-05-01/"
+                href="https://www.marinart.de/de/journal/post-2017-05-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-05-01/"
+                href="https://www.marinart.de/ru/journal/post-2017-05-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-05-01/"
+                href="https://www.marinart.de/journal/post-2017-05-01/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-04-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-04-15/</loc>
     <lastmod>2017-04-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-04-15/"
+                href="https://www.marinart.de/de/journal/post-2017-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-04-15/"
+                href="https://www.marinart.de/ru/journal/post-2017-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-04-15/"
+                href="https://www.marinart.de/journal/post-2017-04-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-04-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-04-10/</loc>
     <lastmod>2017-04-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-04-10/"
+                href="https://www.marinart.de/de/journal/post-2017-04-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-04-10/"
+                href="https://www.marinart.de/ru/journal/post-2017-04-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-04-10/"
+                href="https://www.marinart.de/journal/post-2017-04-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-04-01/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-04-01/</loc>
     <lastmod>2017-04-01T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-04-01/"
+                href="https://www.marinart.de/de/journal/post-2017-04-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-04-01/"
+                href="https://www.marinart.de/ru/journal/post-2017-04-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-04-01/"
+                href="https://www.marinart.de/journal/post-2017-04-01/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-02-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-02-15/</loc>
     <lastmod>2017-02-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-02-15/"
+                href="https://www.marinart.de/de/journal/post-2017-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-02-15/"
+                href="https://www.marinart.de/ru/journal/post-2017-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-02-15/"
+                href="https://www.marinart.de/journal/post-2017-02-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2017-02-01/</loc>
+    <loc>https://www.marinart.de/journal/post-2017-02-01/</loc>
     <lastmod>2017-02-01T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2017-02-01/"
+                href="https://www.marinart.de/de/journal/post-2017-02-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2017-02-01/"
+                href="https://www.marinart.de/ru/journal/post-2017-02-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2017-02-01/"
+                href="https://www.marinart.de/journal/post-2017-02-01/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-11-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-11-15/</loc>
     <lastmod>2016-11-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-11-15/"
+                href="https://www.marinart.de/de/journal/post-2016-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-11-15/"
+                href="https://www.marinart.de/ru/journal/post-2016-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-11-15/"
+                href="https://www.marinart.de/journal/post-2016-11-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-11-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-11-05/</loc>
     <lastmod>2016-11-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-11-05/"
+                href="https://www.marinart.de/de/journal/post-2016-11-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-11-05/"
+                href="https://www.marinart.de/ru/journal/post-2016-11-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-11-05/"
+                href="https://www.marinart.de/journal/post-2016-11-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-10-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-10-25/</loc>
     <lastmod>2016-10-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-10-25/"
+                href="https://www.marinart.de/de/journal/post-2016-10-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-10-25/"
+                href="https://www.marinart.de/ru/journal/post-2016-10-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-10-25/"
+                href="https://www.marinart.de/journal/post-2016-10-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-10-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-10-20/</loc>
     <lastmod>2016-10-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-10-20/"
+                href="https://www.marinart.de/de/journal/post-2016-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-10-20/"
+                href="https://www.marinart.de/ru/journal/post-2016-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-10-20/"
+                href="https://www.marinart.de/journal/post-2016-10-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-10-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-10-10/</loc>
     <lastmod>2016-10-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-10-10/"
+                href="https://www.marinart.de/de/journal/post-2016-10-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-10-10/"
+                href="https://www.marinart.de/ru/journal/post-2016-10-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-10-10/"
+                href="https://www.marinart.de/journal/post-2016-10-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-10-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-10-05/</loc>
     <lastmod>2016-10-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-10-05/"
+                href="https://www.marinart.de/de/journal/post-2016-10-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-10-05/"
+                href="https://www.marinart.de/ru/journal/post-2016-10-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-10-05/"
+                href="https://www.marinart.de/journal/post-2016-10-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-09-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-09-10/</loc>
     <lastmod>2016-09-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-09-10/"
+                href="https://www.marinart.de/de/journal/post-2016-09-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-09-10/"
+                href="https://www.marinart.de/ru/journal/post-2016-09-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-09-10/"
+                href="https://www.marinart.de/journal/post-2016-09-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-09-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-09-05/</loc>
     <lastmod>2016-09-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-09-05/"
+                href="https://www.marinart.de/de/journal/post-2016-09-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-09-05/"
+                href="https://www.marinart.de/ru/journal/post-2016-09-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-09-05/"
+                href="https://www.marinart.de/journal/post-2016-09-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-08-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-08-15/</loc>
     <lastmod>2016-08-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-08-15/"
+                href="https://www.marinart.de/de/journal/post-2016-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-08-15/"
+                href="https://www.marinart.de/ru/journal/post-2016-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-08-15/"
+                href="https://www.marinart.de/journal/post-2016-08-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-06-15/</loc>
     <lastmod>2016-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-06-15/"
+                href="https://www.marinart.de/de/journal/post-2016-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2016-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-06-15/"
+                href="https://www.marinart.de/journal/post-2016-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-05-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-05-25/</loc>
     <lastmod>2016-05-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-05-25/"
+                href="https://www.marinart.de/de/journal/post-2016-05-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-05-25/"
+                href="https://www.marinart.de/ru/journal/post-2016-05-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-05-25/"
+                href="https://www.marinart.de/journal/post-2016-05-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-05-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-05-20/</loc>
     <lastmod>2016-05-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-05-20/"
+                href="https://www.marinart.de/de/journal/post-2016-05-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-05-20/"
+                href="https://www.marinart.de/ru/journal/post-2016-05-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-05-20/"
+                href="https://www.marinart.de/journal/post-2016-05-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-05-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-05-15/</loc>
     <lastmod>2016-05-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-05-15/"
+                href="https://www.marinart.de/de/journal/post-2016-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-05-15/"
+                href="https://www.marinart.de/ru/journal/post-2016-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-05-15/"
+                href="https://www.marinart.de/journal/post-2016-05-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-05-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-05-10/</loc>
     <lastmod>2016-05-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-05-10/"
+                href="https://www.marinart.de/de/journal/post-2016-05-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-05-10/"
+                href="https://www.marinart.de/ru/journal/post-2016-05-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-05-10/"
+                href="https://www.marinart.de/journal/post-2016-05-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-04-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-04-15/</loc>
     <lastmod>2016-04-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-04-15/"
+                href="https://www.marinart.de/de/journal/post-2016-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-04-15/"
+                href="https://www.marinart.de/ru/journal/post-2016-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-04-15/"
+                href="https://www.marinart.de/journal/post-2016-04-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-04-01/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-04-01/</loc>
     <lastmod>2016-04-01T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-04-01/"
+                href="https://www.marinart.de/de/journal/post-2016-04-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-04-01/"
+                href="https://www.marinart.de/ru/journal/post-2016-04-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-04-01/"
+                href="https://www.marinart.de/journal/post-2016-04-01/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-03-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-03-15/</loc>
     <lastmod>2016-03-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-03-15/"
+                href="https://www.marinart.de/de/journal/post-2016-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-03-15/"
+                href="https://www.marinart.de/ru/journal/post-2016-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-03-15/"
+                href="https://www.marinart.de/journal/post-2016-03-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-03-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-03-05/</loc>
     <lastmod>2016-03-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-03-05/"
+                href="https://www.marinart.de/de/journal/post-2016-03-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-03-05/"
+                href="https://www.marinart.de/ru/journal/post-2016-03-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-03-05/"
+                href="https://www.marinart.de/journal/post-2016-03-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2016-02-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2016-02-15/</loc>
     <lastmod>2016-02-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2016-02-15/"
+                href="https://www.marinart.de/de/journal/post-2016-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2016-02-15/"
+                href="https://www.marinart.de/ru/journal/post-2016-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2016-02-15/"
+                href="https://www.marinart.de/journal/post-2016-02-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-11-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-11-15/</loc>
     <lastmod>2015-11-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-11-15/"
+                href="https://www.marinart.de/de/journal/post-2015-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-11-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-11-15/"
+                href="https://www.marinart.de/journal/post-2015-11-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-10-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-10-25/</loc>
     <lastmod>2015-10-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-10-25/"
+                href="https://www.marinart.de/de/journal/post-2015-10-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-10-25/"
+                href="https://www.marinart.de/ru/journal/post-2015-10-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-10-25/"
+                href="https://www.marinart.de/journal/post-2015-10-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-10-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-10-20/</loc>
     <lastmod>2015-10-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-10-20/"
+                href="https://www.marinart.de/de/journal/post-2015-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-10-20/"
+                href="https://www.marinart.de/ru/journal/post-2015-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-10-20/"
+                href="https://www.marinart.de/journal/post-2015-10-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-10-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-10-15/</loc>
     <lastmod>2015-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-10-15/"
+                href="https://www.marinart.de/de/journal/post-2015-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-10-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-10-15/"
+                href="https://www.marinart.de/journal/post-2015-10-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-10-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-10-10/</loc>
     <lastmod>2015-10-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-10-10/"
+                href="https://www.marinart.de/de/journal/post-2015-10-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-10-10/"
+                href="https://www.marinart.de/ru/journal/post-2015-10-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-10-10/"
+                href="https://www.marinart.de/journal/post-2015-10-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-10-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-10-05/</loc>
     <lastmod>2015-10-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-10-05/"
+                href="https://www.marinart.de/de/journal/post-2015-10-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-10-05/"
+                href="https://www.marinart.de/ru/journal/post-2015-10-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-10-05/"
+                href="https://www.marinart.de/journal/post-2015-10-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-10-01/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-10-01/</loc>
     <lastmod>2015-10-01T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-10-01/"
+                href="https://www.marinart.de/de/journal/post-2015-10-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-10-01/"
+                href="https://www.marinart.de/ru/journal/post-2015-10-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-10-01/"
+                href="https://www.marinart.de/journal/post-2015-10-01/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-08-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-08-15/</loc>
     <lastmod>2015-08-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-08-15/"
+                href="https://www.marinart.de/de/journal/post-2015-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-08-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-08-15/"
+                href="https://www.marinart.de/journal/post-2015-08-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-08-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-08-10/</loc>
     <lastmod>2015-08-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-08-10/"
+                href="https://www.marinart.de/de/journal/post-2015-08-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-08-10/"
+                href="https://www.marinart.de/ru/journal/post-2015-08-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-08-10/"
+                href="https://www.marinart.de/journal/post-2015-08-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-07-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-07-15/</loc>
     <lastmod>2015-07-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-07-15/"
+                href="https://www.marinart.de/de/journal/post-2015-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-07-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-07-15/"
+                href="https://www.marinart.de/journal/post-2015-07-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-06-15/</loc>
     <lastmod>2015-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-06-15/"
+                href="https://www.marinart.de/de/journal/post-2015-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-06-15/"
+                href="https://www.marinart.de/journal/post-2015-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-06-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-06-05/</loc>
     <lastmod>2015-06-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-06-05/"
+                href="https://www.marinart.de/de/journal/post-2015-06-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-06-05/"
+                href="https://www.marinart.de/ru/journal/post-2015-06-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-06-05/"
+                href="https://www.marinart.de/journal/post-2015-06-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-04-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-04-15/</loc>
     <lastmod>2015-04-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-04-15/"
+                href="https://www.marinart.de/de/journal/post-2015-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-04-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-04-15/"
+                href="https://www.marinart.de/journal/post-2015-04-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-03-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-03-15/</loc>
     <lastmod>2015-03-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-03-15/"
+                href="https://www.marinart.de/de/journal/post-2015-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-03-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-03-15/"
+                href="https://www.marinart.de/journal/post-2015-03-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-02-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-02-15/</loc>
     <lastmod>2015-02-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-02-15/"
+                href="https://www.marinart.de/de/journal/post-2015-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-02-15/"
+                href="https://www.marinart.de/ru/journal/post-2015-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-02-15/"
+                href="https://www.marinart.de/journal/post-2015-02-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2015-02-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2015-02-05/</loc>
     <lastmod>2015-02-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2015-02-05/"
+                href="https://www.marinart.de/de/journal/post-2015-02-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2015-02-05/"
+                href="https://www.marinart.de/ru/journal/post-2015-02-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2015-02-05/"
+                href="https://www.marinart.de/journal/post-2015-02-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-12-01/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-12-01/</loc>
     <lastmod>2014-12-01T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-12-01/"
+                href="https://www.marinart.de/de/journal/post-2014-12-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-12-01/"
+                href="https://www.marinart.de/ru/journal/post-2014-12-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-12-01/"
+                href="https://www.marinart.de/journal/post-2014-12-01/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-10-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-10-15/</loc>
     <lastmod>2014-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-10-15/"
+                href="https://www.marinart.de/de/journal/post-2014-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-10-15/"
+                href="https://www.marinart.de/ru/journal/post-2014-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-10-15/"
+                href="https://www.marinart.de/journal/post-2014-10-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-09-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-09-20/</loc>
     <lastmod>2014-09-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-09-20/"
+                href="https://www.marinart.de/de/journal/post-2014-09-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-09-20/"
+                href="https://www.marinart.de/ru/journal/post-2014-09-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-09-20/"
+                href="https://www.marinart.de/journal/post-2014-09-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-09-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-09-15/</loc>
     <lastmod>2014-09-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-09-15/"
+                href="https://www.marinart.de/de/journal/post-2014-09-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-09-15/"
+                href="https://www.marinart.de/ru/journal/post-2014-09-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-09-15/"
+                href="https://www.marinart.de/journal/post-2014-09-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-09-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-09-10/</loc>
     <lastmod>2014-09-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-09-10/"
+                href="https://www.marinart.de/de/journal/post-2014-09-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-09-10/"
+                href="https://www.marinart.de/ru/journal/post-2014-09-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-09-10/"
+                href="https://www.marinart.de/journal/post-2014-09-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-09-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-09-05/</loc>
     <lastmod>2014-09-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-09-05/"
+                href="https://www.marinart.de/de/journal/post-2014-09-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-09-05/"
+                href="https://www.marinart.de/ru/journal/post-2014-09-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-09-05/"
+                href="https://www.marinart.de/journal/post-2014-09-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-06-15/</loc>
     <lastmod>2014-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-06-15/"
+                href="https://www.marinart.de/de/journal/post-2014-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2014-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-06-15/"
+                href="https://www.marinart.de/journal/post-2014-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-06-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-06-10/</loc>
     <lastmod>2014-06-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-06-10/"
+                href="https://www.marinart.de/de/journal/post-2014-06-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-06-10/"
+                href="https://www.marinart.de/ru/journal/post-2014-06-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-06-10/"
+                href="https://www.marinart.de/journal/post-2014-06-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-05-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-05-15/</loc>
     <lastmod>2014-05-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-05-15/"
+                href="https://www.marinart.de/de/journal/post-2014-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-05-15/"
+                href="https://www.marinart.de/ru/journal/post-2014-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-05-15/"
+                href="https://www.marinart.de/journal/post-2014-05-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2014-03-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2014-03-15/</loc>
     <lastmod>2014-03-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2014-03-15/"
+                href="https://www.marinart.de/de/journal/post-2014-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2014-03-15/"
+                href="https://www.marinart.de/ru/journal/post-2014-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2014-03-15/"
+                href="https://www.marinart.de/journal/post-2014-03-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-11-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-11-15/</loc>
     <lastmod>2013-11-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-11-15/"
+                href="https://www.marinart.de/de/journal/post-2013-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-11-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-11-15/"
+                href="https://www.marinart.de/journal/post-2013-11-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-10-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-10-20/</loc>
     <lastmod>2013-10-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-10-20/"
+                href="https://www.marinart.de/de/journal/post-2013-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-10-20/"
+                href="https://www.marinart.de/ru/journal/post-2013-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-10-20/"
+                href="https://www.marinart.de/journal/post-2013-10-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-10-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-10-15/</loc>
     <lastmod>2013-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-10-15/"
+                href="https://www.marinart.de/de/journal/post-2013-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-10-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-10-15/"
+                href="https://www.marinart.de/journal/post-2013-10-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-10-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-10-05/</loc>
     <lastmod>2013-10-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-10-05/"
+                href="https://www.marinart.de/de/journal/post-2013-10-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-10-05/"
+                href="https://www.marinart.de/ru/journal/post-2013-10-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-10-05/"
+                href="https://www.marinart.de/journal/post-2013-10-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-08-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-08-15/</loc>
     <lastmod>2013-08-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-08-15/"
+                href="https://www.marinart.de/de/journal/post-2013-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-08-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-08-15/"
+                href="https://www.marinart.de/journal/post-2013-08-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-07-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-07-15/</loc>
     <lastmod>2013-07-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-07-15/"
+                href="https://www.marinart.de/de/journal/post-2013-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-07-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-07-15/"
+                href="https://www.marinart.de/journal/post-2013-07-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-07-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-07-10/</loc>
     <lastmod>2013-07-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-07-10/"
+                href="https://www.marinart.de/de/journal/post-2013-07-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-07-10/"
+                href="https://www.marinart.de/ru/journal/post-2013-07-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-07-10/"
+                href="https://www.marinart.de/journal/post-2013-07-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-06-15/</loc>
     <lastmod>2013-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-06-15/"
+                href="https://www.marinart.de/de/journal/post-2013-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-06-15/"
+                href="https://www.marinart.de/journal/post-2013-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-06-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-06-10/</loc>
     <lastmod>2013-06-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-06-10/"
+                href="https://www.marinart.de/de/journal/post-2013-06-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-06-10/"
+                href="https://www.marinart.de/ru/journal/post-2013-06-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-06-10/"
+                href="https://www.marinart.de/journal/post-2013-06-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-05-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-05-15/</loc>
     <lastmod>2013-05-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-05-15/"
+                href="https://www.marinart.de/de/journal/post-2013-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-05-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-05-15/"
+                href="https://www.marinart.de/journal/post-2013-05-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-04-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-04-15/</loc>
     <lastmod>2013-04-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-04-15/"
+                href="https://www.marinart.de/de/journal/post-2013-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-04-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-04-15/"
+                href="https://www.marinart.de/journal/post-2013-04-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-04-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-04-10/</loc>
     <lastmod>2013-04-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-04-10/"
+                href="https://www.marinart.de/de/journal/post-2013-04-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-04-10/"
+                href="https://www.marinart.de/ru/journal/post-2013-04-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-04-10/"
+                href="https://www.marinart.de/journal/post-2013-04-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-03-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-03-15/</loc>
     <lastmod>2013-03-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-03-15/"
+                href="https://www.marinart.de/de/journal/post-2013-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-03-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-03-15/"
+                href="https://www.marinart.de/journal/post-2013-03-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-03-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-03-10/</loc>
     <lastmod>2013-03-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-03-10/"
+                href="https://www.marinart.de/de/journal/post-2013-03-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-03-10/"
+                href="https://www.marinart.de/ru/journal/post-2013-03-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-03-10/"
+                href="https://www.marinart.de/journal/post-2013-03-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-02-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-02-15/</loc>
     <lastmod>2013-02-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-02-15/"
+                href="https://www.marinart.de/de/journal/post-2013-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-02-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-02-15/"
+                href="https://www.marinart.de/journal/post-2013-02-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-02-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-02-10/</loc>
     <lastmod>2013-02-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-02-10/"
+                href="https://www.marinart.de/de/journal/post-2013-02-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-02-10/"
+                href="https://www.marinart.de/ru/journal/post-2013-02-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-02-10/"
+                href="https://www.marinart.de/journal/post-2013-02-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2013-01-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2013-01-15/</loc>
     <lastmod>2013-01-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2013-01-15/"
+                href="https://www.marinart.de/de/journal/post-2013-01-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2013-01-15/"
+                href="https://www.marinart.de/ru/journal/post-2013-01-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2013-01-15/"
+                href="https://www.marinart.de/journal/post-2013-01-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-11-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-11-25/</loc>
     <lastmod>2012-11-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-11-25/"
+                href="https://www.marinart.de/de/journal/post-2012-11-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-11-25/"
+                href="https://www.marinart.de/ru/journal/post-2012-11-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-11-25/"
+                href="https://www.marinart.de/journal/post-2012-11-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-11-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-11-20/</loc>
     <lastmod>2012-11-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-11-20/"
+                href="https://www.marinart.de/de/journal/post-2012-11-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-11-20/"
+                href="https://www.marinart.de/ru/journal/post-2012-11-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-11-20/"
+                href="https://www.marinart.de/journal/post-2012-11-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-11-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-11-15/</loc>
     <lastmod>2012-11-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-11-15/"
+                href="https://www.marinart.de/de/journal/post-2012-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-11-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-11-15/"
+                href="https://www.marinart.de/journal/post-2012-11-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-11-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-11-10/</loc>
     <lastmod>2012-11-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-11-10/"
+                href="https://www.marinart.de/de/journal/post-2012-11-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-11-10/"
+                href="https://www.marinart.de/ru/journal/post-2012-11-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-11-10/"
+                href="https://www.marinart.de/journal/post-2012-11-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-11-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-11-05/</loc>
     <lastmod>2012-11-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-11-05/"
+                href="https://www.marinart.de/de/journal/post-2012-11-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-11-05/"
+                href="https://www.marinart.de/ru/journal/post-2012-11-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-11-05/"
+                href="https://www.marinart.de/journal/post-2012-11-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-10-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-10-15/</loc>
     <lastmod>2012-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-10-15/"
+                href="https://www.marinart.de/de/journal/post-2012-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-10-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-10-15/"
+                href="https://www.marinart.de/journal/post-2012-10-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-08-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-08-15/</loc>
     <lastmod>2012-08-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-08-15/"
+                href="https://www.marinart.de/de/journal/post-2012-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-08-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-08-15/"
+                href="https://www.marinart.de/journal/post-2012-08-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-08-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-08-10/</loc>
     <lastmod>2012-08-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-08-10/"
+                href="https://www.marinart.de/de/journal/post-2012-08-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-08-10/"
+                href="https://www.marinart.de/ru/journal/post-2012-08-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-08-10/"
+                href="https://www.marinart.de/journal/post-2012-08-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-07-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-07-15/</loc>
     <lastmod>2012-07-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-07-15/"
+                href="https://www.marinart.de/de/journal/post-2012-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-07-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-07-15/"
+                href="https://www.marinart.de/journal/post-2012-07-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-06-15/</loc>
     <lastmod>2012-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-06-15/"
+                href="https://www.marinart.de/de/journal/post-2012-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-06-15/"
+                href="https://www.marinart.de/journal/post-2012-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-05-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-05-20/</loc>
     <lastmod>2012-05-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-05-20/"
+                href="https://www.marinart.de/de/journal/post-2012-05-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-05-20/"
+                href="https://www.marinart.de/ru/journal/post-2012-05-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-05-20/"
+                href="https://www.marinart.de/journal/post-2012-05-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-05-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-05-15/</loc>
     <lastmod>2012-05-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-05-15/"
+                href="https://www.marinart.de/de/journal/post-2012-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-05-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-05-15/"
+                href="https://www.marinart.de/journal/post-2012-05-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-05-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-05-10/</loc>
     <lastmod>2012-05-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-05-10/"
+                href="https://www.marinart.de/de/journal/post-2012-05-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-05-10/"
+                href="https://www.marinart.de/ru/journal/post-2012-05-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-05-10/"
+                href="https://www.marinart.de/journal/post-2012-05-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-05-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-05-05/</loc>
     <lastmod>2012-05-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-05-05/"
+                href="https://www.marinart.de/de/journal/post-2012-05-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-05-05/"
+                href="https://www.marinart.de/ru/journal/post-2012-05-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-05-05/"
+                href="https://www.marinart.de/journal/post-2012-05-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-04-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-04-20/</loc>
     <lastmod>2012-04-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-04-20/"
+                href="https://www.marinart.de/de/journal/post-2012-04-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-04-20/"
+                href="https://www.marinart.de/ru/journal/post-2012-04-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-04-20/"
+                href="https://www.marinart.de/journal/post-2012-04-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-04-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-04-15/</loc>
     <lastmod>2012-04-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-04-15/"
+                href="https://www.marinart.de/de/journal/post-2012-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-04-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-04-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-04-15/"
+                href="https://www.marinart.de/journal/post-2012-04-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-03-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-03-20/</loc>
     <lastmod>2012-03-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-03-20/"
+                href="https://www.marinart.de/de/journal/post-2012-03-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-03-20/"
+                href="https://www.marinart.de/ru/journal/post-2012-03-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-03-20/"
+                href="https://www.marinart.de/journal/post-2012-03-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-03-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-03-15/</loc>
     <lastmod>2012-03-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-03-15/"
+                href="https://www.marinart.de/de/journal/post-2012-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-03-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-03-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-03-15/"
+                href="https://www.marinart.de/journal/post-2012-03-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-03-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-03-10/</loc>
     <lastmod>2012-03-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-03-10/"
+                href="https://www.marinart.de/de/journal/post-2012-03-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-03-10/"
+                href="https://www.marinart.de/ru/journal/post-2012-03-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-03-10/"
+                href="https://www.marinart.de/journal/post-2012-03-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-02-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-02-15/</loc>
     <lastmod>2012-02-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-02-15/"
+                href="https://www.marinart.de/de/journal/post-2012-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-02-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-02-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-02-15/"
+                href="https://www.marinart.de/journal/post-2012-02-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-01-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-01-25/</loc>
     <lastmod>2012-01-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-01-25/"
+                href="https://www.marinart.de/de/journal/post-2012-01-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-01-25/"
+                href="https://www.marinart.de/ru/journal/post-2012-01-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-01-25/"
+                href="https://www.marinart.de/journal/post-2012-01-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-01-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-01-20/</loc>
     <lastmod>2012-01-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-01-20/"
+                href="https://www.marinart.de/de/journal/post-2012-01-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-01-20/"
+                href="https://www.marinart.de/ru/journal/post-2012-01-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-01-20/"
+                href="https://www.marinart.de/journal/post-2012-01-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-01-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-01-15/</loc>
     <lastmod>2012-01-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-01-15/"
+                href="https://www.marinart.de/de/journal/post-2012-01-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-01-15/"
+                href="https://www.marinart.de/ru/journal/post-2012-01-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-01-15/"
+                href="https://www.marinart.de/journal/post-2012-01-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2012-01-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2012-01-10/</loc>
     <lastmod>2012-01-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2012-01-10/"
+                href="https://www.marinart.de/de/journal/post-2012-01-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2012-01-10/"
+                href="https://www.marinart.de/ru/journal/post-2012-01-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2012-01-10/"
+                href="https://www.marinart.de/journal/post-2012-01-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-12-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-12-15/</loc>
     <lastmod>2011-12-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-12-15/"
+                href="https://www.marinart.de/de/journal/post-2011-12-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-12-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-12-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-12-15/"
+                href="https://www.marinart.de/journal/post-2011-12-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-11-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-11-25/</loc>
     <lastmod>2011-11-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-11-25/"
+                href="https://www.marinart.de/de/journal/post-2011-11-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-11-25/"
+                href="https://www.marinart.de/ru/journal/post-2011-11-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-11-25/"
+                href="https://www.marinart.de/journal/post-2011-11-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-11-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-11-20/</loc>
     <lastmod>2011-11-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-11-20/"
+                href="https://www.marinart.de/de/journal/post-2011-11-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-11-20/"
+                href="https://www.marinart.de/ru/journal/post-2011-11-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-11-20/"
+                href="https://www.marinart.de/journal/post-2011-11-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-11-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-11-15/</loc>
     <lastmod>2011-11-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-11-15/"
+                href="https://www.marinart.de/de/journal/post-2011-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-11-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-11-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-11-15/"
+                href="https://www.marinart.de/journal/post-2011-11-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-11-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-11-10/</loc>
     <lastmod>2011-11-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-11-10/"
+                href="https://www.marinart.de/de/journal/post-2011-11-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-11-10/"
+                href="https://www.marinart.de/ru/journal/post-2011-11-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-11-10/"
+                href="https://www.marinart.de/journal/post-2011-11-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-11-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-11-05/</loc>
     <lastmod>2011-11-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-11-05/"
+                href="https://www.marinart.de/de/journal/post-2011-11-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-11-05/"
+                href="https://www.marinart.de/ru/journal/post-2011-11-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-11-05/"
+                href="https://www.marinart.de/journal/post-2011-11-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-10-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-10-25/</loc>
     <lastmod>2011-10-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-10-25/"
+                href="https://www.marinart.de/de/journal/post-2011-10-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-10-25/"
+                href="https://www.marinart.de/ru/journal/post-2011-10-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-10-25/"
+                href="https://www.marinart.de/journal/post-2011-10-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-10-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-10-20/</loc>
     <lastmod>2011-10-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-10-20/"
+                href="https://www.marinart.de/de/journal/post-2011-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-10-20/"
+                href="https://www.marinart.de/ru/journal/post-2011-10-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-10-20/"
+                href="https://www.marinart.de/journal/post-2011-10-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-10-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-10-15/</loc>
     <lastmod>2011-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-10-15/"
+                href="https://www.marinart.de/de/journal/post-2011-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-10-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-10-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-10-15/"
+                href="https://www.marinart.de/journal/post-2011-10-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-10-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-10-10/</loc>
     <lastmod>2011-10-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-10-10/"
+                href="https://www.marinart.de/de/journal/post-2011-10-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-10-10/"
+                href="https://www.marinart.de/ru/journal/post-2011-10-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-10-10/"
+                href="https://www.marinart.de/journal/post-2011-10-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-09-21/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-09-21/</loc>
     <lastmod>2011-09-21T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-09-21/"
+                href="https://www.marinart.de/de/journal/post-2011-09-21/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-09-21/"
+                href="https://www.marinart.de/ru/journal/post-2011-09-21/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-09-21/"
+                href="https://www.marinart.de/journal/post-2011-09-21/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-09-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-09-20/</loc>
     <lastmod>2011-09-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-09-20/"
+                href="https://www.marinart.de/de/journal/post-2011-09-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-09-20/"
+                href="https://www.marinart.de/ru/journal/post-2011-09-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-09-20/"
+                href="https://www.marinart.de/journal/post-2011-09-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-09-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-09-15/</loc>
     <lastmod>2011-09-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-09-15/"
+                href="https://www.marinart.de/de/journal/post-2011-09-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-09-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-09-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-09-15/"
+                href="https://www.marinart.de/journal/post-2011-09-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-08-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-08-20/</loc>
     <lastmod>2011-08-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-08-20/"
+                href="https://www.marinart.de/de/journal/post-2011-08-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-08-20/"
+                href="https://www.marinart.de/ru/journal/post-2011-08-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-08-20/"
+                href="https://www.marinart.de/journal/post-2011-08-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-08-16/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-08-16/</loc>
     <lastmod>2011-08-16T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-08-16/"
+                href="https://www.marinart.de/de/journal/post-2011-08-16/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-08-16/"
+                href="https://www.marinart.de/ru/journal/post-2011-08-16/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-08-16/"
+                href="https://www.marinart.de/journal/post-2011-08-16/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-08-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-08-15/</loc>
     <lastmod>2011-08-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-08-15/"
+                href="https://www.marinart.de/de/journal/post-2011-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-08-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-08-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-08-15/"
+                href="https://www.marinart.de/journal/post-2011-08-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-07-25/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-07-25/</loc>
     <lastmod>2011-07-25T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-07-25/"
+                href="https://www.marinart.de/de/journal/post-2011-07-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-07-25/"
+                href="https://www.marinart.de/ru/journal/post-2011-07-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-07-25/"
+                href="https://www.marinart.de/journal/post-2011-07-25/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-07-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-07-20/</loc>
     <lastmod>2011-07-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-07-20/"
+                href="https://www.marinart.de/de/journal/post-2011-07-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-07-20/"
+                href="https://www.marinart.de/ru/journal/post-2011-07-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-07-20/"
+                href="https://www.marinart.de/journal/post-2011-07-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-07-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-07-15/</loc>
     <lastmod>2011-07-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-07-15/"
+                href="https://www.marinart.de/de/journal/post-2011-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-07-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-07-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-07-15/"
+                href="https://www.marinart.de/journal/post-2011-07-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-07-10/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-07-10/</loc>
     <lastmod>2011-07-10T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-07-10/"
+                href="https://www.marinart.de/de/journal/post-2011-07-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-07-10/"
+                href="https://www.marinart.de/ru/journal/post-2011-07-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-07-10/"
+                href="https://www.marinart.de/journal/post-2011-07-10/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-07-05/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-07-05/</loc>
     <lastmod>2011-07-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-07-05/"
+                href="https://www.marinart.de/de/journal/post-2011-07-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-07-05/"
+                href="https://www.marinart.de/ru/journal/post-2011-07-05/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-07-05/"
+                href="https://www.marinart.de/journal/post-2011-07-05/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-06-20/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-06-20/</loc>
     <lastmod>2011-06-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-06-20/"
+                href="https://www.marinart.de/de/journal/post-2011-06-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-06-20/"
+                href="https://www.marinart.de/ru/journal/post-2011-06-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-06-20/"
+                href="https://www.marinart.de/journal/post-2011-06-20/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-06-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-06-15/</loc>
     <lastmod>2011-06-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-06-15/"
+                href="https://www.marinart.de/de/journal/post-2011-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-06-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-06-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-06-15/"
+                href="https://www.marinart.de/journal/post-2011-06-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/journal/post-2011-05-15/</loc>
+    <loc>https://www.marinart.de/journal/post-2011-05-15/</loc>
     <lastmod>2011-05-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/journal/post-2011-05-15/"
+                href="https://www.marinart.de/de/journal/post-2011-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/journal/post-2011-05-15/"
+                href="https://www.marinart.de/ru/journal/post-2011-05-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/journal/post-2011-05-15/"
+                href="https://www.marinart.de/journal/post-2011-05-15/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/2011/</loc>
+    <loc>https://www.marinart.de/years/2011/</loc>
     <lastmod>2011-12-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/2011/"
+                href="https://www.marinart.de/de/years/2011/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/2011/"
+                href="https://www.marinart.de/ru/years/2011/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/2011/"
+                href="https://www.marinart.de/years/2011/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/2012/</loc>
+    <loc>https://www.marinart.de/years/2012/</loc>
     <lastmod>2012-11-25T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/2012/"
+                href="https://www.marinart.de/de/years/2012/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/2012/"
+                href="https://www.marinart.de/ru/years/2012/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/2012/"
+                href="https://www.marinart.de/years/2012/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/2013/</loc>
+    <loc>https://www.marinart.de/years/2013/</loc>
     <lastmod>2013-11-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/2013/"
+                href="https://www.marinart.de/de/years/2013/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/2013/"
+                href="https://www.marinart.de/ru/years/2013/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/2013/"
+                href="https://www.marinart.de/years/2013/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/2014/</loc>
+    <loc>https://www.marinart.de/years/2014/</loc>
     <lastmod>2014-12-01T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/2014/"
+                href="https://www.marinart.de/de/years/2014/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/2014/"
+                href="https://www.marinart.de/ru/years/2014/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/2014/"
+                href="https://www.marinart.de/years/2014/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/2015/</loc>
+    <loc>https://www.marinart.de/years/2015/</loc>
     <lastmod>2015-11-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/2015/"
+                href="https://www.marinart.de/de/years/2015/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/2015/"
+                href="https://www.marinart.de/ru/years/2015/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/2015/"
+                href="https://www.marinart.de/years/2015/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/2016/</loc>
+    <loc>https://www.marinart.de/years/2016/</loc>
     <lastmod>2016-11-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/2016/"
+                href="https://www.marinart.de/de/years/2016/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/2016/"
+                href="https://www.marinart.de/ru/years/2016/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/2016/"
+                href="https://www.marinart.de/years/2016/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/2017/</loc>
+    <loc>https://www.marinart.de/years/2017/</loc>
     <lastmod>2017-12-30T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/2017/"
+                href="https://www.marinart.de/de/years/2017/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/2017/"
+                href="https://www.marinart.de/ru/years/2017/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/2017/"
+                href="https://www.marinart.de/years/2017/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/about/</loc>
+    <loc>https://www.marinart.de/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/about/"
+                href="https://www.marinart.de/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/about/"
+                href="https://www.marinart.de/ru/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/about/"
+                href="https://www.marinart.de/about/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/composition/</loc>
+    <loc>https://www.marinart.de/tags/composition/</loc>
     <lastmod>2018-06-20T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/composition/"
+                href="https://www.marinart.de/de/tags/composition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/composition/"
+                href="https://www.marinart.de/ru/tags/composition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/composition/"
+                href="https://www.marinart.de/tags/composition/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/en/</loc>
+    <loc>https://www.marinart.de/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/en/"
+                href="https://www.marinart.de/de/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/en/"
+                href="https://www.marinart.de/ru/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/en/"
+                href="https://www.marinart.de/en/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/gobelin/</loc>
+    <loc>https://www.marinart.de/tags/gobelin/</loc>
     <lastmod>2013-02-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/gobelin/"
+                href="https://www.marinart.de/de/tags/gobelin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/gobelin/"
+                href="https://www.marinart.de/ru/tags/gobelin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/gobelin/"
+                href="https://www.marinart.de/tags/gobelin/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/graphics/</loc>
+    <loc>https://www.marinart.de/tags/graphics/</loc>
     <lastmod>2015-08-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/graphics/"
+                href="https://www.marinart.de/de/tags/graphics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/graphics/"
+                href="https://www.marinart.de/ru/tags/graphics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/graphics/"
+                href="https://www.marinart.de/tags/graphics/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/</loc>
+    <loc>https://www.marinart.de/</loc>
     <lastmod>2018-06-20T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/"
+                href="https://www.marinart.de/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/"
+                href="https://www.marinart.de/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/"
+                href="https://www.marinart.de/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/landscape/</loc>
+    <loc>https://www.marinart.de/tags/landscape/</loc>
     <lastmod>2018-05-20T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/landscape/"
+                href="https://www.marinart.de/de/tags/landscape/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/landscape/"
+                href="https://www.marinart.de/ru/tags/landscape/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/landscape/"
+                href="https://www.marinart.de/tags/landscape/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/model/</loc>
+    <loc>https://www.marinart.de/tags/model/</loc>
     <lastmod>2014-12-01T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/model/"
+                href="https://www.marinart.de/de/tags/model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/model/"
+                href="https://www.marinart.de/ru/tags/model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/model/"
+                href="https://www.marinart.de/tags/model/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/munich/</loc>
+    <loc>https://www.marinart.de/tags/munich/</loc>
     <lastmod>2018-05-20T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/munich/"
+                href="https://www.marinart.de/de/tags/munich/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/munich/"
+                href="https://www.marinart.de/ru/tags/munich/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/munich/"
+                href="https://www.marinart.de/tags/munich/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/oil-on-canvas/</loc>
+    <loc>https://www.marinart.de/tags/oil-on-canvas/</loc>
     <lastmod>2018-06-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/oil-on-canvas/"
+                href="https://www.marinart.de/de/tags/oil-on-canvas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/oil-on-canvas/"
+                href="https://www.marinart.de/ru/tags/oil-on-canvas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/oil-on-canvas/"
+                href="https://www.marinart.de/tags/oil-on-canvas/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/pencil-on-paper/</loc>
+    <loc>https://www.marinart.de/tags/pencil-on-paper/</loc>
     <lastmod>2014-12-01T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/pencil-on-paper/"
+                href="https://www.marinart.de/de/tags/pencil-on-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/pencil-on-paper/"
+                href="https://www.marinart.de/ru/tags/pencil-on-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/pencil-on-paper/"
+                href="https://www.marinart.de/tags/pencil-on-paper/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/portrait/</loc>
+    <loc>https://www.marinart.de/tags/portrait/</loc>
     <lastmod>2017-06-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/portrait/"
+                href="https://www.marinart.de/de/tags/portrait/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/portrait/"
+                href="https://www.marinart.de/ru/tags/portrait/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/portrait/"
+                href="https://www.marinart.de/tags/portrait/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/sketches/</loc>
+    <loc>https://www.marinart.de/tags/sketches/</loc>
     <lastmod>2013-11-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/sketches/"
+                href="https://www.marinart.de/de/tags/sketches/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/sketches/"
+                href="https://www.marinart.de/ru/tags/sketches/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/sketches/"
+                href="https://www.marinart.de/tags/sketches/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/still-life/</loc>
+    <loc>https://www.marinart.de/tags/still-life/</loc>
     <lastmod>2018-06-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/still-life/"
+                href="https://www.marinart.de/de/tags/still-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/still-life/"
+                href="https://www.marinart.de/ru/tags/still-life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/still-life/"
+                href="https://www.marinart.de/tags/still-life/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/</loc>
+    <loc>https://www.marinart.de/tags/</loc>
     <lastmod>2018-06-20T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/"
+                href="https://www.marinart.de/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/"
+                href="https://www.marinart.de/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/"
+                href="https://www.marinart.de/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/tags/water-color/</loc>
+    <loc>https://www.marinart.de/tags/water-color/</loc>
     <lastmod>2018-06-20T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/tags/water-color/"
+                href="https://www.marinart.de/de/tags/water-color/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/tags/water-color/"
+                href="https://www.marinart.de/ru/tags/water-color/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/tags/water-color/"
+                href="https://www.marinart.de/tags/water-color/"
                 />
   </url>
   
   <url>
-    <loc>https://gpospelov.github.io/marinart-public/years/</loc>
+    <loc>https://www.marinart.de/years/</loc>
     <lastmod>2011-12-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gpospelov.github.io/marinart-public/de/years/"
+                href="https://www.marinart.de/de/years/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gpospelov.github.io/marinart-public/ru/years/"
+                href="https://www.marinart.de/ru/years/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gpospelov.github.io/marinart-public/years/"
+                href="https://www.marinart.de/years/"
                 />
   </url>
   
