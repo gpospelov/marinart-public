@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Albums on ProjectName</title>
-    <link>https://www.marinart.de/albums/</link>
+    <link>http://www.marinart.de/albums/</link>
     <description>Recent content in Albums on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.marinart.de/albums/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.marinart.de/albums/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Munich</title>
-      <link>https://www.marinart.de/albums/munich/</link>
+      <link>http://www.marinart.de/albums/munich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/munich/</guid>
+      <guid>http://www.marinart.de/albums/munich/</guid>
       <description>View from the studio2018. Oil on canvas. 60x40
 &#34; View from the studio 2018. Oil on canvas. 60x40       Konigsplatz2018. Oil on canvas. 50x30
 &#34; Konigsplatz 2018. Oil on canvas. 50x30       Prinzeregntenstrasse, Munich, Study2017. Oil on canvas. 40x30
@@ -24,10 +24,10 @@
     
     <item>
       <title>Acryl and ink</title>
-      <link>https://www.marinart.de/albums/acryl-ink/</link>
+      <link>http://www.marinart.de/albums/acryl-ink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/acryl-ink/</guid>
+      <guid>http://www.marinart.de/albums/acryl-ink/</guid>
       <description>The descended angel2016. Acryl/ink on paper. a5
 &#34; The descended angel 2016. Acryl/ink on paper. a5       The descended angel2016. Acryl/ink on paper. Fragment
 &#34; The descended angel 2016. Acryl/ink on paper. Fragment       The descended angel2016. Acryl/ink on paper. Fragment
@@ -36,10 +36,10 @@
     
     <item>
       <title>Automn serie</title>
-      <link>https://www.marinart.de/albums/automn-serie/</link>
+      <link>http://www.marinart.de/albums/automn-serie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/automn-serie/</guid>
+      <guid>http://www.marinart.de/albums/automn-serie/</guid>
       <description>Automn series2016. Watercolor on paper. a5
 &#34; Automn series 2016. Watercolor on paper. a5       Automn series2016. Watercolor on paper. a5
 &#34; Automn series 2016. Watercolor on paper. a5       Automn series2016. Watercolor on paper. a5
@@ -49,10 +49,10 @@
     
     <item>
       <title>Composition</title>
-      <link>https://www.marinart.de/albums/composition/</link>
+      <link>http://www.marinart.de/albums/composition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/composition/</guid>
+      <guid>http://www.marinart.de/albums/composition/</guid>
       <description>Red sunflower2017. Mixed technique, canvas. 80x60
 &#34; Red sunflower 2017. Mixed technique, canvas. 80x60       Annunciation of Mary2015. Oil on canvas. 80x120
 &#34; Annunciation of Mary 2015. Oil on canvas. 80x120       Annunciation of Mary2015. Oil on canvas. Fragment
@@ -61,10 +61,10 @@
     
     <item>
       <title>Still life</title>
-      <link>https://www.marinart.de/albums/still-life/</link>
+      <link>http://www.marinart.de/albums/still-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/still-life/</guid>
+      <guid>http://www.marinart.de/albums/still-life/</guid>
       <description>Old coffe machine2018. Oil on canvas. 60x40
 &#34; Old coffe machine 2018. Oil on canvas. 60x40       Bunch of roses2017. Oil on canvas. 40x40
 &#34; Bunch of roses 2017. Oil on canvas. 40x40       Cyclamen2015. Oil on canvas. 50x70
@@ -74,10 +74,10 @@
     
     <item>
       <title>Otranto, Italy</title>
-      <link>https://www.marinart.de/albums/otranto/</link>
+      <link>http://www.marinart.de/albums/otranto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/otranto/</guid>
+      <guid>http://www.marinart.de/albums/otranto/</guid>
       <description>Otranto. Italy2016. Watercolor on paper. 50x40
 &#34; Otranto. Italy 2016. Watercolor on paper. 50x40       Otranto Bay2016. Watercolor on paper. 50x40
 &#34; Otranto Bay 2016. Watercolor on paper. 50x40       Otranto Beach2016. Watercolor on paper. 50x40
@@ -87,10 +87,10 @@
     
     <item>
       <title>Portrait</title>
-      <link>https://www.marinart.de/albums/portrait/</link>
+      <link>http://www.marinart.de/albums/portrait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/portrait/</guid>
+      <guid>http://www.marinart.de/albums/portrait/</guid>
       <description>Portrait of Normandie Girl2018. Watercolor on paper. 25x35
 &#34; Portrait of Normandie Girl 2018. Watercolor on paper. 25x35       Portrait of a French girl2017. Oil on canvas. 25x30
 &#34; Portrait of a French girl 2017. Oil on canvas. 25x30       Nina Borisovna2017. Acryl on canvas. 50x40
@@ -99,10 +99,10 @@
     
     <item>
       <title>Landscape</title>
-      <link>https://www.marinart.de/albums/landscape/</link>
+      <link>http://www.marinart.de/albums/landscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/landscape/</guid>
+      <guid>http://www.marinart.de/albums/landscape/</guid>
       <description>Verona. Castelvecchio bridge 14 century. Italy2016. Oil on canvas. 60x30
 &#34; Verona. Castelvecchio bridge 14 century. Italy 2016. Oil on canvas. 60x30       Verona. Piazza Isolo. Italy2016. Oil on canvas. 50x40
 &#34; Verona. Piazza Isolo. Italy 2016. Oil on canvas. 50x40       Verona. Italy. View of River Adige2016. Oil on canvas. 60x40
@@ -111,10 +111,10 @@
     
     <item>
       <title>Mediterranean</title>
-      <link>https://www.marinart.de/albums/mediterranean/</link>
+      <link>http://www.marinart.de/albums/mediterranean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/mediterranean/</guid>
+      <guid>http://www.marinart.de/albums/mediterranean/</guid>
       <description>Imperia, Liguria in September2014. Oil on canvas. 60x40
 &#34; Imperia, Liguria in September 2014. Oil on canvas. 60x40       Colle dei Bardellini in Imperia2014. Oil on canvas. 40x40
 &#34; Colle dei Bardellini in Imperia 2014. Oil on canvas. 40x40       La Côte Bleue2014. Oil on canvas. 40x40
@@ -123,10 +123,10 @@
     
     <item>
       <title>Water color nature</title>
-      <link>https://www.marinart.de/albums/water-color-nature/</link>
+      <link>http://www.marinart.de/albums/water-color-nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/water-color-nature/</guid>
+      <guid>http://www.marinart.de/albums/water-color-nature/</guid>
       <description>Horses2017. Watercolor on paper. 40x50
 &#34; Horses 2017. Watercolor on paper. 40x50       Horses2017. Watercolor on paper. 40x50
 &#34; Horses 2017. Watercolor on paper. 40x50       Horses2017. Watercolor on paper. 40x50
@@ -136,10 +136,10 @@
     
     <item>
       <title>Acryl flowers</title>
-      <link>https://www.marinart.de/albums/acryl-flowers/</link>
+      <link>http://www.marinart.de/albums/acryl-flowers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/acryl-flowers/</guid>
+      <guid>http://www.marinart.de/albums/acryl-flowers/</guid>
       <description>Acryl flowers2017. Acryl on paper. a4
 &#34; Acryl flowers 2017. Acryl on paper. a4       Acryl flowers2017. Acryl on paper. a4
 &#34; Acryl flowers 2017. Acryl on paper. a4       Acryl flowers2017. Acryl on paper. a4
@@ -149,10 +149,10 @@
     
     <item>
       <title>Model</title>
-      <link>https://www.marinart.de/albums/model/</link>
+      <link>http://www.marinart.de/albums/model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/model/</guid>
+      <guid>http://www.marinart.de/albums/model/</guid>
       <description>Christina2014. Pencil on paper. a3
 &#34; Christina 2014. Pencil on paper. a3       Christina2014. Pencil on paper. a3
 &#34; Christina 2014. Pencil on paper. a3       Christina2014. Pencil on paper. a3
@@ -162,10 +162,10 @@
     
     <item>
       <title>Normandie</title>
-      <link>https://www.marinart.de/albums/normandie/</link>
+      <link>http://www.marinart.de/albums/normandie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/normandie/</guid>
+      <guid>http://www.marinart.de/albums/normandie/</guid>
       <description>Deauville, parasoles2018. Watercolor on paper. a5
 &#34; Deauville, parasoles 2018. Watercolor on paper. a5       Deauville, sunset2018. Watercolor on paper. a5
 &#34; Deauville, sunset 2018. Watercolor on paper. a5       Plein air in Etretat2018. Watercolor on paper. 35x25
@@ -174,10 +174,10 @@
     
     <item>
       <title>April animals</title>
-      <link>https://www.marinart.de/albums/april-animals/</link>
+      <link>http://www.marinart.de/albums/april-animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/april-animals/</guid>
+      <guid>http://www.marinart.de/albums/april-animals/</guid>
       <description>The Bears2018. Watercolor on paper. 50x40
 &#34; The Bears 2018. Watercolor on paper. 50x40       Two donkeys2018. Watercolor on paper. 50x40
 &#34; Two donkeys 2018. Watercolor on paper. 50x40       Giraffes2018. Watercolor on paper. 50x40
@@ -187,10 +187,10 @@
     
     <item>
       <title>Illustrations</title>
-      <link>https://www.marinart.de/albums/illustration/</link>
+      <link>http://www.marinart.de/albums/illustration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marinart.de/albums/illustration/</guid>
+      <guid>http://www.marinart.de/albums/illustration/</guid>
       <description>  In the library2018. Watercolor on paper. 50x40
 &#34; In the library 2018. Watercolor on paper. 50x40       Old horse Lennon2018. Watercolor on paper. 50x40
 &#34; Old horse Lennon 2018. Watercolor on paper. 50x40         </description>
