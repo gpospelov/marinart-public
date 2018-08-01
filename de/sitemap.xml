@@ -3195,6 +3195,26 @@
   </url>
   
   <url>
+    <loc>https://gpospelov.github.io/marinart-public/de/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gpospelov.github.io/marinart-public/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gpospelov.github.io/marinart-public/ru/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gpospelov.github.io/marinart-public/de/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gpospelov.github.io/marinart-public/de/tags/gobelin/</loc>
     <lastmod>2013-02-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
