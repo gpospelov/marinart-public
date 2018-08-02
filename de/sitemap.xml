@@ -23,7 +23,7 @@
   
   <url>
     <loc>http://www.marinart.de/de/journal/</loc>
-    <lastmod>2018-06-20T18:28:35+01:00</lastmod>
+    <lastmod>2018-07-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -323,6 +323,26 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://www.marinart.de/de/albums/illustration/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.marinart.de/de/journal/post-2018-07-05/</loc>
+    <lastmod>2018-07-05T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.marinart.de/journal/post-2018-07-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://www.marinart.de/ru/journal/post-2018-07-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.marinart.de/de/journal/post-2018-07-05/"
                 />
   </url>
   
@@ -3321,7 +3341,7 @@
   
   <url>
     <loc>http://www.marinart.de/de/tags/oil-on-canvas/</loc>
-    <lastmod>2018-06-15T18:28:35+01:00</lastmod>
+    <lastmod>2018-07-05T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3363,7 +3383,7 @@
   
   <url>
     <loc>http://www.marinart.de/de/tags/portrait/</loc>
-    <lastmod>2017-06-15T18:28:35+01:00</lastmod>
+    <lastmod>2018-07-05T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3405,7 +3425,7 @@
   
   <url>
     <loc>http://www.marinart.de/de/</loc>
-    <lastmod>2018-06-20T18:28:35+01:00</lastmod>
+    <lastmod>2018-07-05T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
