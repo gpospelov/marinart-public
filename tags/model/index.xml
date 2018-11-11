@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Model on ProjectName</title>
-    <link>https://www.marinart.de/tags/model/</link>
+    <link>http://www.marinart.de/tags/model/</link>
     <description>Recent content in Model on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Dec 2014 18:28:35 +0100</lastBuildDate>
     
-	<atom:link href="https://www.marinart.de/tags/model/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.marinart.de/tags/model/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Christina</title>
-      <link>https://www.marinart.de/journal/post-2014-12-01/</link>
+      <link>http://www.marinart.de/journal/post-2014-12-01/</link>
       <pubDate>Mon, 01 Dec 2014 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/journal/post-2014-12-01/</guid>
+      <guid>http://www.marinart.de/journal/post-2014-12-01/</guid>
       <description>Christina2014. Pencil on paper. a3
-&#34; Christina 2014. Pencil on paper. a3       Christina2014. Pencil on paper. a3
-&#34; Christina 2014. Pencil on paper. a3       Christina2014. Pencil on paper. a3
-&#34; Christina 2014. Pencil on paper. a3       Christina2014. Pencil on paper. a3
-&#34; Christina 2014. Pencil on paper. a3       Christina2014.</description>
+&#34;Christina2014. Pencil on paper. a3Christina2014. Pencil on paper. a3
+&#34;Christina2014. Pencil on paper. a3Christina2014. Pencil on paper. a3
+&#34;Christina2014. Pencil on paper. a3Christina2014. Pencil on paper. a3
+&#34;Christina2014. Pencil on paper. a3Christina2014.</description>
     </item>
     
   </channel>
