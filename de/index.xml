@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Startseite on ProjectName</title>
-    <link>http://www.marinart.de/de/</link>
+    <link>https://www.marinart.de/de/</link>
     <description>Recent content in Startseite on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jul 2018 18:28:35 +0100</lastBuildDate>
     
-	<atom:link href="http://www.marinart.de/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.marinart.de/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>München</title>
-      <link>http://www.marinart.de/de/albums/munich/</link>
+      <link>https://www.marinart.de/de/albums/munich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/munich/</guid>
+      <guid>https://www.marinart.de/de/albums/munich/</guid>
       <description>Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40
 &#34;Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40Königsplatz2018. Öl auf Leinwand. 50x30
 &#34;Königsplatz2018. Öl auf Leinwand. 50x30Prinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. 40x30
@@ -25,10 +25,10 @@
     
     <item>
       <title>Acryl und Tuschzeichnung</title>
-      <link>http://www.marinart.de/de/albums/acryl-ink/</link>
+      <link>https://www.marinart.de/de/albums/acryl-ink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/acryl-ink/</guid>
+      <guid>https://www.marinart.de/de/albums/acryl-ink/</guid>
       <description>Der Weihnachtsstern2016. Acryl/Tuschzeichnung auf Papier. a5
 &#34;Der Weihnachtsstern2016. Acryl/Tuschzeichnung auf Papier. a5Der Weihnachtsstern2016. Acryl/Tuschzeichnung auf Papier. Ausschnitt
 &#34;Der Weihnachtsstern2016. Acryl/Tuschzeichnung auf Papier. AusschnittDer Weihnachtsstern2016. Acryl/Tuschzeichnung auf Papier. Ausschnitt
@@ -38,10 +38,10 @@
     
     <item>
       <title>Herbst Serie</title>
-      <link>http://www.marinart.de/de/albums/automn-serie/</link>
+      <link>https://www.marinart.de/de/albums/automn-serie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/automn-serie/</guid>
+      <guid>https://www.marinart.de/de/albums/automn-serie/</guid>
       <description>Herbst serie2016. Aquarell auf Papier. a5
 &#34;Herbst serie2016. Aquarell auf Papier. a5Herbst serie2016. Aquarell auf Papier. a5
 &#34;Herbst serie2016. Aquarell auf Papier. a5Herbst serie2016. Aquarell auf Papier. a5
@@ -51,10 +51,10 @@
     
     <item>
       <title>Stilleben</title>
-      <link>http://www.marinart.de/de/albums/still-life/</link>
+      <link>https://www.marinart.de/de/albums/still-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/still-life/</guid>
+      <guid>https://www.marinart.de/de/albums/still-life/</guid>
       <description>Alte Cafémaschine2018. Öl auf Leinwand. 60x40
 &#34;Alte Cafémaschine2018. Öl auf Leinwand. 60x40Ein Rosenstrauß2017. Öl auf Leinwand. 40x40
 &#34;Ein Rosenstrauß2017. Öl auf Leinwand. 40x40Zyklamen2015. Öl auf Leinwand. 50x70
@@ -64,10 +64,10 @@
     
     <item>
       <title>Komposition</title>
-      <link>http://www.marinart.de/de/albums/composition/</link>
+      <link>https://www.marinart.de/de/albums/composition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/composition/</guid>
+      <guid>https://www.marinart.de/de/albums/composition/</guid>
       <description>Rote Sonnenblume2017. Mischtechnik, Leinwand. 80x60
 &#34;Rote Sonnenblume2017. Mischtechnik, Leinwand. 80x60Mariä Verkündigung2015. Öl auf Leinwand. 80x120
 &#34;Mariä Verkündigung2015. Öl auf Leinwand. 80x120Mariä Verkündigung2015. Öl auf Leinwand. Ausschnitt
@@ -77,10 +77,10 @@
     
     <item>
       <title>Otranto, Italien</title>
-      <link>http://www.marinart.de/de/albums/otranto/</link>
+      <link>https://www.marinart.de/de/albums/otranto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/otranto/</guid>
+      <guid>https://www.marinart.de/de/albums/otranto/</guid>
       <description>Otranto. Italien2016. Aquarell auf Papier. 50x40
 &#34;Otranto. Italien2016. Aquarell auf Papier. 50x40Otranto Bucht2016. Aquarell auf Papier. 50x40
 &#34;Otranto Bucht2016. Aquarell auf Papier. 50x40Otranto Strand2016. Aquarell auf Papier. 50x40
@@ -90,10 +90,10 @@
     
     <item>
       <title>Porträt</title>
-      <link>http://www.marinart.de/de/albums/portrait/</link>
+      <link>https://www.marinart.de/de/albums/portrait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/portrait/</guid>
+      <guid>https://www.marinart.de/de/albums/portrait/</guid>
       <description>Alena mit 15 Jahren2018. Öl auf Leinwand. 60x80
 &#34;Alena mit 15 Jahren2018. Öl auf Leinwand. 60x80Porträt von Normandie Mädchen2018. Aquarell auf Papier. 25x35
 &#34;Porträt von Normandie Mädchen2018. Aquarell auf Papier. 25x35Portrait eines französischen Mädchens2017. Öl auf Leinwand. 25x30
@@ -102,10 +102,10 @@
     
     <item>
       <title>Landschaft</title>
-      <link>http://www.marinart.de/de/albums/landscape/</link>
+      <link>https://www.marinart.de/de/albums/landscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/landscape/</guid>
+      <guid>https://www.marinart.de/de/albums/landscape/</guid>
       <description>Verona. Castelvecchio Brücke 14 Jahrhundert. Italien2016. Öl auf Leinwand. 60x30
 &#34;Verona. Castelvecchio Brücke 14 Jahrhundert. Italien2016. Öl auf Leinwand. 60x30Verona. Piazza Isolo. Italien2016. Öl auf Leinwand. 50x40
 &#34;Verona. Piazza Isolo. Italien2016. Öl auf Leinwand. 50x40Verona. Italien. Blick auf den Fluss Adige2016. Öl auf Leinwand. 60x40
@@ -114,10 +114,10 @@
     
     <item>
       <title>Mediterranean</title>
-      <link>http://www.marinart.de/de/albums/mediterranean/</link>
+      <link>https://www.marinart.de/de/albums/mediterranean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/mediterranean/</guid>
+      <guid>https://www.marinart.de/de/albums/mediterranean/</guid>
       <description>Imperia, Liguria im September2014. Öl auf Leinwand. 60x40
 &#34;Imperia, Liguria im September2014. Öl auf Leinwand. 60x40Colle dei Bardellini in Imperia2014. Öl auf Leinwand. 40x40
 &#34;Colle dei Bardellini in Imperia2014. Öl auf Leinwand. 40x40La Côte Bleue2014. Öl auf Leinwand. 40x40
@@ -126,10 +126,10 @@
     
     <item>
       <title>Aquarell Natur</title>
-      <link>http://www.marinart.de/de/albums/water-color-nature/</link>
+      <link>https://www.marinart.de/de/albums/water-color-nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/water-color-nature/</guid>
+      <guid>https://www.marinart.de/de/albums/water-color-nature/</guid>
       <description>Pferden2017. Aquarell auf Papier. 40x50
 &#34;Pferden2017. Aquarell auf Papier. 40x50Pferden2017. Aquarell auf Papier. 40x50
 &#34;Pferden2017. Aquarell auf Papier. 40x50Pferden2017. Aquarell auf Papier. 40x50
@@ -139,10 +139,10 @@
     
     <item>
       <title>Acryl Blumen</title>
-      <link>http://www.marinart.de/de/albums/acryl-flowers/</link>
+      <link>https://www.marinart.de/de/albums/acryl-flowers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/acryl-flowers/</guid>
+      <guid>https://www.marinart.de/de/albums/acryl-flowers/</guid>
       <description>Acryl Blumen2017. Acryl auf Papier. a4
 &#34;Acryl Blumen2017. Acryl auf Papier. a4Acryl Blumen2017. Acryl auf Papier. a4
 &#34;Acryl Blumen2017. Acryl auf Papier. a4Acryl Blumen2017. Acryl auf Papier. a4
@@ -152,10 +152,10 @@
     
     <item>
       <title>Model</title>
-      <link>http://www.marinart.de/de/albums/model/</link>
+      <link>https://www.marinart.de/de/albums/model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/model/</guid>
+      <guid>https://www.marinart.de/de/albums/model/</guid>
       <description>Christina2014. Bleistift auf Papier. a3
 &#34;Christina2014. Bleistift auf Papier. a3Christina2014. Bleistift auf Papier. a3
 &#34;Christina2014. Bleistift auf Papier. a3Christina2014. Bleistift auf Papier. a3
@@ -165,10 +165,10 @@
     
     <item>
       <title>Normandie</title>
-      <link>http://www.marinart.de/de/albums/normandie/</link>
+      <link>https://www.marinart.de/de/albums/normandie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/normandie/</guid>
+      <guid>https://www.marinart.de/de/albums/normandie/</guid>
       <description>Deauville, Sonnenschirme2018. Aquarell auf Papier. a5
 &#34;Deauville, Sonnenschirme2018. Aquarell auf Papier. a5Deauville, Sonnenuntergang2018. Aquarell auf Papier. a5
 &#34;Deauville, Sonnenuntergang2018. Aquarell auf Papier. a5Plein Аir in Etretat2018. Aquarell auf Papier. 35x25
@@ -177,10 +177,10 @@
     
     <item>
       <title>April animals</title>
-      <link>http://www.marinart.de/de/albums/april-animals/</link>
+      <link>https://www.marinart.de/de/albums/april-animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/april-animals/</guid>
+      <guid>https://www.marinart.de/de/albums/april-animals/</guid>
       <description>Bären2018. Aquarell auf Papier. 50x40
 &#34;Bären2018. Aquarell auf Papier. 50x40Zwei Esel2018. Aquarell auf Papier. 50x40
 &#34;Zwei Esel2018. Aquarell auf Papier. 50x40Giraffen2018. Aquarell auf Papier. 50x40
@@ -190,10 +190,10 @@
     
     <item>
       <title>Illustrationen</title>
-      <link>http://www.marinart.de/de/albums/illustration/</link>
+      <link>https://www.marinart.de/de/albums/illustration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/albums/illustration/</guid>
+      <guid>https://www.marinart.de/de/albums/illustration/</guid>
       <description>In die Bibliothek2018. Aquarell auf Papier. 50x40
 &#34;In die Bibliothek2018. Aquarell auf Papier. 50x40Das alte Pferd Lennon2018. Aquarell auf Papier. 50x40
 &#34;Das alte Pferd Lennon2018. Aquarell auf Papier. 50x40</description>
@@ -201,10 +201,10 @@
     
     <item>
       <title>Alena mit 15 Jahren</title>
-      <link>http://www.marinart.de/de/journal/post-2018-07-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-07-05/</link>
       <pubDate>Thu, 05 Jul 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-07-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-07-05/</guid>
       <description>Alena mit 15 Jahren2018. Öl auf Leinwand. 60x80
 &#34;Alena mit 15 Jahren2018. Öl auf Leinwand. 60x80Alena mit 15 Jahren2018. Öl auf Leinwand. 60x80Alena mit 15 Jahren2018. Öl auf Leinwand. Ausschnitt
 &#34;Alena mit 15 Jahren2018. Öl auf Leinwand. AusschnittAlena mit 15 Jahren2018. Öl auf Leinwand. AusschnittAlena mit 15 Jahren2018.</description>
@@ -212,10 +212,10 @@
     
     <item>
       <title>Bärenmutter</title>
-      <link>http://www.marinart.de/de/journal/post-2018-06-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-06-20/</link>
       <pubDate>Wed, 20 Jun 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-06-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-06-20/</guid>
       <description>Bärenmutter2018. Öl auf Leinwand. 72x50
 &#34;Bärenmutter2018. Öl auf Leinwand. 72x50Bärenmutter2018. Öl auf Leinwand. 72x50Bärenmutter2018. Öl auf Leinwand. Ausschnitt
 &#34;Bärenmutter2018. Öl auf Leinwand. AusschnittBärenmutter2018. Öl auf Leinwand. AusschnittBärenmutter2018. Öl auf Leinwand. Ausschnitt
@@ -224,10 +224,10 @@
     
     <item>
       <title>Alte Cafémaschine</title>
-      <link>http://www.marinart.de/de/journal/post-2018-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-06-15/</link>
       <pubDate>Fri, 15 Jun 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-06-15/</guid>
       <description>Alte Cafémaschine2018. Öl auf Leinwand. 60x40
 &#34;Alte Cafémaschine2018. Öl auf Leinwand. 60x40Alte Cafémaschine2018. Öl auf Leinwand. 60x40Alte Cafémaschine2018. Öl auf Leinwand. Ausschnitt
 &#34;Alte Cafémaschine2018. Öl auf Leinwand. AusschnittAlte Cafémaschine2018. Öl auf Leinwand. AusschnittAlte Cafémaschine2018. Öl auf Leinwand. Ausschnitt
@@ -236,20 +236,20 @@
     
     <item>
       <title>In die Bibliothek</title>
-      <link>http://www.marinart.de/de/journal/post-2018-06-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-06-10/</link>
       <pubDate>Sun, 10 Jun 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-06-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-06-10/</guid>
       <description>In die Bibliothek2018. Aquarell auf Papier. 50x40
 &#34;In die Bibliothek2018. Aquarell auf Papier. 50x40In die Bibliothek2018. Aquarell auf Papier. 50x40</description>
     </item>
     
     <item>
       <title>Aquarelle im Mai</title>
-      <link>http://www.marinart.de/de/journal/post-2018-05-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-05-25/</link>
       <pubDate>Fri, 25 May 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-05-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-05-25/</guid>
       <description>Olympiapark, Sea Life2018. Aquarell auf Papier. 30x24
 &#34;Olympiapark, Sea Life2018. Aquarell auf Papier. 30x24Olympiapark, Sea Life2018. Aquarell auf Papier. 30x24Fuchs und seine junge2018. Aquarell auf Papier. 50x40
 &#34;Fuchs und seine junge2018. Aquarell auf Papier. 50x40Fuchs und seine junge2018. Aquarell auf Papier. 50x40Marienkäfer2018. Aquarell auf Papier.</description>
@@ -257,20 +257,20 @@
     
     <item>
       <title>Königsplatz</title>
-      <link>http://www.marinart.de/de/journal/post-2018-05-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-05-20/</link>
       <pubDate>Sun, 20 May 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-05-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-05-20/</guid>
       <description>Königsplatz2018. Öl auf Leinwand. 50x30
 &#34;Königsplatz2018. Öl auf Leinwand. 50x30Königsplatz2018. Öl auf Leinwand. 50x30</description>
     </item>
     
     <item>
       <title>Reise in die Normandie</title>
-      <link>http://www.marinart.de/de/journal/post-2018-05-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-05-15/</link>
       <pubDate>Tue, 15 May 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-05-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-05-15/</guid>
       <description>Deauville, Sonnenschirme2018. Aquarell auf Papier. a5
 &#34;Deauville, Sonnenschirme2018. Aquarell auf Papier. a5Deauville, Sonnenuntergang2018. Aquarell auf Papier. a5
 &#34;Deauville, Sonnenuntergang2018. Aquarell auf Papier. a5Plein Аir in Etretat2018. Aquarell auf Papier. 35x25
@@ -279,20 +279,20 @@
     
     <item>
       <title>Huhn und Kaninchen</title>
-      <link>http://www.marinart.de/de/journal/post-2018-04-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-04-20/</link>
       <pubDate>Fri, 20 Apr 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-04-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-04-20/</guid>
       <description>Huhn und Kaninchen2018. Aquarell auf Papier. 50x40
 &#34;Huhn und Kaninchen2018. Aquarell auf Papier. 50x40Huhn und Kaninchen2018. Aquarell auf Papier. 50x40</description>
     </item>
     
     <item>
       <title>Aquarelle im April</title>
-      <link>http://www.marinart.de/de/journal/post-2018-04-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-04-15/</link>
       <pubDate>Sun, 15 Apr 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-04-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-04-15/</guid>
       <description>Kirche in Ramersdorf2018. Aquarell auf Papier. a4
 &#34;Kirche in Ramersdorf2018. Aquarell auf Papier. a4Kirche in Ramersdorf2018. Aquarell auf Papier. a4Sakura am Josephsplatz2018. Aquarell auf Papier. a4
 &#34;Sakura am Josephsplatz2018. Aquarell auf Papier. a4Sakura am Josephsplatz2018. Aquarell auf Papier. a4Im park2018. Aquarell auf Papier. a4</description>
@@ -300,10 +300,10 @@
     
     <item>
       <title>April Tiere</title>
-      <link>http://www.marinart.de/de/journal/post-2018-04-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-04-10/</link>
       <pubDate>Tue, 10 Apr 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-04-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-04-10/</guid>
       <description>Bären2018. Aquarell auf Papier. 50x40
 &#34;Bären2018. Aquarell auf Papier. 50x40Zwei Esel2018. Aquarell auf Papier. 50x40
 &#34;Zwei Esel2018. Aquarell auf Papier. 50x40Giraffen2018. Aquarell auf Papier. 50x40
@@ -313,20 +313,20 @@
     
     <item>
       <title>Erste Blumen</title>
-      <link>http://www.marinart.de/de/journal/post-2018-04-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-04-05/</link>
       <pubDate>Thu, 05 Apr 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-04-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-04-05/</guid>
       <description>Erste Blumen2018. Öl auf Leinwand. 40x40
 &#34;Erste Blumen2018. Öl auf Leinwand. 40x40Erste Blumen2018. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Aussicht aus dem Atelier</title>
-      <link>http://www.marinart.de/de/journal/post-2018-03-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-03-15/</link>
       <pubDate>Thu, 15 Mar 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-03-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-03-15/</guid>
       <description>Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40
 &#34;Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40
 &#34;Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40Aussicht aus dem Atelier2018. Öl auf Leinwand. 60x40Aussicht aus dem Atelier2018.</description>
@@ -334,10 +334,10 @@
     
     <item>
       <title>Pferden</title>
-      <link>http://www.marinart.de/de/journal/post-2018-03-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2018-03-05/</link>
       <pubDate>Mon, 05 Mar 2018 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2018-03-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2018-03-05/</guid>
       <description>Pferden2018. Aquarell auf Papier. 50x40
 &#34;Pferden2018. Aquarell auf Papier. 50x40Pferden2018. Aquarell auf Papier. 50x40Pferden2018. Photo. 10x15
 &#34;Pferden2018. Photo. 10x15Pferden2018. Photo. 10x15</description>
@@ -345,30 +345,30 @@
     
     <item>
       <title>Blick auf den Mont Blanc von der Zimmernummer n.504, Genf</title>
-      <link>http://www.marinart.de/de/journal/post-2017-12-30/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-12-30/</link>
       <pubDate>Sat, 30 Dec 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-12-30/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-12-30/</guid>
       <description>Blick auf den Mont Blanc von der Zimmernummer n.504, Genf2017. Öl auf Leinwand. 40x30
 &#34;Blick auf den Mont Blanc von der Zimmernummer n.504, Genf2017. Öl auf Leinwand. 40x30Blick auf den Mont Blanc von der Zimmernummer n.504, Genf2017. Öl auf Leinwand. 40x30</description>
     </item>
     
     <item>
       <title>Vier Orangen</title>
-      <link>http://www.marinart.de/de/journal/post-2017-12-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-12-15/</link>
       <pubDate>Fri, 15 Dec 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-12-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-12-15/</guid>
       <description>Vier Orangen2017. Öl auf Leinwand. 50x20
 &#34;Vier Orangen2017. Öl auf Leinwand. 50x20Vier Orangen2017. Öl auf Leinwand. 50x20</description>
     </item>
     
     <item>
       <title>Rote Sonnenblume</title>
-      <link>http://www.marinart.de/de/journal/post-2017-09-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-09-15/</link>
       <pubDate>Fri, 15 Sep 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-09-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-09-15/</guid>
       <description>Rote Sonnenblume2017. Mischtechnik, Leinwand. 80x60
 &#34;Rote Sonnenblume2017. Mischtechnik, Leinwand. 80x60Rote Sonnenblume2017. Mischtechnik, Leinwand. 80x60Rote Sonnenblume2017. Mischtechnik, Leinwand. Ausschnitt
 &#34;Rote Sonnenblume2017. Mischtechnik, Leinwand. AusschnittRote Sonnenblume2017. Mischtechnik, Leinwand. AusschnittRote Sonnenblume2017. Mischtechnik, Leinwand. Ausschnitt
@@ -377,10 +377,10 @@
     
     <item>
       <title>Studien in der Normandie</title>
-      <link>http://www.marinart.de/de/journal/post-2017-08-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-08-20/</link>
       <pubDate>Sun, 20 Aug 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-08-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-08-20/</guid>
       <description>Château Gaillard2017. Öl auf Leinwand. 25x25
 &#34;Château Gaillard2017. Öl auf Leinwand. 25x25Château Gaillard2017. Öl auf Leinwand. 25x25Fischer auf der Seine2017. Öl auf Leinwand. 25x25
 &#34;Fischer auf der Seine2017. Öl auf Leinwand. 25x25Fischer auf der Seine2017. Öl auf Leinwand. 25x25Les Andelys2017. Öl auf Leinwand. 30x25</description>
@@ -388,10 +388,10 @@
     
     <item>
       <title>Prinzeregntenstraße, München, Studie</title>
-      <link>http://www.marinart.de/de/journal/post-2017-08-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-08-05/</link>
       <pubDate>Sat, 05 Aug 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-08-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-08-05/</guid>
       <description>Prinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. 40x30
 &#34;Prinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. 40x30Prinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. 40x30Prinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. Ausschnitt
 &#34;Prinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. AusschnittPrinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. AusschnittPrinzeregntenstraße, München, Studie.2017. Öl auf Leinwand. Ausschnitt</description>
@@ -399,10 +399,10 @@
     
     <item>
       <title>Rosen im Innenhof</title>
-      <link>http://www.marinart.de/de/journal/post-2017-07-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-07-15/</link>
       <pubDate>Sat, 15 Jul 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-07-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-07-15/</guid>
       <description>Rosen im Innenhof2017. Öl auf Leinwand. 40x60
 &#34;Rosen im Innenhof2017. Öl auf Leinwand. 40x60Rosen im Innenhof2017. Öl auf Leinwand. 40x60Rosen im Innenhof2017. Öl auf Leinwand. Ausschnitt
 &#34;Rosen im Innenhof2017. Öl auf Leinwand. AusschnittRosen im Innenhof2017. Öl auf Leinwand. AusschnittRosen im Innenhof2017. Öl auf Leinwand. Ausschnitt</description>
@@ -410,10 +410,10 @@
     
     <item>
       <title>Nina Borisovna</title>
-      <link>http://www.marinart.de/de/journal/post-2017-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-06-15/</link>
       <pubDate>Thu, 15 Jun 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-06-15/</guid>
       <description>Nina Borisovna2017. Acryl auf Leinwand. 50x40
 &#34;Nina Borisovna2017. Acryl auf Leinwand. 50x40Nina Borisovna2017. Acryl auf Leinwand. 50x40Nina Borisovna2017. Aquarell auf Papier. 50x40
 &#34;Nina Borisovna2017. Aquarell auf Papier. 50x40Nina Borisovna2017. Aquarell auf Papier. 50x40</description>
@@ -421,10 +421,10 @@
     
     <item>
       <title>Haus an der Isar</title>
-      <link>http://www.marinart.de/de/journal/post-2017-05-01/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-05-01/</link>
       <pubDate>Mon, 01 May 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-05-01/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-05-01/</guid>
       <description>Haus an der Isar2017. Öl auf Leinwand. 50x40
 &#34;Haus an der Isar2017. Öl auf Leinwand. 50x40Haus an der Isar2017. Öl auf Leinwand. 50x40Haus an der Isar2017. Öl auf Leinwand. Ausschnitt
 &#34;Haus an der Isar2017. Öl auf Leinwand. AusschnittHaus an der Isar2017. Öl auf Leinwand. AusschnittHaus an der Isar2017.</description>
@@ -432,10 +432,10 @@
     
     <item>
       <title>Magnolia in der Nähe des Hauses</title>
-      <link>http://www.marinart.de/de/journal/post-2017-04-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-04-15/</link>
       <pubDate>Sat, 15 Apr 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-04-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-04-15/</guid>
       <description>Magnolia soulangeana2017. Aquarell auf Papier. 40x50
 &#34;Magnolia soulangeana2017. Aquarell auf Papier. 40x50Magnolia soulangeana2017. Aquarell auf Papier. 40x50Magnolia soulangeana2017. Aquarell auf Papier. Ausschnitt
 &#34;Magnolia soulangeana2017. Aquarell auf Papier. AusschnittMagnolia soulangeana2017. Aquarell auf Papier. AusschnittMagnolia stellata2017. Aquarell auf Papier. 40x50
@@ -444,10 +444,10 @@
     
     <item>
       <title>Pferden</title>
-      <link>http://www.marinart.de/de/journal/post-2017-04-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-04-10/</link>
       <pubDate>Mon, 10 Apr 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-04-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-04-10/</guid>
       <description>Pferden2017. Aquarell auf Papier. 40x50
 &#34;Pferden2017. Aquarell auf Papier. 40x50Pferden2017. Aquarell auf Papier. 40x50Pferden2017. Aquarell auf Papier. 40x50
 &#34;Pferden2017. Aquarell auf Papier. 40x50Pferden2017. Aquarell auf Papier. 40x50Pferden2017. Aquarell auf Papier. 40x50
@@ -456,20 +456,20 @@
     
     <item>
       <title>Ein Rosenstrauß</title>
-      <link>http://www.marinart.de/de/journal/post-2017-04-01/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-04-01/</link>
       <pubDate>Sat, 01 Apr 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-04-01/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-04-01/</guid>
       <description>Ein Rosenstrauß2017. Öl auf Leinwand. 40x40
 &#34;Ein Rosenstrauß2017. Öl auf Leinwand. 40x40Ein Rosenstrauß2017. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Karla aus Peru</title>
-      <link>http://www.marinart.de/de/journal/post-2017-02-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-02-15/</link>
       <pubDate>Wed, 15 Feb 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-02-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-02-15/</guid>
       <description>Karla aus Peru2017. Öl auf Leinwand. 40x60
 &#34;Karla aus Peru2017. Öl auf Leinwand. 40x60Karla aus Peru2017. Öl auf Leinwand. 40x60Karla aus Peru2017. Öl auf Leinwand. Ausschnitt
 &#34;Karla aus Peru2017. Öl auf Leinwand. AusschnittKarla aus Peru2017. Öl auf Leinwand. AusschnittKarla aus Peru2017. Öl auf Leinwand. Ausschnitt</description>
@@ -477,10 +477,10 @@
     
     <item>
       <title>Natalia am Klavier</title>
-      <link>http://www.marinart.de/de/journal/post-2017-02-01/</link>
+      <link>https://www.marinart.de/de/journal/post-2017-02-01/</link>
       <pubDate>Wed, 01 Feb 2017 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2017-02-01/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2017-02-01/</guid>
       <description>Natalia am Klavier.2017. Öl auf Leinwand. 40x60
 &#34;Natalia am Klavier.2017. Öl auf Leinwand. 40x60Natalia am Klavier.2017. Öl auf Leinwand. 40x60Natalia am Klavier.2017. Ausschnitt. 40x60
 &#34;Natalia am Klavier.2017. Ausschnitt. 40x60Natalia am Klavier.2017. Ausschnitt. 40x60Natalia am Klavier.2017. Ausschnitt. 40x60
@@ -489,10 +489,10 @@
     
     <item>
       <title>Die Schlafende Lá Rosálias</title>
-      <link>http://www.marinart.de/de/journal/post-2016-11-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-11-15/</link>
       <pubDate>Tue, 15 Nov 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-11-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-11-15/</guid>
       <description>Die Schlafende Lá Rosálias2016. Akryl auf Karton. 30x42
 &#34;Die Schlafende Lá Rosálias2016. Akryl auf Karton. 30x42Die Schlafende Lá Rosálias2016. Akryl auf Karton. 30x42Lá Rosálias aus Italien2016. Akryl auf Karton. 30x42
 &#34;Lá Rosálias aus Italien2016. Akryl auf Karton. 30x42Lá Rosálias aus Italien2016. Akryl auf Karton. 30x42</description>
@@ -500,20 +500,20 @@
     
     <item>
       <title>Olympiapark</title>
-      <link>http://www.marinart.de/de/journal/post-2016-11-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-11-05/</link>
       <pubDate>Sat, 05 Nov 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-11-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-11-05/</guid>
       <description>Olympiapark2016. Öl auf Leinwand. 40x40
 &#34;Olympiapark2016. Öl auf Leinwand. 40x40Olympiapark2016. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Ein Überblick aus dem Küchenfenster</title>
-      <link>http://www.marinart.de/de/journal/post-2016-10-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-10-25/</link>
       <pubDate>Tue, 25 Oct 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-10-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-10-25/</guid>
       <description>Ein Überblick aus dem Küchenfenster2016. Öl auf Leinwand. 40x50
 &#34;Ein Überblick aus dem Küchenfenster2016. Öl auf Leinwand. 40x50Ein Überblick aus dem Küchenfenster2016. Öl auf Leinwand. 40x50Ein Überblick aus dem Küchenfenster2016. Öl auf Leinwand. Ausschnitt
 &#34;Ein Überblick aus dem Küchenfenster2016. Öl auf Leinwand. AusschnittEin Überblick aus dem Küchenfenster2016. Öl auf Leinwand.</description>
@@ -521,10 +521,10 @@
     
     <item>
       <title>Fassade des Gymnasiums</title>
-      <link>http://www.marinart.de/de/journal/post-2016-10-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-10-20/</link>
       <pubDate>Thu, 20 Oct 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-10-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-10-20/</guid>
       <description>Fassade des Gymnasiums2016. Öl auf Leinwand. 60x40
 &#34;Fassade des Gymnasiums2016. Öl auf Leinwand. 60x40Fassade des Gymnasiums2016. Öl auf Leinwand. 60x40Fassade des Gymnasiums2016. Öl auf Leinwand. Ausschnitt
 &#34;Fassade des Gymnasiums2016. Öl auf Leinwand. AusschnittFassade des Gymnasiums2016. Öl auf Leinwand. AusschnittFassade des Gymnasiums2016. Öl auf Leinwand. Ausschnitt</description>
@@ -532,10 +532,10 @@
     
     <item>
       <title>Hunde Treffen</title>
-      <link>http://www.marinart.de/de/journal/post-2016-10-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-10-10/</link>
       <pubDate>Mon, 10 Oct 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-10-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-10-10/</guid>
       <description>Hunde Treffen2016. Öl auf Leinwand. 40x40
 &#34;Hunde Treffen2016. Öl auf Leinwand. 40x40Hunde Treffen2016. Öl auf Leinwand. 40x40Hunde Treffen2016. Öl auf Leinwand. Ausschnitt
 &#34;Hunde Treffen2016. Öl auf Leinwand. AusschnittHunde Treffen2016. Öl auf Leinwand. AusschnittHunde Treffen2016. Öl auf Leinwand. Ausschnitt
@@ -544,10 +544,10 @@
     
     <item>
       <title>Leon mit Fagott</title>
-      <link>http://www.marinart.de/de/journal/post-2016-10-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-10-05/</link>
       <pubDate>Wed, 05 Oct 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-10-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-10-05/</guid>
       <description>Leon mit Fagott2016. Öl auf Leinwand. 110x70
 &#34;Leon mit Fagott2016. Öl auf Leinwand. 110x70Leon mit Fagott2016. Öl auf Leinwand. 110x70Leon mit Fagott2016. Öl auf Leinwand. Ausschnitt
 &#34;Leon mit Fagott2016. Öl auf Leinwand. AusschnittLeon mit Fagott2016. Öl auf Leinwand. AusschnittLeon mit Fagott2016. Öl auf Leinwand. Ausschnitt</description>
@@ -555,10 +555,10 @@
     
     <item>
       <title>Wehrsteg Brücke</title>
-      <link>http://www.marinart.de/de/journal/post-2016-09-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-09-10/</link>
       <pubDate>Sat, 10 Sep 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-09-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-09-10/</guid>
       <description>Wehrsteg Brücke2016. Öl auf Leinwand. 40x30
 &#34;Wehrsteg Brücke2016. Öl auf Leinwand. 40x30Wehrsteg Brücke2016. Öl auf Leinwand. 40x30Wehrsteg Brücke2016. Öl auf Leinwand. Ausschnitt
 &#34;Wehrsteg Brücke2016. Öl auf Leinwand. AusschnittWehrsteg Brücke2016. Öl auf Leinwand. AusschnittWehrsteg Brücke2016. Öl auf Leinwand. Ausschnitt
@@ -567,10 +567,10 @@
     
     <item>
       <title>Herbst Reihe</title>
-      <link>http://www.marinart.de/de/journal/post-2016-09-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-09-05/</link>
       <pubDate>Mon, 05 Sep 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-09-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-09-05/</guid>
       <description>Herbst serie2016. Aquarell auf Papier. a5
 &#34;Herbst serie2016. Aquarell auf Papier. a5Herbst serie2016. Aquarell auf Papier. a5
 &#34;Herbst serie2016. Aquarell auf Papier. a5Herbst serie2016. Aquarell auf Papier. a5
@@ -580,10 +580,10 @@
     
     <item>
       <title>Achensee</title>
-      <link>http://www.marinart.de/de/journal/post-2016-08-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-08-15/</link>
       <pubDate>Mon, 15 Aug 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-08-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-08-15/</guid>
       <description>Achensee2016. Öl auf Leinwand. 50x30
 &#34;Achensee2016. Öl auf Leinwand. 50x30Achensee2016. Öl auf Leinwand. 50x30Achensee2016. Öl auf Leinwand. 25x25
 &#34;Achensee2016. Öl auf Leinwand. 25x25Achensee2016. Öl auf Leinwand. 25x25Achensee2016. Öl auf Leinwand. 25x25
@@ -592,10 +592,10 @@
     
     <item>
       <title>Mirley auf orange Decke</title>
-      <link>http://www.marinart.de/de/journal/post-2016-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-06-15/</link>
       <pubDate>Wed, 15 Jun 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-06-15/</guid>
       <description>Mirley auf orange Decke2016. Öl auf Leinwand. 80x60
 &#34;Mirley auf orange Decke2016. Öl auf Leinwand. 80x60Mirley auf orange Decke2016. Öl auf Leinwand. 80x60Mirley auf orange Decke2016. Öl auf Leinwand. Ausschnitt
 &#34;Mirley auf orange Decke2016. Öl auf Leinwand. AusschnittMirley auf orange Decke2016. Öl auf Leinwand. AusschnittMirley auf orange Decke2016.</description>
@@ -603,10 +603,10 @@
     
     <item>
       <title>Jana</title>
-      <link>http://www.marinart.de/de/journal/post-2016-05-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-05-25/</link>
       <pubDate>Wed, 25 May 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-05-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-05-25/</guid>
       <description>Jana2016. Öl auf Leinwand. 60x80
 &#34;Jana2016. Öl auf Leinwand. 60x80Jana2016. Öl auf Leinwand. 60x80Jana2016. Öl auf Leinwand. Ausschnitt
 &#34;Jana2016. Öl auf Leinwand. AusschnittJana2016. Öl auf Leinwand. AusschnittJana2016. Öl auf Leinwand. Ausschnitt
@@ -615,10 +615,10 @@
     
     <item>
       <title>Valentin Serov</title>
-      <link>http://www.marinart.de/de/journal/post-2016-05-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-05-20/</link>
       <pubDate>Fri, 20 May 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-05-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-05-20/</guid>
       <description>Valentin Serov2016. Kohl auf Leinwand. 50x40
 &#34;Valentin Serov2016. Kohl auf Leinwand. 50x40Valentin Serov2016. Kohl auf Leinwand. 50x40Valentin Serov2016. Kohl auf Leinwand. Ausschnitt
 &#34;Valentin Serov2016. Kohl auf Leinwand. AusschnittValentin Serov2016. Kohl auf Leinwand. AusschnittValentin Serov2016. Kohl auf Leinwand. Ausschnitt
@@ -627,10 +627,10 @@
     
     <item>
       <title>Bildnis von Generalmajor Baron Uslar Peter Karlowitsch</title>
-      <link>http://www.marinart.de/de/journal/post-2016-05-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-05-15/</link>
       <pubDate>Sun, 15 May 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-05-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-05-15/</guid>
       <description>Bildnis von Generalmajor Baron Uslar Peter Karlowitsch2016. Öl auf Leinwand. 60x50
 &#34;Bildnis von Generalmajor Baron Uslar Peter Karlowitsch2016. Öl auf Leinwand. 60x50Bildnis von Generalmajor Baron Uslar Peter Karlowitsch2016. Öl auf Leinwand. 60x50Bildnis von Generalmajor Baron Uslar Peter Karlowitsch2016. Öl auf Leinwand. Ausschnitt
 &#34;Bildnis von Generalmajor Baron Uslar Peter Karlowitsch2016. Öl auf Leinwand. AusschnittBildnis von Generalmajor Baron Uslar Peter Karlowitsch2016.</description>
@@ -638,10 +638,10 @@
     
     <item>
       <title>Otranto, Italien</title>
-      <link>http://www.marinart.de/de/journal/post-2016-05-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-05-10/</link>
       <pubDate>Tue, 10 May 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-05-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-05-10/</guid>
       <description>Otranto. Italien2016. Aquarell auf Papier. 50x40
 &#34;Otranto. Italien2016. Aquarell auf Papier. 50x40Otranto Bucht2016. Aquarell auf Papier. 50x40
 &#34;Otranto Bucht2016. Aquarell auf Papier. 50x40Otranto Strand2016. Aquarell auf Papier. 50x40
@@ -651,10 +651,10 @@
     
     <item>
       <title>Lago di Garda, Italien</title>
-      <link>http://www.marinart.de/de/journal/post-2016-04-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-04-15/</link>
       <pubDate>Fri, 15 Apr 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-04-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-04-15/</guid>
       <description>Lago di Garda Bucht2016. Aquarell auf Papier. 50x40
 &#34;Lago di Garda Bucht2016. Aquarell auf Papier. 50x40Lago di Garda Bucht2016. Aquarell auf Papier. 50x40Lago di Garda Ufer. Italien2016. Aquarell auf Papier. 50x40
 &#34;Lago di Garda Ufer. Italien2016. Aquarell auf Papier. 50x40Lago di Garda Ufer. Italien2016. Aquarell auf Papier. 50x40</description>
@@ -662,10 +662,10 @@
     
     <item>
       <title>Verona im April</title>
-      <link>http://www.marinart.de/de/journal/post-2016-04-01/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-04-01/</link>
       <pubDate>Fri, 01 Apr 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-04-01/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-04-01/</guid>
       <description>Verona. Castelvecchio Brücke 14 Jahrhundert. Italien2016. Öl auf Leinwand. 60x30
 &#34;Verona. Castelvecchio Brücke 14 Jahrhundert. Italien2016. Öl auf Leinwand. 60x30Verona. Castelvecchio Brücke 14 Jahrhundert. Italien2016. Öl auf Leinwand. Ausschnitt
 &#34;Verona. Castelvecchio Brücke 14 Jahrhundert. Italien2016. Öl auf Leinwand. AusschnittVerona. Castelvecchio Brücke 14 Jahrhundert. Italien2016. Öl auf Leinwand. Ausschnitt
@@ -674,20 +674,20 @@
     
     <item>
       <title>Serebriakova</title>
-      <link>http://www.marinart.de/de/journal/post-2016-03-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-03-15/</link>
       <pubDate>Tue, 15 Mar 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-03-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-03-15/</guid>
       <description>Serebriakova2016. unknown-media. 70x50
 &#34;Serebriakova2016. unknown-media. 70x50Serebriakova2016. unknown-media. 70x50</description>
     </item>
     
     <item>
       <title>August Rodin</title>
-      <link>http://www.marinart.de/de/journal/post-2016-03-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-03-05/</link>
       <pubDate>Sat, 05 Mar 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-03-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-03-05/</guid>
       <description>August Rodin2016. Aquarell/Tuschzeichnung auf Papier. 70x50
 &#34;August Rodin2016. Aquarell/Tuschzeichnung auf Papier. 70x50August Rodin2016. Aquarell/Tuschzeichnung auf Papier. 70x50August Rodin2016. Aquarell/Tuschzeichnung auf Papier. 70x50
 &#34;August Rodin2016. Aquarell/Tuschzeichnung auf Papier. 70x50August Rodin2016. Aquarell/Tuschzeichnung auf Papier. 70x50</description>
@@ -695,10 +695,10 @@
     
     <item>
       <title>Sarah aus Afghanistan</title>
-      <link>http://www.marinart.de/de/journal/post-2016-02-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2016-02-15/</link>
       <pubDate>Mon, 15 Feb 2016 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2016-02-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2016-02-15/</guid>
       <description>Sarah aus Afghanistan2016. Öl auf Leinwand. 70x50
 &#34;Sarah aus Afghanistan2016. Öl auf Leinwand. 70x50Sarah aus Afghanistan2016. Öl auf Leinwand. 70x50Sarah aus Afghanistan2016. Öl auf Leinwand. Ausschnitt
 &#34;Sarah aus Afghanistan2016. Öl auf Leinwand. AusschnittSarah aus Afghanistan2016. Öl auf Leinwand. Ausschnitt</description>
@@ -706,20 +706,20 @@
     
     <item>
       <title>Mascha mit 15 Jahre alt</title>
-      <link>http://www.marinart.de/de/journal/post-2015-11-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-11-15/</link>
       <pubDate>Sun, 15 Nov 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-11-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-11-15/</guid>
       <description>Mascha mit 15 Jahre alt2015. Öl auf Leinwand. 50x40
 &#34;Mascha mit 15 Jahre alt2015. Öl auf Leinwand. 50x40Mascha mit 15 Jahre alt2015. Öl auf Leinwand. 50x40</description>
     </item>
     
     <item>
       <title>Aussicht auf München aus Luitpoldpark</title>
-      <link>http://www.marinart.de/de/journal/post-2015-10-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-10-25/</link>
       <pubDate>Sun, 25 Oct 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-10-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-10-25/</guid>
       <description>Aussicht auf München aus Luitpoldpark2015. Öl auf Leinwand. 40x50
 &#34;Aussicht auf München aus Luitpoldpark2015. Öl auf Leinwand. 40x50Aussicht auf München aus Luitpoldpark2015. Öl auf Leinwand. 40x50Aussicht auf München aus Luitpoldpark2015. Öl auf Leinwand. Ausschnitt
 &#34;Aussicht auf München aus Luitpoldpark2015. Öl auf Leinwand. AusschnittAussicht auf München aus Luitpoldpark2015. Öl auf Leinwand.</description>
@@ -727,10 +727,10 @@
     
     <item>
       <title>Zwei Skizzen im Herbst, München Umland</title>
-      <link>http://www.marinart.de/de/journal/post-2015-10-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-10-20/</link>
       <pubDate>Tue, 20 Oct 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-10-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-10-20/</guid>
       <description>Hochgrad im September2015. Aquarell auf Papier. a3
 &#34;Hochgrad im September2015. Aquarell auf Papier. a3Hochgrad im September2015. Aquarell auf Papier. a3Ammersee im Oktober2015. Aquarell auf Papier. a3
 &#34;Ammersee im Oktober2015. Aquarell auf Papier. a3Ammersee im Oktober2015. Aquarell auf Papier. a3</description>
@@ -738,10 +738,10 @@
     
     <item>
       <title>Schwabing, München im Oktober</title>
-      <link>http://www.marinart.de/de/journal/post-2015-10-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-10-15/</link>
       <pubDate>Thu, 15 Oct 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-10-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-10-15/</guid>
       <description>Schwabing. München im Oktober2015. Öl auf Leinwand. 40x40
 &#34;Schwabing. München im Oktober2015. Öl auf Leinwand. 40x40Schwabing. München im Oktober2015. Öl auf Leinwand. 40x40Schwabing. München im Oktober2015. Öl auf Leinwand. Ausschnitt
 &#34;Schwabing. München im Oktober2015. Öl auf Leinwand. AusschnittSchwabing. München im Oktober2015. Öl auf Leinwand. AusschnittSchwabing.</description>
@@ -749,10 +749,10 @@
     
     <item>
       <title>Portretisto Wettbewerb</title>
-      <link>http://www.marinart.de/de/journal/post-2015-10-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-10-10/</link>
       <pubDate>Sat, 10 Oct 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-10-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-10-10/</guid>
       <description>Portretisto, Maler Vladimir Zviagin2015. Sepia/papier. a3
 &#34;Portretisto, Maler Vladimir Zviagin2015. Sepia/papier. a3Portretisto, Maler Vladimir Zviagin2015. Sepia/papier. a3Portretisto, Maler Alexey Tochin2015. Sepia/papier. a3
 &#34;Portretisto, Maler Alexey Tochin2015. Sepia/papier. a3Portretisto, Maler Alexey Tochin2015. Sepia/papier. a3Portretisto, Maler Alexey Petrov2015. Graphit/papier. a3
@@ -761,20 +761,20 @@
     
     <item>
       <title>Mirley aus Columbia</title>
-      <link>http://www.marinart.de/de/journal/post-2015-10-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-10-05/</link>
       <pubDate>Mon, 05 Oct 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-10-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-10-05/</guid>
       <description>Mirley aus Columbia2015. Öl auf Leinwand. 50x70
 &#34;Mirley aus Columbia2015. Öl auf Leinwand. 50x70Mirley aus Columbia2015. Öl auf Leinwand. 50x70</description>
     </item>
     
     <item>
       <title>Kleinhesseloher See im Herbst</title>
-      <link>http://www.marinart.de/de/journal/post-2015-10-01/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-10-01/</link>
       <pubDate>Thu, 01 Oct 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-10-01/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-10-01/</guid>
       <description>Kleinhesseloher See im Herbst2015. Öl auf Leinwand. 40x60
 &#34;Kleinhesseloher See im Herbst2015. Öl auf Leinwand. 40x60Kleinhesseloher See im Herbst2015. Öl auf Leinwand. 40x60Kleinhesseloher See im Herbst2015. Öl auf Leinwand. Ausschnitt
 &#34;Kleinhesseloher See im Herbst2015. Öl auf Leinwand. AusschnittKleinhesseloher See im Herbst2015. Öl auf Leinwand. AusschnittKleinhesseloher See im Herbst2015.</description>
@@ -782,10 +782,10 @@
     
     <item>
       <title>Acryl Series</title>
-      <link>http://www.marinart.de/de/journal/post-2015-08-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-08-15/</link>
       <pubDate>Sat, 15 Aug 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-08-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-08-15/</guid>
       <description>Acryl Series2015. Acryl auf Papier. a4
 &#34;Acryl Series2015. Acryl auf Papier. a4Acryl Series2015. Acryl auf Papier. a4
 &#34;Acryl Series2015. Acryl auf Papier. a4Acryl Series2015. Acryl auf Papier. a4
@@ -795,10 +795,10 @@
     
     <item>
       <title>Altaj Bergland</title>
-      <link>http://www.marinart.de/de/journal/post-2015-08-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-08-10/</link>
       <pubDate>Mon, 10 Aug 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-08-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-08-10/</guid>
       <description>Altaj Bergland. Der Fluss Katun2015. Öl auf Leinwand. 60x30
 &#34;Altaj Bergland. Der Fluss Katun2015. Öl auf Leinwand. 60x30Altaj Bergland. Der Fluss Katun2015. Öl auf Leinwand. 60x30Altaj. Telezkoje See2015. Öl auf Leinwand. 60x30
 &#34;Altaj. Telezkoje See2015. Öl auf Leinwand. 60x30Altaj. Telezkoje See2015. Öl auf Leinwand. 60x30Altaj Bergland.</description>
@@ -806,20 +806,20 @@
     
     <item>
       <title>Orangerie im Englischen Garten</title>
-      <link>http://www.marinart.de/de/journal/post-2015-07-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-07-15/</link>
       <pubDate>Wed, 15 Jul 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-07-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-07-15/</guid>
       <description>Orangerie im Englischen Garten2015. Öl auf Leinwand. 40x40
 &#34;Orangerie im Englischen Garten2015. Öl auf Leinwand. 40x40Orangerie im Englischen Garten2015. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Mariä Verkündigung</title>
-      <link>http://www.marinart.de/de/journal/post-2015-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-06-15/</link>
       <pubDate>Mon, 15 Jun 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-06-15/</guid>
       <description>Mariä Verkündigung2015. Öl auf Leinwand. 80x120
 &#34;Mariä Verkündigung2015. Öl auf Leinwand. 80x120Mariä Verkündigung2015. Öl auf Leinwand. 80x120Mariä Verkündigung2015. Öl auf Leinwand. Ausschnitt
 &#34;Mariä Verkündigung2015. Öl auf Leinwand. AusschnittMariä Verkündigung2015. Öl auf Leinwand. AusschnittMariä Verkündigung2015. Öl auf Leinwand. Ausschnitt
@@ -828,10 +828,10 @@
     
     <item>
       <title>Drei blumen</title>
-      <link>http://www.marinart.de/de/journal/post-2015-06-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-06-05/</link>
       <pubDate>Fri, 05 Jun 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-06-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-06-05/</guid>
       <description>Zyklamen2015. Öl auf Leinwand. 50x70
 &#34;Zyklamen2015. Öl auf Leinwand. 50x70Zyklamen2015. Öl auf Leinwand. 50x70Magnolie2015. Öl auf Leinwand. 50x70
 &#34;Magnolie2015. Öl auf Leinwand. 50x70Magnolie2015. Öl auf Leinwand. 50x70Löwenmaul2015. Öl auf Leinwand. 50x70
@@ -840,20 +840,20 @@
     
     <item>
       <title>Bayerischer Landtag</title>
-      <link>http://www.marinart.de/de/journal/post-2015-04-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-04-15/</link>
       <pubDate>Wed, 15 Apr 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-04-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-04-15/</guid>
       <description>Bayerischer Landtag2015. Öl auf Leinwand. 60x30
 &#34;Bayerischer Landtag2015. Öl auf Leinwand. 60x30Bayerischer Landtag2015. Öl auf Leinwand. 60x30</description>
     </item>
     
     <item>
       <title>Ophelias Gräser</title>
-      <link>http://www.marinart.de/de/journal/post-2015-03-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-03-15/</link>
       <pubDate>Sun, 15 Mar 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-03-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-03-15/</guid>
       <description>Ophelias Gräser2015. Öl auf Leinwand. 110x70
 &#34;Ophelias Gräser2015. Öl auf Leinwand. 110x70Ophelias Gräser2015. Öl auf Leinwand. 110x70Ophelias Gräser2015. Öl auf Leinwand. Ausschnitt
 &#34;Ophelias Gräser2015. Öl auf Leinwand. AusschnittOphelias Gräser2015. Öl auf Leinwand. AusschnittOphelias Gräser2015. Öl auf Leinwand. Ausschnitt
@@ -862,30 +862,30 @@
     
     <item>
       <title>Der letzte Schnee</title>
-      <link>http://www.marinart.de/de/journal/post-2015-02-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-02-15/</link>
       <pubDate>Sun, 15 Feb 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-02-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-02-15/</guid>
       <description>Der letzte Schnee2015. Öl auf Leinwand. 40x40
 &#34;Der letzte Schnee2015. Öl auf Leinwand. 40x40Der letzte Schnee2015. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Kleinhesseloher See im Februar</title>
-      <link>http://www.marinart.de/de/journal/post-2015-02-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2015-02-05/</link>
       <pubDate>Thu, 05 Feb 2015 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2015-02-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2015-02-05/</guid>
       <description>Kleinhesseloher See im Februar2015. Öl auf Leinwand. 60x40
 &#34;Kleinhesseloher See im Februar2015. Öl auf Leinwand. 60x40Kleinhesseloher See im Februar2015. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Christina</title>
-      <link>http://www.marinart.de/de/journal/post-2014-12-01/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-12-01/</link>
       <pubDate>Mon, 01 Dec 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-12-01/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-12-01/</guid>
       <description>Christina2014. Bleistift auf Papier. a3
 &#34;Christina2014. Bleistift auf Papier. a3Christina2014. Bleistift auf Papier. a3
 &#34;Christina2014. Bleistift auf Papier. a3Christina2014. Bleistift auf Papier. a3
@@ -895,10 +895,10 @@
     
     <item>
       <title>Chiusi, Toscana</title>
-      <link>http://www.marinart.de/de/journal/post-2014-10-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-10-15/</link>
       <pubDate>Wed, 15 Oct 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-10-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-10-15/</guid>
       <description>Trauben, Chiusi, Toscana2014. Öl auf Leinwand. 40x40
 &#34;Trauben, Chiusi, Toscana2014. Öl auf Leinwand. 40x40Center von Chiusi, Toscana2014. Öl auf Leinwand. 60x40
 &#34;Center von Chiusi, Toscana2014. Öl auf Leinwand. 60x40Kloster im Chiusi Toskana. Italien2014. Öl auf Leinwand. 40x60
@@ -907,20 +907,20 @@
     
     <item>
       <title>Portrait von Diyah Erdelen aus Indonesia</title>
-      <link>http://www.marinart.de/de/journal/post-2014-09-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-09-20/</link>
       <pubDate>Sat, 20 Sep 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-09-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-09-20/</guid>
       <description>Portrait von Diyah Erdelen aus Indonesia2014. Öl auf Leinwand. 40x40
 &#34;Portrait von Diyah Erdelen aus Indonesia2014. Öl auf Leinwand. 40x40Portrait von Diyah Erdelen aus Indonesia2014. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Liguria im September</title>
-      <link>http://www.marinart.de/de/journal/post-2014-09-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-09-15/</link>
       <pubDate>Mon, 15 Sep 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-09-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-09-15/</guid>
       <description>Colle dei Bardellini in Imperia2014. Öl auf Leinwand. 40x40
 &#34;Colle dei Bardellini in Imperia2014. Öl auf Leinwand. 40x40Colle dei Bardellini in Imperia2014. Öl auf Leinwand. 40x40Imperia, Liguria im September2014. Öl auf Leinwand. 60x40
 &#34;Imperia, Liguria im September2014. Öl auf Leinwand. 60x40Imperia, Liguria im September2014. Öl auf Leinwand. 60x40</description>
@@ -928,10 +928,10 @@
     
     <item>
       <title>La Côte Bleue</title>
-      <link>http://www.marinart.de/de/journal/post-2014-09-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-09-10/</link>
       <pubDate>Wed, 10 Sep 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-09-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-09-10/</guid>
       <description>La Côte Bleue2014. Öl auf Leinwand. 40x40
 &#34;La Côte Bleue2014. Öl auf Leinwand. 40x40La Côte Bleue2014. Öl auf Leinwand. 40x40Aussicht über Marseille2014. Öl auf Leinwand. 60x30
 &#34;Aussicht über Marseille2014. Öl auf Leinwand. 60x30Aussicht über Marseille2014. Öl auf Leinwand. 60x30</description>
@@ -939,10 +939,10 @@
     
     <item>
       <title>Adam und Eve</title>
-      <link>http://www.marinart.de/de/journal/post-2014-09-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-09-05/</link>
       <pubDate>Fri, 05 Sep 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-09-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-09-05/</guid>
       <description>Adam und Eve2014. Öl auf Leinwand. 100x120
 &#34;Adam und Eve2014. Öl auf Leinwand. 100x120Adam und Eve2014. Öl auf Leinwand. Ausschnitt
 &#34;Adam und Eve2014. Öl auf Leinwand. AusschnittAdam und Eve2014. Öl auf Leinwand. Ausschnitt
@@ -951,40 +951,40 @@
     
     <item>
       <title>Obskoe See, Siberia</title>
-      <link>http://www.marinart.de/de/journal/post-2014-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-06-15/</link>
       <pubDate>Sun, 15 Jun 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-06-15/</guid>
       <description>Obskoe See, Siberia2014. Öl auf Leinwand. 60x40
 &#34;Obskoe See, Siberia2014. Öl auf Leinwand. 60x40Obskoe See, Siberia2014. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Ammersee im Juli</title>
-      <link>http://www.marinart.de/de/journal/post-2014-06-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-06-10/</link>
       <pubDate>Tue, 10 Jun 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-06-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-06-10/</guid>
       <description>Ammersee im Juli2014. Bleistift auf Papier. 13x18
 &#34;Ammersee im Juli2014. Bleistift auf Papier. 13x18Ammersee im Juli2014. Bleistift auf Papier. 13x18</description>
     </item>
     
     <item>
       <title>Wilkommen in Hirschau Biergarten</title>
-      <link>http://www.marinart.de/de/journal/post-2014-05-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-05-15/</link>
       <pubDate>Thu, 15 May 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-05-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-05-15/</guid>
       <description>Wilkommen in Hirschau Biergarten2014. Öl auf Leinwand. 60x40
 &#34;Wilkommen in Hirschau Biergarten2014. Öl auf Leinwand. 60x40Wilkommen in Hirschau Biergarten2014. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Cavaleze Valley, Südtirol</title>
-      <link>http://www.marinart.de/de/journal/post-2014-03-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2014-03-15/</link>
       <pubDate>Sat, 15 Mar 2014 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2014-03-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2014-03-15/</guid>
       <description>Cavaleze Valley, Südtirol2014. Öl auf Leinwand. 60x30
 &#34;Cavaleze Valley, Südtirol2014. Öl auf Leinwand. 60x30Cavaleze Valley, Südtirol2014. Öl auf Leinwand. 60x30Predazzo, Südtirol2014. Öl auf Leinwand. 30x30
 &#34;Predazzo, Südtirol2014. Öl auf Leinwand. 30x30Predazzo, Südtirol2014. Öl auf Leinwand. 30x30Shnee in Predazzo, Südtirol2014. Öl auf Leinwand. 30x30
@@ -993,10 +993,10 @@
     
     <item>
       <title>Zeichnungen</title>
-      <link>http://www.marinart.de/de/journal/post-2013-11-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-11-15/</link>
       <pubDate>Fri, 15 Nov 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-11-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-11-15/</guid>
       <description>Hofgarten, Theatinerkirche am Odeonsplatz2013. Bleistift auf Papier. a3
 &#34;Hofgarten, Theatinerkirche am Odeonsplatz2013. Bleistift auf Papier. a3Hofgarten, Theatinerkirche am Odeonsplatz2013. Bleistift auf Papier. a3Stillleben2013. Kohl auf Papier. a4
 &#34;Stillleben2013. Kohl auf Papier. a4Stillleben2013. Kohl auf Papier. a4Auf der Strasse2013. Bleistift auf Papier. a4
@@ -1005,40 +1005,40 @@
     
     <item>
       <title>Gelbe Blätter Villa</title>
-      <link>http://www.marinart.de/de/journal/post-2013-10-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-10-20/</link>
       <pubDate>Sun, 20 Oct 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-10-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-10-20/</guid>
       <description>Gelbe Blätter Villa2013. Öl auf Leinwand. 50x50
 &#34;Gelbe Blätter Villa2013. Öl auf Leinwand. 50x50Gelbe Blätter Villa2013. Öl auf Leinwand. 50x50</description>
     </item>
     
     <item>
       <title>Seehund und rote Blätter</title>
-      <link>http://www.marinart.de/de/journal/post-2013-10-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-10-15/</link>
       <pubDate>Tue, 15 Oct 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-10-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-10-15/</guid>
       <description>Seehund und rote Blätter2013. Öl auf Leinwand. 40x40
 &#34;Seehund und rote Blätter2013. Öl auf Leinwand. 40x40Seehund und rote Blätter2013. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Hähne und Kürbisse</title>
-      <link>http://www.marinart.de/de/journal/post-2013-10-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-10-05/</link>
       <pubDate>Sat, 05 Oct 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-10-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-10-05/</guid>
       <description>Hähne und Kürbisse2013. Öl auf Leinwand. 68x40
 &#34;Hähne und Kürbisse2013. Öl auf Leinwand. 68x40Hähne und Kürbisse2013. Öl auf Leinwand. 68x40</description>
     </item>
     
     <item>
       <title>Auf den Türstufen</title>
-      <link>http://www.marinart.de/de/journal/post-2013-08-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-08-15/</link>
       <pubDate>Thu, 15 Aug 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-08-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-08-15/</guid>
       <description>Auf den Türstufen2013. Öl auf Leinwand. 110x70
 &#34;Auf den Türstufen2013. Öl auf Leinwand. 110x70Auf den Türstufen2013. Öl auf Leinwand. 110x70Auf den Türstufen2013. Öl auf Leinwand. Ausschnitt
 &#34;Auf den Türstufen2013. Öl auf Leinwand. AusschnittAuf den Türstufen2013. Öl auf Leinwand. AusschnittAuf den Türstufen2013. Öl auf Leinwand. Ausschnitt</description>
@@ -1046,20 +1046,20 @@
     
     <item>
       <title>Alpspitze</title>
-      <link>http://www.marinart.de/de/journal/post-2013-07-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-07-15/</link>
       <pubDate>Mon, 15 Jul 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-07-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-07-15/</guid>
       <description>Alpspitze2013. Öl auf Leinwand. 30x30
 &#34;Alpspitze2013. Öl auf Leinwand. 30x30Alpspitze2013. Öl auf Leinwand. 30x30</description>
     </item>
     
     <item>
       <title>Acryl und Tuschzeichnung</title>
-      <link>http://www.marinart.de/de/journal/post-2013-07-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-07-10/</link>
       <pubDate>Wed, 10 Jul 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-07-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-07-10/</guid>
       <description>Die Mädchen und der Fisch2013. Acryl/Tuschzeichnung auf Papier. a4
 &#34;Die Mädchen und der Fisch2013. Acryl/Tuschzeichnung auf Papier. a4Die Mädchen und der Fisch2013. Acryl/Tuschzeichnung auf Papier. a4Hodga Nasreddin2013. Acryl/Tuschzeichnung auf Papier. a4
 &#34;Hodga Nasreddin2013. Acryl/Tuschzeichnung auf Papier. a4Hodga Nasreddin2013. Acryl/Tuschzeichnung auf Papier. a4Schiffe2013. Acryl/Tuschzeichnung auf Papier.</description>
@@ -1067,30 +1067,30 @@
     
     <item>
       <title>Der Wal: 7 monate später</title>
-      <link>http://www.marinart.de/de/journal/post-2013-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-06-15/</link>
       <pubDate>Sat, 15 Jun 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-06-15/</guid>
       <description>Der Wal: 7 monate später2013. Akrylfaden, Weben. 65x50
 &#34;Der Wal: 7 monate später2013. Akrylfaden, Weben. 65x50Der Wal: 7 monate später2013. Akrylfaden, Weben. 65x50</description>
     </item>
     
     <item>
       <title>Hirschau Beergarten</title>
-      <link>http://www.marinart.de/de/journal/post-2013-06-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-06-10/</link>
       <pubDate>Mon, 10 Jun 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-06-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-06-10/</guid>
       <description>Hirschau Beergarten2013. Öl auf Leinwand. 50x70
 &#34;Hirschau Beergarten2013. Öl auf Leinwand. 50x70Hirschau Beergarten2013. Öl auf Leinwand. 50x70</description>
     </item>
     
     <item>
       <title>Drei Selbstporträts</title>
-      <link>http://www.marinart.de/de/journal/post-2013-05-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-05-15/</link>
       <pubDate>Wed, 15 May 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-05-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-05-15/</guid>
       <description>Selbstbildnis2007. Öl auf Leinwand. 40x30
 &#34;Selbstbildnis2007. Öl auf Leinwand. 40x30Selbstbildnis2007. Öl auf Leinwand. 40x30Selbstbildnis2001. Karton/pastel. 40x30
 &#34;Selbstbildnis2001. Karton/pastel. 40x30Selbstbildnis2001. Karton/pastel. 40x30%!s(&amp;lt;nil&amp;gt;)%!d(&amp;lt;nil&amp;gt;). . &#34;%!s(&amp;lt;nil&amp;gt;)%!d(&amp;lt;nil&amp;gt;). . %!s(&amp;lt;nil&amp;gt;)%!d(&amp;lt;nil&amp;gt;). . </description>
@@ -1098,20 +1098,20 @@
     
     <item>
       <title>Nashorn und Rose</title>
-      <link>http://www.marinart.de/de/journal/post-2013-04-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-04-15/</link>
       <pubDate>Mon, 15 Apr 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-04-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-04-15/</guid>
       <description>Nashorn und Rose2013. Öl auf Leinwand. 80x60
 &#34;Nashorn und Rose2013. Öl auf Leinwand. 80x60Nashorn und Rose2013. Öl auf Leinwand. 80x60</description>
     </item>
     
     <item>
       <title>Alten Studien</title>
-      <link>http://www.marinart.de/de/journal/post-2013-04-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-04-10/</link>
       <pubDate>Wed, 10 Apr 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-04-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-04-10/</guid>
       <description>Alter Mann, Studie1992. Bleistift auf Papier. a2
 &#34;Alter Mann, Studie1992. Bleistift auf Papier. a2Alter Mann, Studie1992. Bleistift auf Papier. a2Alter Mann, Studie1992. Öl auf Leinwand. 40x40
 &#34;Alter Mann, Studie1992. Öl auf Leinwand. 40x40Alter Mann, Studie1992. Öl auf Leinwand. 40x40Alter Mann, Studie1992. Bleistift auf Papier. 60x80</description>
@@ -1119,50 +1119,50 @@
     
     <item>
       <title>Zweiter Porträt von Nastia</title>
-      <link>http://www.marinart.de/de/journal/post-2013-03-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-03-15/</link>
       <pubDate>Fri, 15 Mar 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-03-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-03-15/</guid>
       <description>Zweiter Porträt von Nastia2013. Öl auf Leinwand. 60x30
 &#34;Zweiter Porträt von Nastia2013. Öl auf Leinwand. 60x30Zweiter Porträt von Nastia2013. Öl auf Leinwand. 60x30</description>
     </item>
     
     <item>
       <title>Erste Porträt von Nastia</title>
-      <link>http://www.marinart.de/de/journal/post-2013-03-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-03-10/</link>
       <pubDate>Sun, 10 Mar 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-03-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-03-10/</guid>
       <description>Erste Porträt von Nastia2013. Öl auf Leinwand. 40x60
 &#34;Erste Porträt von Nastia2013. Öl auf Leinwand. 40x60Erste Porträt von Nastia2013. Öl auf Leinwand. 40x60</description>
     </item>
     
     <item>
       <title>Der Wal: 3 monate später</title>
-      <link>http://www.marinart.de/de/journal/post-2013-02-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-02-15/</link>
       <pubDate>Fri, 15 Feb 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-02-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-02-15/</guid>
       <description>Der Wal: 3 monate später2013. Akrylfaden, Weben. 65x50
 &#34;Der Wal: 3 monate später2013. Akrylfaden, Weben. 65x50Der Wal: 3 monate später2013. Akrylfaden, Weben. 65x50</description>
     </item>
     
     <item>
       <title>Das Porträt von Alena</title>
-      <link>http://www.marinart.de/de/journal/post-2013-02-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-02-10/</link>
       <pubDate>Sun, 10 Feb 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-02-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-02-10/</guid>
       <description>Das Porträt von Alena2013. Öl auf Leinwand. 40x60
 &#34;Das Porträt von Alena2013. Öl auf Leinwand. 40x60Das Porträt von Alena2013. Öl auf Leinwand. 40x60</description>
     </item>
     
     <item>
       <title>Luitpoldpark im Januar</title>
-      <link>http://www.marinart.de/de/journal/post-2013-01-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2013-01-15/</link>
       <pubDate>Tue, 15 Jan 2013 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2013-01-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2013-01-15/</guid>
       <description>Luitpoldpark im Januar2013. Öl auf Leinwand. 80x40
 &#34;Luitpoldpark im Januar2013. Öl auf Leinwand. 80x40Luitpoldpark im Januar2013. Öl auf Leinwand. 80x40Luitpoldpark im Januar2013. Ausschnitt. 80x40
 &#34;Luitpoldpark im Januar2013. Ausschnitt. 80x40Luitpoldpark im Januar2013. Ausschnitt. 80x40Luitpoldpark im Januar2013. Ausschnitt. 80x40
@@ -1171,70 +1171,70 @@
     
     <item>
       <title>Ein Überblick aus dem Küchenfenster</title>
-      <link>http://www.marinart.de/de/journal/post-2012-11-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-11-25/</link>
       <pubDate>Sun, 25 Nov 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-11-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-11-25/</guid>
       <description>Ein Überblick aus dem Küchenfenster2012. Öl auf Leinwand. 30x40
 &#34;Ein Überblick aus dem Küchenfenster2012. Öl auf Leinwand. 30x40Ein Überblick aus dem Küchenfenster2012. Öl auf Leinwand. 30x40</description>
     </item>
     
     <item>
       <title>Der Wal: der Anfang von einem Bildteppich</title>
-      <link>http://www.marinart.de/de/journal/post-2012-11-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-11-20/</link>
       <pubDate>Tue, 20 Nov 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-11-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-11-20/</guid>
       <description>Der Wal: der Anfang von einem Bildteppich2012. Akrylfaden, Weben. 65x50
 &#34;Der Wal: der Anfang von einem Bildteppich2012. Akrylfaden, Weben. 65x50Der Wal: der Anfang von einem Bildteppich2012. Akrylfaden, Weben. 65x50</description>
     </item>
     
     <item>
       <title>Siegestor, München</title>
-      <link>http://www.marinart.de/de/journal/post-2012-11-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-11-15/</link>
       <pubDate>Thu, 15 Nov 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-11-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-11-15/</guid>
       <description>Siegestor, München2012. Öl auf Leinwand. 60x40
 &#34;Siegestor, München2012. Öl auf Leinwand. 60x40Siegestor, München2012. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Isar im November</title>
-      <link>http://www.marinart.de/de/journal/post-2012-11-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-11-10/</link>
       <pubDate>Sat, 10 Nov 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-11-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-11-10/</guid>
       <description>Isar im November2012. Öl auf Leinwand. 80x40
 &#34;Isar im November2012. Öl auf Leinwand. 80x40Isar im November2012. Öl auf Leinwand. 80x40</description>
     </item>
     
     <item>
       <title>Innenhof im Winter, Original und Kopie</title>
-      <link>http://www.marinart.de/de/journal/post-2012-11-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-11-05/</link>
       <pubDate>Mon, 05 Nov 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-11-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-11-05/</guid>
       <description>Innenhof im Winter, Original und Kopie. 2006/20122012. Öl auf Leinwand. 25x20/24x18
 &#34;Innenhof im Winter, Original und Kopie. 2006/20122012. Öl auf Leinwand. 25x20/24x18Innenhof im Winter, Original und Kopie. 2006/20122012. Öl auf Leinwand. 25x20/24x18</description>
     </item>
     
     <item>
       <title>Maximillian Gymnasium, München</title>
-      <link>http://www.marinart.de/de/journal/post-2012-10-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-10-15/</link>
       <pubDate>Mon, 15 Oct 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-10-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-10-15/</guid>
       <description>Maximillian Gymnasium, München2012. Öl auf Leinwand. 50x50
 &#34;Maximillian Gymnasium, München2012. Öl auf Leinwand. 50x50Maximillian Gymnasium, München2012. Öl auf Leinwand. 50x50</description>
     </item>
     
     <item>
       <title>Sardegna</title>
-      <link>http://www.marinart.de/de/journal/post-2012-08-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-08-15/</link>
       <pubDate>Wed, 15 Aug 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-08-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-08-15/</guid>
       <description>Sardegna, Vignola, Strand2012. Öl auf Leinwand. 40x30
 &#34;Sardegna, Vignola, Strand2012. Öl auf Leinwand. 40x30Sardegna, Vignola, Strand2012. Öl auf Leinwand. 40x30Sardegna, Vignola Bucht2012. Öl auf Leinwand. 50x40
 &#34;Sardegna, Vignola Bucht2012. Öl auf Leinwand. 50x40Sardegna, Vignola Bucht2012. Öl auf Leinwand. 50x40Sardegna, Vignola, Segelboots2012. Öl auf Leinwand. 30x40</description>
@@ -1242,120 +1242,120 @@
     
     <item>
       <title>Sonnenblumen</title>
-      <link>http://www.marinart.de/de/journal/post-2012-08-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-08-10/</link>
       <pubDate>Fri, 10 Aug 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-08-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-08-10/</guid>
       <description>Sonnenblumen2012. Öl auf Leinwand. 50x50
 &#34;Sonnenblumen2012. Öl auf Leinwand. 50x50Sonnenblumen2012. Öl auf Leinwand. 50x50</description>
     </item>
     
     <item>
       <title>Michel</title>
-      <link>http://www.marinart.de/de/journal/post-2012-07-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-07-15/</link>
       <pubDate>Sun, 15 Jul 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-07-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-07-15/</guid>
       <description>Michel2012. Öl auf Leinwand. 40x50
 &#34;Michel2012. Öl auf Leinwand. 40x50Michel2012. Öl auf Leinwand. 40x50</description>
     </item>
     
     <item>
       <title>Bamberger Hause</title>
-      <link>http://www.marinart.de/de/journal/post-2012-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-06-15/</link>
       <pubDate>Fri, 15 Jun 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-06-15/</guid>
       <description>Bamberger Hause2012. Öl auf Leinwand. 50x40
 &#34;Bamberger Hause2012. Öl auf Leinwand. 50x40Bamberger Hause2012. Öl auf Leinwand. 50x40</description>
     </item>
     
     <item>
       <title>Natasha</title>
-      <link>http://www.marinart.de/de/journal/post-2012-05-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-05-20/</link>
       <pubDate>Sun, 20 May 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-05-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-05-20/</guid>
       <description>Natasha2012. Öl auf Leinwand. 30x40
 &#34;Natasha2012. Öl auf Leinwand. 30x40Natasha2012. Öl auf Leinwand. 30x40</description>
     </item>
     
     <item>
       <title>Natalia und Flieder</title>
-      <link>http://www.marinart.de/de/journal/post-2012-05-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-05-15/</link>
       <pubDate>Tue, 15 May 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-05-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-05-15/</guid>
       <description>Natalia und Flieder2012. Öl auf Leinwand. 80x60
 &#34;Natalia und Flieder2012. Öl auf Leinwand. 80x60Natalia und Flieder2012. Öl auf Leinwand. 80x60</description>
     </item>
     
     <item>
       <title>Fliederstrauß</title>
-      <link>http://www.marinart.de/de/journal/post-2012-05-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-05-10/</link>
       <pubDate>Thu, 10 May 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-05-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-05-10/</guid>
       <description>Fliederstrauß2012. Öl auf Leinwand. 40x40
 &#34;Fliederstrauß2012. Öl auf Leinwand. 40x40Fliederstrauß2012. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Stauwehr an der Isar</title>
-      <link>http://www.marinart.de/de/journal/post-2012-05-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-05-05/</link>
       <pubDate>Sat, 05 May 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-05-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-05-05/</guid>
       <description>Stauwehr an der Isar2012. Öl auf Leinwand. 80x40
 &#34;Stauwehr an der Isar2012. Öl auf Leinwand. 80x40Stauwehr an der Isar2012. Öl auf Leinwand. 80x40</description>
     </item>
     
     <item>
       <title>Isar im Frühling</title>
-      <link>http://www.marinart.de/de/journal/post-2012-04-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-04-20/</link>
       <pubDate>Fri, 20 Apr 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-04-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-04-20/</guid>
       <description>Isar im Frühling2012. Öl auf Leinwand. 70x50
 &#34;Isar im Frühling2012. Öl auf Leinwand. 70x50Isar im Frühling2012. Öl auf Leinwand. 70x50</description>
     </item>
     
     <item>
       <title>Eni, Cuba, Studie</title>
-      <link>http://www.marinart.de/de/journal/post-2012-04-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-04-15/</link>
       <pubDate>Sun, 15 Apr 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-04-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-04-15/</guid>
       <description>Eni, Cuba, Studie2012. Öl auf Leinwand. 50x40
 &#34;Eni, Cuba, Studie2012. Öl auf Leinwand. 50x40Eni, Cuba, Studie2012. Öl auf Leinwand. 50x40</description>
     </item>
     
     <item>
       <title>Der Abend kommt</title>
-      <link>http://www.marinart.de/de/journal/post-2012-03-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-03-20/</link>
       <pubDate>Tue, 20 Mar 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-03-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-03-20/</guid>
       <description>Der Abend kommt2012. Öl auf Leinwand. 40x40
 &#34;Der Abend kommt2012. Öl auf Leinwand. 40x40Der Abend kommt2012. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Am Fluß</title>
-      <link>http://www.marinart.de/de/journal/post-2012-03-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-03-15/</link>
       <pubDate>Thu, 15 Mar 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-03-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-03-15/</guid>
       <description>Am Fluß2012. Öl auf Leinwand. 40x40
 &#34;Am Fluß2012. Öl auf Leinwand. 40x40Am Fluß2012. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Artischocken</title>
-      <link>http://www.marinart.de/de/journal/post-2012-03-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-03-10/</link>
       <pubDate>Sat, 10 Mar 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-03-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-03-10/</guid>
       <description>Artischocken2012. Öl auf Leinwand. 60x30
 &#34;Artischocken2012. Öl auf Leinwand. 60x30Artischocken2012. Öl auf Leinwand. 60x30Artischocken2012. Öl auf Leinwand. Ausschnitt
 &#34;Artischocken2012. Öl auf Leinwand. AusschnittArtischocken2012. Öl auf Leinwand. AusschnittArtischocken2012. Öl auf Leinwand. Ausschnitt
@@ -1364,299 +1364,299 @@
     
     <item>
       <title>Isar im Winter</title>
-      <link>http://www.marinart.de/de/journal/post-2012-02-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-02-15/</link>
       <pubDate>Wed, 15 Feb 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-02-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-02-15/</guid>
       <description>Isar im Winter2012. Öl auf Leinwand. 60x40
 &#34;Isar im Winter2012. Öl auf Leinwand. 60x40Isar im Winter2012. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>In den afrikanischen Ferien</title>
-      <link>http://www.marinart.de/de/journal/post-2012-01-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-01-25/</link>
       <pubDate>Wed, 25 Jan 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-01-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-01-25/</guid>
       <description>In den afrikanischen Ferien2012. Acryl auf Leinwand. 40x40
 &#34;In den afrikanischen Ferien2012. Acryl auf Leinwand. 40x40In den afrikanischen Ferien2012. Acryl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Maria mit 11 Jahren</title>
-      <link>http://www.marinart.de/de/journal/post-2012-01-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-01-20/</link>
       <pubDate>Fri, 20 Jan 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-01-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-01-20/</guid>
       <description>Maria mit 11 Jahren2012. Bleistift auf Papier. a3
 &#34;Maria mit 11 Jahren2012. Bleistift auf Papier. a3Maria mit 11 Jahren2012. Bleistift auf Papier. a3</description>
     </item>
     
     <item>
       <title>Bad Gastein, Studie</title>
-      <link>http://www.marinart.de/de/journal/post-2012-01-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-01-15/</link>
       <pubDate>Sun, 15 Jan 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-01-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-01-15/</guid>
       <description>Bad Gastein, Studie2012. Öl auf Leinwand. 25x30
 &#34;Bad Gastein, Studie2012. Öl auf Leinwand. 25x30Bad Gastein, Studie2012. Öl auf Leinwand. 25x30</description>
     </item>
     
     <item>
       <title>Augsburg, Studie</title>
-      <link>http://www.marinart.de/de/journal/post-2012-01-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2012-01-10/</link>
       <pubDate>Tue, 10 Jan 2012 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2012-01-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2012-01-10/</guid>
       <description>Augsburg, Studie2012. Öl auf Leinwand. 30x30
 &#34;Augsburg, Studie2012. Öl auf Leinwand. 30x30Augsburg, Studie2012. Öl auf Leinwand. 30x30</description>
     </item>
     
     <item>
       <title>Elisabethplatz, Es ist windig</title>
-      <link>http://www.marinart.de/de/journal/post-2011-12-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-12-15/</link>
       <pubDate>Thu, 15 Dec 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-12-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-12-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Isar, Blick auf die Fußgängerbrücke</title>
-      <link>http://www.marinart.de/de/journal/post-2011-11-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-11-25/</link>
       <pubDate>Fri, 25 Nov 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-11-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-11-25/</guid>
       <description>Isar, Blick auf die Fußgängerbrücke2011. Öl auf Leinwand. 60x40
 &#34;Isar, Blick auf die Fußgängerbrücke2011. Öl auf Leinwand. 60x40Isar, Blick auf die Fußgängerbrücke2011. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Oranger Herbst in München</title>
-      <link>http://www.marinart.de/de/journal/post-2011-11-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-11-20/</link>
       <pubDate>Sun, 20 Nov 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-11-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-11-20/</guid>
       <description>Oranger Herbst in München2011. Öl auf Leinwand. 60x40
 &#34;Oranger Herbst in München2011. Öl auf Leinwand. 60x40Oranger Herbst in München2011. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Warmer Tag im Englischen Garten</title>
-      <link>http://www.marinart.de/de/journal/post-2011-11-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-11-15/</link>
       <pubDate>Tue, 15 Nov 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-11-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-11-15/</guid>
       <description>Warmer Tag im Englischen Garten2011. Öl auf Leinwand. 60x40
 &#34;Warmer Tag im Englischen Garten2011. Öl auf Leinwand. 60x40Warmer Tag im Englischen Garten2011. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Englischer Garten, Krähen</title>
-      <link>http://www.marinart.de/de/journal/post-2011-11-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-11-10/</link>
       <pubDate>Thu, 10 Nov 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-11-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-11-10/</guid>
       <description>Englischer Garten, Krähen2011. Öl auf Leinwand. 60x40
 &#34;Englischer Garten, Krähen2011. Öl auf Leinwand. 60x40Englischer Garten, Krähen2011. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Alena mit 9 Jahren</title>
-      <link>http://www.marinart.de/de/journal/post-2011-11-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-11-05/</link>
       <pubDate>Sat, 05 Nov 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-11-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-11-05/</guid>
       <description>Alena mit 9 Jahren2011. Öl auf Leinwand. 40x40
 &#34;Alena mit 9 Jahren2011. Öl auf Leinwand. 40x40Alena mit 9 Jahren2011. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Drei Ahornblätter</title>
-      <link>http://www.marinart.de/de/journal/post-2011-10-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-10-25/</link>
       <pubDate>Tue, 25 Oct 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-10-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-10-25/</guid>
       <description>Drei Ahornblätter2011. Öl auf Leinwand. 24x30
 &#34;Drei Ahornblätter2011. Öl auf Leinwand. 24x30Drei Ahornblätter2011. Öl auf Leinwand. 24x30</description>
     </item>
     
     <item>
       <title>St. Ursula im Herbst</title>
-      <link>http://www.marinart.de/de/journal/post-2011-10-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-10-20/</link>
       <pubDate>Thu, 20 Oct 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-10-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-10-20/</guid>
       <description>St. Ursula im Herbst2011. Öl auf Leinwand. 60x40
 &#34;St. Ursula im Herbst2011. Öl auf Leinwand. 60x40St. Ursula im Herbst2011. Öl auf Leinwand. 60x40</description>
     </item>
     
     <item>
       <title>Oskar-von-Miller Gymnasium</title>
-      <link>http://www.marinart.de/de/journal/post-2011-10-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-10-15/</link>
       <pubDate>Sat, 15 Oct 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-10-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-10-15/</guid>
       <description>Oskar-von-Miller Gymnasium2011. Öl auf Leinwand. 40x40
 &#34;Oskar-von-Miller Gymnasium2011. Öl auf Leinwand. 40x40Oskar-von-Miller Gymnasium2011. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Münchner Freiheit Tram</title>
-      <link>http://www.marinart.de/de/journal/post-2011-10-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-10-10/</link>
       <pubDate>Mon, 10 Oct 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-10-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-10-10/</guid>
       <description>Münchner Freiheit Tram2011. Öl auf Leinwand. 60x40
 &#34;Münchner Freiheit Tram2011. Öl auf Leinwand. 60x40Münchner Freiheit Tram2011. Öl auf Leinwand. 60x40s</description>
     </item>
     
     <item>
       <title>St.Ursula Fassade</title>
-      <link>http://www.marinart.de/de/journal/post-2011-09-21/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-09-21/</link>
       <pubDate>Wed, 21 Sep 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-09-21/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-09-21/</guid>
       <description>St.Ursula Fassade2011. Öl auf Leinwand. 50x40
 &#34;St.Ursula Fassade2011. Öl auf Leinwand. 50x40St.Ursula Fassade2011. Öl auf Leinwand. 50x40</description>
     </item>
     
     <item>
       <title>Leon mit 7 Jahren</title>
-      <link>http://www.marinart.de/de/journal/post-2011-09-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-09-20/</link>
       <pubDate>Tue, 20 Sep 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-09-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-09-20/</guid>
       <description>Leon mit 7 Jahren2011. Öl auf Leinwand. 50x50
 &#34;Leon mit 7 Jahren2011. Öl auf Leinwand. 50x50Leon mit 7 Jahren2011. Öl auf Leinwand. 50x50</description>
     </item>
     
     <item>
       <title>Isar, Maximiliansbrücke</title>
-      <link>http://www.marinart.de/de/journal/post-2011-09-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-09-15/</link>
       <pubDate>Thu, 15 Sep 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-09-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-09-15/</guid>
       <description>Isar, Maximiliansbrücke2011. Öl auf Leinwand. 40x30
 &#34;Isar, Maximiliansbrücke2011. Öl auf Leinwand. 40x30Isar, Maximiliansbrücke2011. Öl auf Leinwand. 40x30</description>
     </item>
     
     <item>
       <title>Aussicht auf München, Luitpoldpark</title>
-      <link>http://www.marinart.de/de/journal/post-2011-08-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-08-20/</link>
       <pubDate>Sat, 20 Aug 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-08-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-08-20/</guid>
       <description>Aussicht auf München, Luitpoldpark2011. Öl auf Leinwand. 50x40
 &#34;Aussicht auf München, Luitpoldpark2011. Öl auf Leinwand. 50x40Aussicht auf München, Luitpoldpark2011. Öl auf Leinwand. 50x40</description>
     </item>
     
     <item>
       <title>St. Benno</title>
-      <link>http://www.marinart.de/de/journal/post-2011-08-16/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-08-16/</link>
       <pubDate>Tue, 16 Aug 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-08-16/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-08-16/</guid>
       <description>St. Benno2011. Öl auf Karton. 30x25
 &#34;St. Benno2011. Öl auf Karton. 30x25St. Benno2011. Öl auf Karton. 30x25</description>
     </item>
     
     <item>
       <title>Die Libellen</title>
-      <link>http://www.marinart.de/de/journal/post-2011-08-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-08-15/</link>
       <pubDate>Mon, 15 Aug 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-08-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-08-15/</guid>
       <description>Die Libellen2011. Akrylfaden, Weben. 30x79
 &#34;Die Libellen2011. Akrylfaden, Weben. 30x79Die Libellen2011. Akrylfaden, Weben. 30x79</description>
     </item>
     
     <item>
       <title>Birnen und Lavandel</title>
-      <link>http://www.marinart.de/de/journal/post-2011-07-25/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-07-25/</link>
       <pubDate>Mon, 25 Jul 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-07-25/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-07-25/</guid>
       <description>Birnen und Lavandel2011. Öl auf Leinwand. 40x20
 &#34;Birnen und Lavandel2011. Öl auf Leinwand. 40x20Birnen und Lavandel2011. Öl auf Leinwand. 40x20</description>
     </item>
     
     <item>
       <title>Oskar-von-Miller Gymnasiumstor</title>
-      <link>http://www.marinart.de/de/journal/post-2011-07-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-07-20/</link>
       <pubDate>Wed, 20 Jul 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-07-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-07-20/</guid>
       <description>Oskar-von-Miller Gymnasiumstor2011. Öl auf Karton. 40x30
 &#34;Oskar-von-Miller Gymnasiumstor2011. Öl auf Karton. 40x30Oskar-von-Miller Gymnasiumstor2011. Öl auf Karton. 40x30</description>
     </item>
     
     <item>
       <title>Iris</title>
-      <link>http://www.marinart.de/de/journal/post-2011-07-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-07-15/</link>
       <pubDate>Fri, 15 Jul 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-07-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-07-15/</guid>
       <description>Iris2011. Öl auf Karton. 20x40
 &#34;Iris2011. Öl auf Karton. 20x40Iris2011. Öl auf Karton. 20x40</description>
     </item>
     
     <item>
       <title>Straßenecke neben dem Englischen Garten</title>
-      <link>http://www.marinart.de/de/journal/post-2011-07-10/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-07-10/</link>
       <pubDate>Sun, 10 Jul 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-07-10/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-07-10/</guid>
       <description>Straßenecke neben dem Englischen Garten2011. Öl auf Leinwand. 40x40
 &#34;Straßenecke neben dem Englischen Garten2011. Öl auf Leinwand. 40x40Straßenecke neben dem Englischen Garten2011. Öl auf Leinwand. 40x40</description>
     </item>
     
     <item>
       <title>Kastanienbaum in einem Innenhof</title>
-      <link>http://www.marinart.de/de/journal/post-2011-07-05/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-07-05/</link>
       <pubDate>Tue, 05 Jul 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-07-05/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-07-05/</guid>
       <description>Kastanienbaum in einem Innenhof2011. Öl auf Leinwand. 30x30
 &#34;Kastanienbaum in einem Innenhof2011. Öl auf Leinwand. 30x30Kastanienbaum in einem Innenhof2011. Öl auf Leinwand. 30x30</description>
     </item>
     
     <item>
       <title>Glockenblumen</title>
-      <link>http://www.marinart.de/de/journal/post-2011-06-20/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-06-20/</link>
       <pubDate>Mon, 20 Jun 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-06-20/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-06-20/</guid>
       <description>Glockenblumen2011. Öl auf Leinwand. 30x40
 &#34;Glockenblumen2011. Öl auf Leinwand. 30x40Glockenblumen2011. Öl auf Leinwand. 30x40</description>
     </item>
     
     <item>
       <title>Neben dem Kleinhesseloher See</title>
-      <link>http://www.marinart.de/de/journal/post-2011-06-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-06-15/</link>
       <pubDate>Wed, 15 Jun 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-06-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-06-15/</guid>
       <description>Neben dem Kleinhesseloher See2011. Öl auf Leinwand. 40x30
 &#34;Neben dem Kleinhesseloher See2011. Öl auf Leinwand. 40x30Neben dem Kleinhesseloher See2011. Öl auf Leinwand. 40x30</description>
     </item>
     
     <item>
       <title>Weg zum Oskar-von-Miller Gymnasium</title>
-      <link>http://www.marinart.de/de/journal/post-2011-05-15/</link>
+      <link>https://www.marinart.de/de/journal/post-2011-05-15/</link>
       <pubDate>Sun, 15 May 2011 18:28:35 +0100</pubDate>
       
-      <guid>http://www.marinart.de/de/journal/post-2011-05-15/</guid>
+      <guid>https://www.marinart.de/de/journal/post-2011-05-15/</guid>
       <description>Weg zum Oskar-von-Miller Gymnasium2011. Öl auf Leinwand. 40x30
 &#34;Weg zum Oskar-von-Miller Gymnasium2011. Öl auf Leinwand. 40x30Weg zum Oskar-von-Miller Gymnasium2011. Öl auf Leinwand. 40x30</description>
     </item>
     
     <item>
       <title>Über mich</title>
-      <link>http://www.marinart.de/de/about/</link>
+      <link>https://www.marinart.de/de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.marinart.de/de/about/</guid>
+      <guid>https://www.marinart.de/de/about/</guid>
       <description>Marina Pospelova-Ezhevskaya Kunstmalerin Wurde 1973 in Nowosibirsk Russland geboren, ist verheiratet, hat drei Töchter. Studium der Malerei in der Repin Kunstakademie St. Petersburg und in Akademie der Architektur Nowosibirsk. Lebt in München.
  ... Ich habe großen Respekt und lege großen Wert auf die Arbeit in der Natur. Ich möchte die reale Welt und den Mensch in meiner Arbeit natürlich und lebendig darstellen ...     Find me on:</description>
     </item>
