@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illustration on ProjectName</title>
+    <link>https://www.marinart.de/tags/illustration/</link>
+    <description>Recent content in Illustration on ProjectName</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 18:28:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.marinart.de/tags/illustration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baby elephant and ram</title>
+      <link>https://www.marinart.de/journal/post-2018-07-10/</link>
+      <pubDate>Tue, 10 Jul 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/journal/post-2018-07-10/</guid>
+      <description>Baby elephant and ram2018. Watercolor on paper. 40x50
+&#34;Baby elephant and ram2018. Watercolor on paper. 40x50Baby elephant and ram2018. Watercolor on paper. 40x50</description>
+    </item>
+    
+    <item>
+      <title>In the library</title>
+      <link>https://www.marinart.de/journal/post-2018-06-10/</link>
+      <pubDate>Sun, 10 Jun 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/journal/post-2018-06-10/</guid>
+      <description>In the library2018. Watercolor on paper. 50x40
+&#34;In the library2018. Watercolor on paper. 50x40In the library2018. Watercolor on paper. 50x40</description>
+    </item>
+    
+  </channel>
+</rss>

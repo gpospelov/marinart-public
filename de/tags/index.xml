@@ -6,10 +6,19 @@
     <description>Recent content in Tags on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jun 2018 18:28:35 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 18:28:35 +0100</lastBuildDate>
     
 	<atom:link href="https://www.marinart.de/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Animalism</title>
+      <link>https://www.marinart.de/de/tags/animalism/</link>
+      <pubDate>Sat, 15 Dec 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/de/tags/animalism/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Composition</title>
@@ -39,9 +48,18 @@
     </item>
     
     <item>
+      <title>Illustration</title>
+      <link>https://www.marinart.de/de/tags/illustration/</link>
+      <pubDate>Tue, 10 Jul 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/de/tags/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Landscape</title>
       <link>https://www.marinart.de/de/tags/landscape/</link>
-      <pubDate>Sun, 20 May 2018 18:28:35 +0100</pubDate>
+      <pubDate>Sat, 25 Aug 2018 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/de/tags/landscape/</guid>
       <description></description>
@@ -50,7 +68,7 @@
     <item>
       <title>Model</title>
       <link>https://www.marinart.de/de/tags/model/</link>
-      <pubDate>Mon, 01 Dec 2014 18:28:35 +0100</pubDate>
+      <pubDate>Mon, 10 Dec 2018 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/de/tags/model/</guid>
       <description></description>
@@ -68,7 +86,7 @@
     <item>
       <title>Oil on Canvas</title>
       <link>https://www.marinart.de/de/tags/oil-on-canvas/</link>
-      <pubDate>Thu, 05 Jul 2018 18:28:35 +0100</pubDate>
+      <pubDate>Fri, 20 Jul 2018 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/de/tags/oil-on-canvas/</guid>
       <description></description>
@@ -77,7 +95,7 @@
     <item>
       <title>Pencil on Paper</title>
       <link>https://www.marinart.de/de/tags/pencil-on-paper/</link>
-      <pubDate>Mon, 01 Dec 2014 18:28:35 +0100</pubDate>
+      <pubDate>Mon, 10 Dec 2018 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/de/tags/pencil-on-paper/</guid>
       <description></description>
@@ -86,7 +104,7 @@
     <item>
       <title>Portrait</title>
       <link>https://www.marinart.de/de/tags/portrait/</link>
-      <pubDate>Thu, 05 Jul 2018 18:28:35 +0100</pubDate>
+      <pubDate>Sat, 20 Oct 2018 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/de/tags/portrait/</guid>
       <description></description>
@@ -113,7 +131,7 @@
     <item>
       <title>Water Color</title>
       <link>https://www.marinart.de/de/tags/water-color/</link>
-      <pubDate>Wed, 20 Jun 2018 18:28:35 +0100</pubDate>
+      <pubDate>Sat, 15 Dec 2018 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/de/tags/water-color/</guid>
       <description></description>

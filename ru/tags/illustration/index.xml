@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illustration on ProjectName</title>
+    <link>https://www.marinart.de/ru/tags/illustration/</link>
+    <description>Recent content in Illustration on ProjectName</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 18:28:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.marinart.de/ru/tags/illustration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Слоненок и баран</title>
+      <link>https://www.marinart.de/ru/journal/post-2018-07-10/</link>
+      <pubDate>Tue, 10 Jul 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/journal/post-2018-07-10/</guid>
+      <description>Слоненок и баран2018. Бумага, акварель. 40x50
+&#34;Слоненок и баран2018. Бумага, акварель. 40x50Слоненок и баран2018. Бумага, акварель. 40x50</description>
+    </item>
+    
+    <item>
+      <title>В библиотеке</title>
+      <link>https://www.marinart.de/ru/journal/post-2018-06-10/</link>
+      <pubDate>Sun, 10 Jun 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/journal/post-2018-06-10/</guid>
+      <description>В библиотеке2018. Бумага, акварель. 50x40
+&#34;В библиотеке2018. Бумага, акварель. 50x40В библиотеке2018. Бумага, акварель. 50x40</description>
+    </item>
+    
+  </channel>
+</rss>
