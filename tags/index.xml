@@ -6,7 +6,7 @@
     <description>Recent content in Tags on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 18:28:35 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 18:28:35 +0100</lastBuildDate>
     
 	<atom:link href="https://www.marinart.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Animalism</title>
       <link>https://www.marinart.de/tags/animalism/</link>
-      <pubDate>Sat, 15 Dec 2018 18:28:35 +0100</pubDate>
+      <pubDate>Mon, 20 May 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/animalism/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Graphics</title>
       <link>https://www.marinart.de/tags/graphics/</link>
-      <pubDate>Sat, 15 Aug 2015 18:28:35 +0100</pubDate>
+      <pubDate>Mon, 10 Jun 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/graphics/</guid>
       <description></description>
@@ -50,16 +50,25 @@
     <item>
       <title>Illustration</title>
       <link>https://www.marinart.de/tags/illustration/</link>
-      <pubDate>Tue, 10 Jul 2018 18:28:35 +0100</pubDate>
+      <pubDate>Sun, 05 May 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/illustration/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Ink on Paper</title>
+      <link>https://www.marinart.de/tags/ink-on-paper/</link>
+      <pubDate>Mon, 10 Jun 2019 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/tags/ink-on-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Landscape</title>
       <link>https://www.marinart.de/tags/landscape/</link>
-      <pubDate>Sat, 25 Aug 2018 18:28:35 +0100</pubDate>
+      <pubDate>Wed, 05 Jun 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/landscape/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Munich</title>
       <link>https://www.marinart.de/tags/munich/</link>
-      <pubDate>Sun, 20 May 2018 18:28:35 +0100</pubDate>
+      <pubDate>Wed, 05 Jun 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/munich/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>Oil on Canvas</title>
       <link>https://www.marinart.de/tags/oil-on-canvas/</link>
-      <pubDate>Fri, 20 Jul 2018 18:28:35 +0100</pubDate>
+      <pubDate>Sat, 15 Jun 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/oil-on-canvas/</guid>
       <description></description>
@@ -95,7 +104,7 @@
     <item>
       <title>Pencil on Paper</title>
       <link>https://www.marinart.de/tags/pencil-on-paper/</link>
-      <pubDate>Mon, 10 Dec 2018 18:28:35 +0100</pubDate>
+      <pubDate>Fri, 10 May 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/pencil-on-paper/</guid>
       <description></description>
@@ -104,7 +113,7 @@
     <item>
       <title>Portrait</title>
       <link>https://www.marinart.de/tags/portrait/</link>
-      <pubDate>Sat, 20 Oct 2018 18:28:35 +0100</pubDate>
+      <pubDate>Sat, 15 Jun 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/portrait/</guid>
       <description></description>
@@ -131,9 +140,18 @@
     <item>
       <title>Water Color</title>
       <link>https://www.marinart.de/tags/water-color/</link>
-      <pubDate>Sat, 15 Dec 2018 18:28:35 +0100</pubDate>
+      <pubDate>Mon, 20 May 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/tags/water-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watercolor on Paper</title>
+      <link>https://www.marinart.de/tags/watercolor-on-paper/</link>
+      <pubDate>Wed, 01 May 2019 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/tags/watercolor-on-paper/</guid>
       <description></description>
     </item>
     
