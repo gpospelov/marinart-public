@@ -23,7 +23,7 @@
   
   <url>
     <loc>https://www.marinart.de/ru/journal/</loc>
-    <lastmod>2019-06-15T18:28:35+01:00</lastmod>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -342,6 +342,84 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/albums/birds/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/albums/rovinj/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/albums/rovinj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/albums/rovinj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/albums/rovinj/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/albums/cologne/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/albums/cologne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/albums/cologne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/albums/cologne/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/journal/post-2019-09-15/</loc>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/journal/post-2019-09-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/journal/post-2019-09-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/journal/post-2019-09-15/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/journal/post-2019-10-15/</loc>
+    <lastmod>2019-09-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/journal/post-2019-10-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/journal/post-2019-10-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/journal/post-2019-10-15/"
                 />
   </url>
   
@@ -3855,7 +3933,7 @@
   
   <url>
     <loc>https://www.marinart.de/ru/years/2019/</loc>
-    <lastmod>2019-06-15T18:28:35+01:00</lastmod>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -4022,7 +4100,7 @@
   
   <url>
     <loc>https://www.marinart.de/ru/tags/landscape/</loc>
-    <lastmod>2019-06-05T18:28:35+01:00</lastmod>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -4085,7 +4163,7 @@
   
   <url>
     <loc>https://www.marinart.de/ru/tags/oil-on-canvas/</loc>
-    <lastmod>2019-06-15T18:28:35+01:00</lastmod>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -4293,7 +4371,7 @@
   
   <url>
     <loc>https://www.marinart.de/ru/</loc>
-    <lastmod>2019-06-15T18:28:35+01:00</lastmod>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
