@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Журнал on ProjectName</title>
@@ -6,10 +6,33 @@
     <description>Recent content in Журнал on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2019 18:28:35 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 18:28:35 +0100</lastBuildDate>
     
 	<atom:link href="https://www.marinart.de/ru/journal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paris</title>
+      <link>https://www.marinart.de/ru/journal/post-2020-02-15/</link>
+      <pubDate>Sat, 15 Feb 2020 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/journal/post-2020-02-15/</guid>
+      <description>Париж, сценка в метро2020. Бумага, акварель. 38x56
+&#34;Париж, сценка в метро2020. Бумага, акварель. 38x56Париж, сценка в метро2020. Бумага, акварель. 38x56Париж, сценка в метро2020. Бумага, акварель. Фрагмент
+&#34;Париж, сценка в метро2020. Бумага, акварель. ФрагментПариж, сценка в метро2020. Бумага, акварель. ФрагментПариж, сценка в метро2020. Бумага, акварель. Фрагмент</description>
+    </item>
+    
+    <item>
+      <title>Танец Деметры</title>
+      <link>https://www.marinart.de/ru/journal/post-2020-02-01/</link>
+      <pubDate>Sat, 01 Feb 2020 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/journal/post-2020-02-01/</guid>
+      <description>Танец Деметры2020. Холст, масло. 120x80
+&#34;Танец Деметры2020. Холст, масло. 120x80Танец Деметры2020. Холст, масло. 120x80Танец Деметры2020. Холст, масло. Фрагмент
+&#34;Танец Деметры2020. Холст, масло. ФрагментТанец Деметры2020. Холст, масло. ФрагментТанец Деметры2020. Холст, масло. Фрагмент
+&#34;Танец Деметры2020. Холст, масло. ФрагментТанец Деметры2020.</description>
+    </item>
     
     <item>
       <title>Кёльн</title>
@@ -29,8 +52,8 @@
       <pubDate>Sat, 05 Oct 2019 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/ru/journal/post-2019-10-05/</guid>
-      <description>Осень на Элизабетплац2019. Бумага, акварель. 50x40
-&#34;Осень на Элизабетплац2019. Бумага, акварель. 50x40Осень на Элизабетплац2019. Бумага, акварель. 50x40Осень на Элизабетплац2019. Бумага, акварель. Фрагмент
+      <description>Осень на Элизабетплац2019. Бумага, акварель. 40x30
+&#34;Осень на Элизабетплац2019. Бумага, акварель. 40x30Осень на Элизабетплац2019. Бумага, акварель. 40x30Осень на Элизабетплац2019. Бумага, акварель. Фрагмент
 &#34;Осень на Элизабетплац2019. Бумага, акварель. ФрагментОсень на Элизабетплац2019. Бумага, акварель. ФрагментОсень на Элизабетплац2019. Бумага, акварель. Фрагмент
 &#34;Осень на Элизабетплац2019. Бумага, акварель.</description>
     </item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ProjectName</title>
@@ -6,94 +6,40 @@
     <description>Recent content in Tags on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 18:28:35 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 18:28:35 +0100</lastBuildDate>
     
 	<atom:link href="https://www.marinart.de/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Animalism</title>
-      <link>https://www.marinart.de/ru/tags/animalism/</link>
-      <pubDate>Mon, 20 May 2019 18:28:35 +0100</pubDate>
-      
-      <guid>https://www.marinart.de/ru/tags/animalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Composition</title>
-      <link>https://www.marinart.de/ru/tags/composition/</link>
-      <pubDate>Wed, 20 Jun 2018 18:28:35 +0100</pubDate>
-      
-      <guid>https://www.marinart.de/ru/tags/composition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gobelin</title>
-      <link>https://www.marinart.de/ru/tags/gobelin/</link>
-      <pubDate>Fri, 15 Feb 2013 18:28:35 +0100</pubDate>
-      
-      <guid>https://www.marinart.de/ru/tags/gobelin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphics</title>
-      <link>https://www.marinart.de/ru/tags/graphics/</link>
-      <pubDate>Mon, 10 Jun 2019 18:28:35 +0100</pubDate>
-      
-      <guid>https://www.marinart.de/ru/tags/graphics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Illustration</title>
-      <link>https://www.marinart.de/ru/tags/illustration/</link>
-      <pubDate>Sun, 05 May 2019 18:28:35 +0100</pubDate>
-      
-      <guid>https://www.marinart.de/ru/tags/illustration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ink on Paper</title>
-      <link>https://www.marinart.de/ru/tags/ink-on-paper/</link>
-      <pubDate>Mon, 10 Jun 2019 18:28:35 +0100</pubDate>
-      
-      <guid>https://www.marinart.de/ru/tags/ink-on-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landscape</title>
+      <title>landscape</title>
       <link>https://www.marinart.de/ru/tags/landscape/</link>
-      <pubDate>Tue, 15 Oct 2019 18:28:35 +0100</pubDate>
+      <pubDate>Sat, 15 Feb 2020 18:28:35 +0100</pubDate>
       
       <guid>https://www.marinart.de/ru/tags/landscape/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Model</title>
-      <link>https://www.marinart.de/ru/tags/model/</link>
-      <pubDate>Mon, 10 Dec 2018 18:28:35 +0100</pubDate>
+      <title>watercolor-on-pape</title>
+      <link>https://www.marinart.de/ru/tags/watercolor-on-pape/</link>
+      <pubDate>Sat, 15 Feb 2020 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/ru/tags/model/</guid>
+      <guid>https://www.marinart.de/ru/tags/watercolor-on-pape/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Munich</title>
-      <link>https://www.marinart.de/ru/tags/munich/</link>
-      <pubDate>Sat, 05 Oct 2019 18:28:35 +0100</pubDate>
+      <title>watercolor-on-paper</title>
+      <link>https://www.marinart.de/ru/tags/watercolor-on-paper/</link>
+      <pubDate>Sat, 15 Feb 2020 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/ru/tags/munich/</guid>
+      <guid>https://www.marinart.de/ru/tags/watercolor-on-paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Oil on Canvas</title>
+      <title>oil-on-canvas</title>
       <link>https://www.marinart.de/ru/tags/oil-on-canvas/</link>
       <pubDate>Tue, 15 Oct 2019 18:28:35 +0100</pubDate>
       
@@ -102,16 +48,16 @@
     </item>
     
     <item>
-      <title>Pencil on Paper</title>
-      <link>https://www.marinart.de/ru/tags/pencil-on-paper/</link>
-      <pubDate>Fri, 10 May 2019 18:28:35 +0100</pubDate>
+      <title>munich</title>
+      <link>https://www.marinart.de/ru/tags/munich/</link>
+      <pubDate>Sat, 05 Oct 2019 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/ru/tags/pencil-on-paper/</guid>
+      <guid>https://www.marinart.de/ru/tags/munich/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Portrait</title>
+      <title>portrait</title>
       <link>https://www.marinart.de/ru/tags/portrait/</link>
       <pubDate>Thu, 15 Aug 2019 18:28:35 +0100</pubDate>
       
@@ -120,25 +66,34 @@
     </item>
     
     <item>
-      <title>Sketches</title>
-      <link>https://www.marinart.de/ru/tags/sketches/</link>
-      <pubDate>Fri, 15 Nov 2013 18:28:35 +0100</pubDate>
+      <title>graphics</title>
+      <link>https://www.marinart.de/ru/tags/graphics/</link>
+      <pubDate>Mon, 10 Jun 2019 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/ru/tags/sketches/</guid>
+      <guid>https://www.marinart.de/ru/tags/graphics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Still Life</title>
-      <link>https://www.marinart.de/ru/tags/still-life/</link>
-      <pubDate>Fri, 15 Jun 2018 18:28:35 +0100</pubDate>
+      <title>ink-on-paper</title>
+      <link>https://www.marinart.de/ru/tags/ink-on-paper/</link>
+      <pubDate>Mon, 10 Jun 2019 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/ru/tags/still-life/</guid>
+      <guid>https://www.marinart.de/ru/tags/ink-on-paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Water Color</title>
+      <title>animalism</title>
+      <link>https://www.marinart.de/ru/tags/animalism/</link>
+      <pubDate>Mon, 20 May 2019 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/tags/animalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water-color</title>
       <link>https://www.marinart.de/ru/tags/water-color/</link>
       <pubDate>Mon, 20 May 2019 18:28:35 +0100</pubDate>
       
@@ -147,20 +102,65 @@
     </item>
     
     <item>
-      <title>Watercolor on Pape</title>
-      <link>https://www.marinart.de/ru/tags/watercolor-on-pape/</link>
-      <pubDate>Thu, 15 Aug 2019 18:28:35 +0100</pubDate>
+      <title>pencil-on-paper</title>
+      <link>https://www.marinart.de/ru/tags/pencil-on-paper/</link>
+      <pubDate>Fri, 10 May 2019 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/ru/tags/watercolor-on-pape/</guid>
+      <guid>https://www.marinart.de/ru/tags/pencil-on-paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Watercolor on Paper</title>
-      <link>https://www.marinart.de/ru/tags/watercolor-on-paper/</link>
-      <pubDate>Sat, 05 Oct 2019 18:28:35 +0100</pubDate>
+      <title>illustration</title>
+      <link>https://www.marinart.de/ru/tags/illustration/</link>
+      <pubDate>Sun, 05 May 2019 18:28:35 +0100</pubDate>
       
-      <guid>https://www.marinart.de/ru/tags/watercolor-on-paper/</guid>
+      <guid>https://www.marinart.de/ru/tags/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model</title>
+      <link>https://www.marinart.de/ru/tags/model/</link>
+      <pubDate>Mon, 10 Dec 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/tags/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>composition</title>
+      <link>https://www.marinart.de/ru/tags/composition/</link>
+      <pubDate>Wed, 20 Jun 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/tags/composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>still-life</title>
+      <link>https://www.marinart.de/ru/tags/still-life/</link>
+      <pubDate>Fri, 15 Jun 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/tags/still-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sketches</title>
+      <link>https://www.marinart.de/ru/tags/sketches/</link>
+      <pubDate>Fri, 15 Nov 2013 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/tags/sketches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gobelin</title>
+      <link>https://www.marinart.de/ru/tags/gobelin/</link>
+      <pubDate>Fri, 15 Feb 2013 18:28:35 +0100</pubDate>
+      
+      <guid>https://www.marinart.de/ru/tags/gobelin/</guid>
       <description></description>
     </item>
     

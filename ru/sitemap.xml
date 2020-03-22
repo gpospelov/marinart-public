@@ -1,6 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.marinart.de/ru/journal/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/journal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/journal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/journal/"
+                />
+  </url>
   
   <url>
     <loc>https://www.marinart.de/ru/albums/</loc>
@@ -18,26 +38,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/albums/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/journal/</loc>
-    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/journal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/journal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/journal/"
                 />
   </url>
   
@@ -384,6 +384,226 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/years/2020/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/landscape/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/landscape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/landscape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/landscape/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/journal/post-2020-02-15/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/journal/post-2020-02-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/journal/post-2020-02-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/journal/post-2020-02-15/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/watercolor-on-pape/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/watercolor-on-pape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/watercolor-on-pape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/watercolor-on-pape/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/watercolor-on-paper/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/watercolor-on-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/watercolor-on-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/watercolor-on-paper/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/years/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/</loc>
+    <lastmod>2020-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/journal/post-2020-02-01/</loc>
+    <lastmod>2020-02-01T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/journal/post-2020-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/journal/post-2020-02-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/journal/post-2020-02-01/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/years/2019/</loc>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/oil-on-canvas/</loc>
+    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/oil-on-canvas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/oil-on-canvas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/oil-on-canvas/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2019-10-15/</loc>
     <lastmod>2019-10-15T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -400,6 +620,26 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2019-10-15/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/munich/</loc>
+    <lastmod>2019-10-05T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/munich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/munich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/munich/"
                 />
   </url>
   
@@ -444,6 +684,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/tags/portrait/</loc>
+    <lastmod>2019-08-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/portrait/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/portrait/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/portrait/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2019-08-15/</loc>
     <lastmod>2019-08-15T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -480,6 +740,46 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2019-06-15/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/graphics/</loc>
+    <lastmod>2019-06-10T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/graphics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/graphics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/graphics/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/ink-on-paper/</loc>
+    <lastmod>2019-06-10T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/ink-on-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/ink-on-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/ink-on-paper/"
                 />
   </url>
   
@@ -524,6 +824,46 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/tags/animalism/</loc>
+    <lastmod>2019-05-20T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/animalism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/animalism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/animalism/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/water-color/</loc>
+    <lastmod>2019-05-20T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/water-color/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/water-color/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/water-color/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2019-05-20/</loc>
     <lastmod>2019-05-20T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -564,6 +904,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/tags/pencil-on-paper/</loc>
+    <lastmod>2019-05-10T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/pencil-on-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/pencil-on-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/pencil-on-paper/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2019-05-10/</loc>
     <lastmod>2019-05-10T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -580,6 +940,26 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2019-05-10/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/illustration/</loc>
+    <lastmod>2019-05-05T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/illustration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/illustration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/illustration/"
                 />
   </url>
   
@@ -760,6 +1140,46 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2018-12-15/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/years/2018/</loc>
+    <lastmod>2018-12-10T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2018/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/model/</loc>
+    <lastmod>2018-12-10T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/model/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/model/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/model/"
                 />
   </url>
   
@@ -1024,6 +1444,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/tags/composition/</loc>
+    <lastmod>2018-06-20T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/composition/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/composition/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/composition/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2018-06-20/</loc>
     <lastmod>2018-06-20T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -1040,6 +1480,26 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2018-06-20/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/still-life/</loc>
+    <lastmod>2018-06-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/still-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/still-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/still-life/"
                 />
   </url>
   
@@ -1344,6 +1804,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/years/2017/</loc>
+    <lastmod>2017-12-30T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2017/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2017-12-30/</loc>
     <lastmod>2017-12-30T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -1600,6 +2080,26 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2017-02-01/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/years/2016/</loc>
+    <lastmod>2016-11-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2016/"
                 />
   </url>
   
@@ -1984,6 +2484,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/years/2015/</loc>
+    <lastmod>2015-11-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2015/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2015/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2015/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2015-11-15/</loc>
     <lastmod>2015-11-15T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -2304,6 +2824,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/years/2014/</loc>
+    <lastmod>2014-12-01T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2014/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2014/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2014/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2014-12-01/</loc>
     <lastmod>2014-12-01T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -2500,6 +3040,46 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2014-03-15/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/years/2013/</loc>
+    <lastmod>2013-11-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2013/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2013/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2013/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/tags/sketches/</loc>
+    <lastmod>2013-11-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/sketches/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/sketches/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/sketches/"
                 />
   </url>
   
@@ -2784,6 +3364,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/tags/gobelin/</loc>
+    <lastmod>2013-02-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/tags/gobelin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/tags/gobelin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/tags/gobelin/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2013-02-15/</loc>
     <lastmod>2013-02-15T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -2840,6 +3440,26 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/journal/post-2013-01-15/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.marinart.de/ru/years/2012/</loc>
+    <lastmod>2012-11-25T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2012/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2012/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2012/"
                 />
   </url>
   
@@ -3324,6 +3944,26 @@
   </url>
   
   <url>
+    <loc>https://www.marinart.de/ru/years/2011/</loc>
+    <lastmod>2011-12-15T18:28:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.marinart.de/years/2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.marinart.de/de/years/2011/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.marinart.de/ru/years/2011/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.marinart.de/ru/journal/post-2011-12-15/</loc>
     <lastmod>2011-12-15T18:28:35+01:00</lastmod>
     <xhtml:link
@@ -3804,239 +4444,26 @@
   </url>
   
   <url>
-    <loc>https://www.marinart.de/ru/years/2011/</loc>
-    <lastmod>2011-12-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.marinart.de/ru/collection/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.marinart.de/years/2011/"
+                href="https://www.marinart.de/collection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.marinart.de/de/years/2011/"
+                href="https://www.marinart.de/de/collection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://www.marinart.de/ru/years/2011/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2012/</loc>
-    <lastmod>2012-11-25T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2012/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2012/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2012/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2013/</loc>
-    <lastmod>2013-11-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2013/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2013/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2013/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2014/</loc>
-    <lastmod>2014-12-01T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2014/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2014/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2014/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2015/</loc>
-    <lastmod>2015-11-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2015/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2015/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2015/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2016/</loc>
-    <lastmod>2016-11-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2016/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2017/</loc>
-    <lastmod>2017-12-30T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2017/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2017/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2017/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2018/</loc>
-    <lastmod>2018-12-10T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2018/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2018/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2018/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/2019/</loc>
-    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/2019/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/animalism/</loc>
-    <lastmod>2019-05-20T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/animalism/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/animalism/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/animalism/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/composition/</loc>
-    <lastmod>2018-06-20T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/composition/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/composition/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/composition/"
+                href="https://www.marinart.de/ru/collection/"
                 />
   </url>
   
   <url>
     <loc>https://www.marinart.de/ru/en/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4051,363 +4478,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/gobelin/</loc>
-    <lastmod>2013-02-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/gobelin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/gobelin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/gobelin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/graphics/</loc>
-    <lastmod>2019-06-10T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/graphics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/graphics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/graphics/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/illustration/</loc>
-    <lastmod>2019-05-05T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/illustration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/illustration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/illustration/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/ink-on-paper/</loc>
-    <lastmod>2019-06-10T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/ink-on-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/ink-on-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/ink-on-paper/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/landscape/</loc>
-    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/landscape/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/landscape/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/landscape/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/model/</loc>
-    <lastmod>2018-12-10T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/model/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/model/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/model/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/munich/</loc>
-    <lastmod>2019-10-05T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/munich/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/munich/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/munich/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/oil-on-canvas/</loc>
-    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/oil-on-canvas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/oil-on-canvas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/oil-on-canvas/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/pencil-on-paper/</loc>
-    <lastmod>2019-05-10T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/pencil-on-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/pencil-on-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/pencil-on-paper/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/portrait/</loc>
-    <lastmod>2019-08-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/portrait/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/portrait/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/portrait/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/sketches/</loc>
-    <lastmod>2013-11-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/sketches/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/sketches/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/sketches/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/still-life/</loc>
-    <lastmod>2018-06-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/still-life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/still-life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/still-life/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/</loc>
-    <lastmod>2019-05-20T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/water-color/</loc>
-    <lastmod>2019-05-20T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/water-color/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/water-color/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/water-color/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/watercolor-on-pape/</loc>
-    <lastmod>2019-08-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/watercolor-on-pape/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/watercolor-on-pape/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/watercolor-on-pape/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/tags/watercolor-on-paper/</loc>
-    <lastmod>2019-10-05T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/tags/watercolor-on-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/tags/watercolor-on-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/tags/watercolor-on-paper/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/years/</loc>
-    <lastmod>2011-12-15T18:28:35+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/years/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/years/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/years/"
                 />
   </url>
   
@@ -4427,26 +4497,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.marinart.de/ru/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.marinart.de/ru/</loc>
-    <lastmod>2019-10-15T18:28:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.marinart.de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.marinart.de/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.marinart.de/ru/"
                 />
   </url>
   

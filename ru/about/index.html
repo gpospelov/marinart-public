@@ -43,6 +43,10 @@
 		<link rel="stylesheet" href="https://www.marinart.de/assets/css/helper.css">
 		<link rel="stylesheet" href="https://www.marinart.de/assets/css/marinart.css">
 
+		<link rel="stylesheet" href="https://www.marinart.de/css/leaflet.css" type="text/css" />
+		<script src="https://www.marinart.de/js/leaflet.js"></script>
+	
+
 		
 		
 
@@ -112,6 +116,8 @@
                   <li class="nav-item "> <a class="nav-link" href="https://www.marinart.de/ru/journal/">Журнал</a></li>
 				
                   <li class="nav-item "> <a class="nav-link" href="https://www.marinart.de/ru/about/">Автор</a></li>
+				
+                  <li class="nav-item "> <a class="nav-link" href="https://www.marinart.de/ru/collection/">Collections</a></li>
 				  
 				
 				<li class="dropdown dropdown-hover">
@@ -223,27 +229,23 @@
         
         <div class="content-wrap">
           <div class="row">
-  <div class="col-md-8">
-
-  <h3>Марина Поспелова-Ежевская</h3>
-    <h4>Художник</h4>
-
-    <p>Родилась в 1973 в Новосибирске, замужем, три дочери. Обучалась в Санкт-Петербургской Академии Художеств им. Репина и в Новосибирской Академии Архитектуры. Проживает в Мюнхене.</p>
-
-    <blockquote>
-... Я очень уважаю и большое значение придаю работе с натуры и на пленэре. Мои натюрморты, пейзажи и портреты - попытка схватить мимолетное впечатление от увиденного ...
-    </blockquote>
-
+    <div class="col-md-8">
+        <h3>Марина Поспелова-Ежевская</h3>
+        <h4>Художник</h4>
+        <p>Родилась в 1973 в Новосибирске, замужем, три дочери. Обучалась в Санкт-Петербургской Академии Художеств им. Репина и в Новосибирской Академии Архитектуры. Проживает в Мюнхене.</p>
+        <blockquote>
+            ... Я очень уважаю и большое значение придаю работе с натуры и на пленэре. Мои натюрморты, пейзажи и портреты - попытка схватить мимолетное впечатление от увиденного ...
+        </blockquote>
     </div>
-      <div class="col-md-4">                                        
-          <img src="me.jpg" alt="image">
+    <div class="col-md-4">
+        <img src="me.jpg" alt="image">
     </div>
 </div>
 
 
 <div class="social-icons margin-top-40 margin-bottom-30">
   <h6 class="head">Find me on:</h6>
-
+  
   <ul>
     <li>
       <a target="_blank" href="https://www.facebook.com/marina.pospelova.7" title="Follow me on Facebook">
@@ -266,29 +268,41 @@
       </a>
     </li>
   </ul>
-
+  
 </div>
 
 
 
 
-          <div class="row margin-top-40">         
-        <div class="hidden">
-          <input id="gmap-lat" value="48.163207" />
-          <input id="gmap-lng" value="11.577316" />
-        </div>
-        <div id="map" />  
+          <div class="row margin-top-40"><div id="mapid" style="height: 400px;"></div>
+<script>
 
+        var mymap = L.map('mapid').setView([48.163207, 11.577316], 16);
+
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+                maxZoom: 18,
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+                        '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+                        'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                id: 'mapbox/streets-v11'
+        }).addTo(mymap);
+
+        L.marker([48.163207, 11.577316]).addTo(mymap);
+
+        var popup = L.popup();
+
+        function onMapClick(e) {
+                popup
+                        .setLatLng(e.latlng)
+                        .setContent("You clicked the map at " + e.latlng.toString())
+                        .openOn(mymap);
+        }
+
+        mymap.on('click', onMapClick);
+
+</script>
 
             </div>
-
-          <div class="row margin-top-40">
-              <div class="col-md-6 col-md-offset-3">
-              <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BjxyrYJhww3/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:260px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:36.80555555555556% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BjxyrYJhww3/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Marina Pospelova-Ezhevskaya (@marina.pospelova.7)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-06-08T21:00:39+00:00">Jun 8, 2018 at 2:00pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
- 
-            </div>
-          </div>
-          
 
         </div>        
         

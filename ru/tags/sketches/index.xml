@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sketches on ProjectName</title>
+    <title>sketches on ProjectName</title>
     <link>https://www.marinart.de/ru/tags/sketches/</link>
-    <description>Recent content in Sketches on ProjectName</description>
+    <description>Recent content in sketches on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2013 18:28:35 +0100</lastBuildDate>
