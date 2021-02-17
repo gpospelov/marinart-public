@@ -5,21 +5,17 @@
     <link>https://www.marinart.de/albums/</link>
     <description>Recent content in Albums on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.marinart.de/albums/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.marinart.de/albums/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Munich</title>
       <link>https://www.marinart.de/albums/munich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.marinart.de/albums/munich/</guid>
-      <description>Luitpoldpark in March2020. Oil on canvas. 70x50
-&#34;Luitpoldpark in March2020. Oil on canvas. 70x50Autumn on Elisabethplatz2019. Watercolor on paper. 40x30
-&#34;Autumn on Elisabethplatz2019. Watercolor on paper. 40x30Schwabing in spring2019. Oil on canvas. 30x40
-&#34;Schwabing in spring2019. Oil on canvas. 30x40View from the studio2018.</description>
+      <description>In the old parc2020. Oil on carton. 26x24
+&#34;In the old parc2020. Oil on carton. 26x24On the Isar2020. Oil on carton. 26x19
+&#34;On the Isar2020. Oil on carton. 26x19Im Englischen Garten2020. Oil on carton. 27x27
+&#34;Im Englischen Garten2020. Oil on carton. 27x27Bridge over the Isar2020.</description>
     </item>
     
     <item>
@@ -53,10 +49,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.marinart.de/albums/composition/</guid>
-      <description>Dance of Demeter2020. Oil on canvas. 120x80
+      <description>Dolphins in Venice2020. Watercolor on paper. 38x56
+&#34;Dolphins in Venice2020. Watercolor on paper. 38x56Dance of Demeter2020. Oil on canvas. 120x80
 &#34;Dance of Demeter2020. Oil on canvas. 120x80Dance of Demeter2020. Oil on canvas. Fragment
-&#34;Dance of Demeter2020. Oil on canvas. FragmentRed sunflower2017. Mixed technique, canvas. 80x60
-&#34;Red sunflower2017. Mixed technique, canvas. 80x60Annunciation of Mary2015. Oil on canvas.</description>
+&#34;Dance of Demeter2020. Oil on canvas. FragmentRed sunflower2017. Mixed technique, canvas.</description>
     </item>
     
     <item>
@@ -65,11 +61,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.marinart.de/albums/still-life/</guid>
-      <description>Old coffe machine2018. Oil on canvas. 60x40
+      <description>Portuguese roses2021. Acryl on canvas. 30x30
+&#34;Portuguese roses2021. Acryl on canvas. 30x30Old coffe machine2018. Oil on canvas. 60x40
 &#34;Old coffe machine2018. Oil on canvas. 60x40Bunch of roses2017. Oil on canvas. 40x40
-&#34;Bunch of roses2017. Oil on canvas. 40x40Cyclamen2015. Oil on canvas. 50x70
-&#34;Cyclamen2015. Oil on canvas. 50x70Magnolia2015. Oil on canvas. 50x70
-&#34;Magnolia2015.</description>
+&#34;Bunch of roses2017. Oil on canvas. 40x40Cyclamen2015. Oil on canvas. 50x70</description>
     </item>
     
     <item>
@@ -91,10 +86,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.marinart.de/albums/portrait/</guid>
-      <description>Girl in orange2020. Oil on canvas. 50x50
-&#34;Girl in orange2020. Oil on canvas. 50x50The girl on a stone. Tribute to Picasso.2020. Watercolor on paper. 37x55
-&#34;The girl on a stone. Tribute to Picasso.2020. Watercolor on paper. 37x55Daniel Mendelson2020. Oil on canvas. 50x40
-&#34;Daniel Mendelson2020. Oil on canvas. 50x40Travel to Hogwarts2019.</description>
+      <description>Heraklius from Greece2020. Sauce on paper. 40x50
+&#34;Heraklius from Greece2020. Sauce on paper. 40x50Lets play in the snow!2020. Watercolor on paper. 31x41
+&#34;Lets play in the snow!2020. Watercolor on paper. 31x41Snezhana2020. Oil on canvas. 30x40
+&#34;Snezhana2020. Oil on canvas. 30x40Robert2020. Oil on canvas.</description>
     </item>
     
     <item>
@@ -127,10 +122,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.marinart.de/albums/water-color-nature/</guid>
-      <description>Elephant in blue weightlessness (jodymacdonaldphotography)2019. Watercolor on paper. 50x40
-&#34;Elephant in blue weightlessness (jodymacdonaldphotography)2019. Watercolor on paper. 50x40Lionesse2019. Watercolor on paper. 30x40
-&#34;Lionesse2019. Watercolor on paper. 30x40Sad dog2019. Watercolor on paper. 50x40
-&#34;Sad dog2019. Watercolor on paper. 50x40Burro in spring2019. Watercolor on paper.</description>
+      <description>Angry cat2021. Watercolor on paper. 31x23
+&#34;Angry cat2021. Watercolor on paper. 31x23Koala2021. Watercolor on paper. 23x31
+&#34;Koala2021. Watercolor on paper. 23x31Black kitten2021. Watercolor on paper. 31x23
+&#34;Black kitten2021. Watercolor on paper. 31x23Young fox2020. Watercolor on paper. 23x31
+&#34;Young fox2020. Watercolor on paper.</description>
     </item>
     
     <item>
@@ -228,6 +224,43 @@
 &#34;Cologne Cathedral2019. Watercolor on paper. 31x41Cologne, city hall in the evening2019. Watercolor on paper. 23x31
 &#34;Cologne, city hall in the evening2019. Watercolor on paper. 23x31Cologne, St. Martin church in the evening2019. Watercolor on paper. 23x31
 &#34;Cologne, St. Martin church in the evening2019. Watercolor on paper.</description>
+    </item>
+    
+    <item>
+      <title>Letters</title>
+      <link>https://www.marinart.de/albums/letters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marinart.de/albums/letters/</guid>
+      <description>Letter F2019. Ink/paper. a4
+&#34;Letter F2019. Ink/paper. a4Letter L2019. Ink/paper. a4
+&#34;Letter L2019. Ink/paper. a4Letter E2019. Ink/paper. a4
+&#34;Letter E2019. Ink/paper. a4Letter O2019. Ink/paper. a4
+&#34;Letter O2019. Ink/paper. a4Letter T2019. Ink/paper. a4</description>
+    </item>
+    
+    <item>
+      <title>Portugal</title>
+      <link>https://www.marinart.de/albums/portugal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marinart.de/albums/portugal/</guid>
+      <description>Dunes and ocean, Foz do Arelho2020. Watercolor on paper. 31x23
+&#34;Dunes and ocean, Foz do Arelho2020. Watercolor on paper. 31x23Dunes and ocean, Foz do Arelho2020. Watercolor on paper. Fragment
+&#34;Dunes and ocean, Foz do Arelho2020. Watercolor on paper. FragmentDunes and ocean, Foz do Arelho2020. Watercolor on paper. Fragment
+&#34;Dunes and ocean, Foz do Arelho2020.</description>
+    </item>
+    
+    <item>
+      <title>Inktober</title>
+      <link>https://www.marinart.de/albums/inktober/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marinart.de/albums/inktober/</guid>
+      <description>Fish. Inktober 2020. Day 1.2020. Ink/paper. a4
+&#34;Fish. Inktober 2020. Day 1.2020. Ink/paper. a4Wisp. Inktober 2020. Day 2.2020. Ink/paper. a4
+&#34;Wisp. Inktober 2020. Day 2.2020. Ink/paper. a4Bulky. Inktober 2020. Day 3.2020. Ink/paper. a4
+&#34;Bulky. Inktober 2020. Day 3.2020. Ink/paper. a4Radio. Inktober 2020.</description>
     </item>
     
   </channel>
