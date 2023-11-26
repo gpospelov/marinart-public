@@ -5,6 +5,9 @@
     <link>https://www.marinart.de/de/collection/</link>
     <description>Recent content on ProjectName</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.marinart.de/de/collection/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language>
+    <managingEditor>marinytch@gmail.com</managingEditor>
+    <webMaster>marinytch@gmail.com</webMaster>
+    <atom:link href="https://www.marinart.de/de/collection/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

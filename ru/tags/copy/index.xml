@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>copy on ProjectName</title>
+    <link>https://www.marinart.de/ru/tags/copy/</link>
+    <description>Recent content in copy on ProjectName</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <managingEditor>marinytch@gmail.com</managingEditor>
+    <webMaster>marinytch@gmail.com</webMaster>
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.marinart.de/ru/tags/copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Нюрнберг, копия</title>
+      <link>https://www.marinart.de/ru/journal/2021/post-2021-01-16/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/journal/2021/post-2021-01-16/</guid>
+      <description> Nurnberg, copy 2021. Акварель. 40x30 Nurnberg, copy 2021. Акварель. 40x30 </description>
+    </item>
+    <item>
+      <title>Мюнхен, копия</title>
+      <link>https://www.marinart.de/ru/journal/2021/post-2021-01-15/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/journal/2021/post-2021-01-15/</guid>
+      <description> Munich, copy 2021. Акварель. 40x30 Munich, copy 2021. Акварель. 40x30 </description>
+    </item>
+  </channel>
+</rss>
