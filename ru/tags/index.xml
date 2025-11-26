@@ -2,152 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ProjectName</title>
-    <link>http://localhost:1313/ru/tags/</link>
+    <link>https://www.marinart.de/ru/tags/</link>
     <description>Recent content in Tags on ProjectName</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <managingEditor>marinytch@gmail.com</managingEditor>
     <webMaster>marinytch@gmail.com</webMaster>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.marinart.de/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Landscape</title>
-      <link>http://localhost:1313/ru/tags/landscape/</link>
+      <link>https://www.marinart.de/ru/tags/landscape/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/landscape/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Animalism</title>
-      <link>http://localhost:1313/ru/tags/animalism/</link>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/animalism/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portrait</title>
-      <link>http://localhost:1313/ru/tags/portrait/</link>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/portrait/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Water-Color</title>
-      <link>http://localhost:1313/ru/tags/water-color/</link>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/water-color/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Still-Life</title>
-      <link>http://localhost:1313/ru/tags/still-life/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/still-life/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gravure</title>
-      <link>http://localhost:1313/ru/tags/gravure/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/gravure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oil-on-Canvas</title>
-      <link>http://localhost:1313/ru/tags/oil-on-canvas/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/oil-on-canvas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Illustration</title>
-      <link>http://localhost:1313/ru/tags/illustration/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/illustration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Composition</title>
-      <link>http://localhost:1313/ru/tags/composition/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/composition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Munich</title>
-      <link>http://localhost:1313/ru/tags/munich/</link>
-      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/munich/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Acryl-on-Canvas</title>
-      <link>http://localhost:1313/ru/tags/acryl-on-canvas/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/acryl-on-canvas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Copy</title>
-      <link>http://localhost:1313/ru/tags/copy/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/copy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sauce-on-Paper</title>
-      <link>http://localhost:1313/ru/tags/sauce-on-paper/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/sauce-on-paper/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Graphics</title>
-      <link>http://localhost:1313/ru/tags/graphics/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/graphics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ink-on-Paper</title>
-      <link>http://localhost:1313/ru/tags/ink-on-paper/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/ink-on-paper/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sketches</title>
-      <link>http://localhost:1313/ru/tags/sketches/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/sketches/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oil-on-Carton</title>
-      <link>http://localhost:1313/ru/tags/oil-on-carton/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/oil-on-carton/</guid>
+      <guid>https://www.marinart.de/ru/tags/landscape/</guid>
       <description></description>
     </item>
     <item>
       <title>Pencil-on-Paper</title>
-      <link>http://localhost:1313/ru/tags/pencil-on-paper/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/pencil-on-paper/</guid>
+      <link>https://www.marinart.de/ru/tags/pencil-on-paper/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/pencil-on-paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portrait</title>
+      <link>https://www.marinart.de/ru/tags/portrait/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/portrait/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animalism</title>
+      <link>https://www.marinart.de/ru/tags/animalism/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/animalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Water-Color</title>
+      <link>https://www.marinart.de/ru/tags/water-color/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/water-color/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gravure</title>
+      <link>https://www.marinart.de/ru/tags/gravure/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/gravure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Illustration</title>
+      <link>https://www.marinart.de/ru/tags/illustration/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/illustration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Still-Life</title>
+      <link>https://www.marinart.de/ru/tags/still-life/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/still-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oil-on-Canvas</title>
+      <link>https://www.marinart.de/ru/tags/oil-on-canvas/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/oil-on-canvas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Composition</title>
+      <link>https://www.marinart.de/ru/tags/composition/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/composition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Munich</title>
+      <link>https://www.marinart.de/ru/tags/munich/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/munich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acryl-on-Canvas</title>
+      <link>https://www.marinart.de/ru/tags/acryl-on-canvas/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/acryl-on-canvas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copy</title>
+      <link>https://www.marinart.de/ru/tags/copy/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/copy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sauce-on-Paper</title>
+      <link>https://www.marinart.de/ru/tags/sauce-on-paper/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/sauce-on-paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graphics</title>
+      <link>https://www.marinart.de/ru/tags/graphics/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/graphics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ink-on-Paper</title>
+      <link>https://www.marinart.de/ru/tags/ink-on-paper/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/ink-on-paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sketches</title>
+      <link>https://www.marinart.de/ru/tags/sketches/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/sketches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oil-on-Carton</title>
+      <link>https://www.marinart.de/ru/tags/oil-on-carton/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate><author>marinytch@gmail.com</author>
+      <guid>https://www.marinart.de/ru/tags/oil-on-carton/</guid>
       <description></description>
     </item>
     <item>
       <title>Model</title>
-      <link>http://localhost:1313/ru/tags/model/</link>
+      <link>https://www.marinart.de/ru/tags/model/</link>
       <pubDate>Sun, 01 Mar 2020 09:00:00 +0100</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/model/</guid>
+      <guid>https://www.marinart.de/ru/tags/model/</guid>
       <description></description>
     </item>
     <item>
       <title>Gobelin</title>
-      <link>http://localhost:1313/ru/tags/gobelin/</link>
+      <link>https://www.marinart.de/ru/tags/gobelin/</link>
       <pubDate>Fri, 15 Feb 2013 18:28:35 +0100</pubDate><author>marinytch@gmail.com</author>
-      <guid>http://localhost:1313/ru/tags/gobelin/</guid>
+      <guid>https://www.marinart.de/ru/tags/gobelin/</guid>
       <description></description>
     </item>
   </channel>
